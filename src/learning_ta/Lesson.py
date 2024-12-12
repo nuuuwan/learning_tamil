@@ -42,7 +42,7 @@ class Lesson:
         ):
             iso_line = T11e.ta_to_iso(ta_line)
             lines.extend(
-                ["## " + ta_line, "", iso_line, "", en_line, "---", ""]
+                ["## " + ta_line, "", iso_line, "", en_line, "", "---", ""]
             )
 
         return lines
