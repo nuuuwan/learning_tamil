@@ -1,3 +1,5 @@
+import sys
+
 from utils import Log
 
 from learning_ta import Lesson
@@ -6,7 +8,7 @@ from news import NewsArticle
 log = Log("build_lessons")
 
 
-def main():
+def main(limit: int):
     news_article_list = NewsArticle.list_all()
     ta_news_article_list = [
         news_article
@@ -14,8 +16,7 @@ def main():
         if news_article.original_lang == "ta"
     ]
     log.debug(f"Found {len(ta_news_article_list):,} Tamil news articles")
-    LIMIT = 1
-    latest_ta_news_article_list = ta_news_article_list[:LIMIT]
+    latest_ta_news_article_list = ta_news_article_list[:limit]
     log.debug(
         f"Building lessons for {len(latest_ta_news_article_list):,} articles"
     )
@@ -28,4 +29,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    limit = int(sys.argv[1])
+    main(limit)
