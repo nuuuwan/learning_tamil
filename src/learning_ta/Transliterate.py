@@ -4,7 +4,7 @@
 from learning_ta.TA_TO_ISO import TA_TO_ISO
 
 
-class T11e:
+class Transliterate:
     @staticmethod
     def ta_to_iso(ta: str) -> str:
         iso = []
