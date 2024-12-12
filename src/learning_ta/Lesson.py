@@ -32,6 +32,7 @@ class Lesson:
         return [
             "",
             f"`{self.news_article.time_str}`",
+            "",
             f"[{self.news_article.url}]({self.news_article.url})",
             "",
         ]
