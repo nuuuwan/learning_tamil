@@ -8,7 +8,7 @@ from utils import File, Log
 from learning_ta.Translator import Translator
 from learning_ta.Transliterate import Transliterate
 from news import NewsArticle
-from utils_future import Markdown
+from utils_future import List, Markdown
 
 log = Log("Lesson")
 
@@ -33,9 +33,7 @@ class Lesson:
 
     @property
     def md_path(self) -> str:
-        return os.path.join(
-            "data", "lessons", f"[{self.date}] {self.title}.md"
-        )
+        return os.path.join("data", "lessons", f"[{self.date}] {self.title}.md")
 
     @property
     def lines_article_data(self) -> list[str]:
@@ -63,7 +61,7 @@ class Lesson:
         translator: Translator, ta_line: str
     ) -> list[str]:
         ta_words = ta_line.split(" ")
-        ta_words = list(set(ta_words))
+        ta_words = List(ta_words).unique().raw
 
         cell_list_list = []
         i_row = 0
