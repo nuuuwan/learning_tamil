@@ -12,17 +12,17 @@
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**கவனயீர்ப்பு**|KaVaṈaYīRPPu|*Attention*
-2|**போராட்டம்**|PōRāṬṬaM|*Struggle*
-3|**பயங்கரவாத**|”PaYaṄKaRaVāTa|*Terrorist*
-4|**அலுவலகம்**|ALuVaLaKaM|*Office*
-5|**ஐ நா**|Ai.Nā|*I na*
-6|**சட்டங்களை**|CaṬṬaṄKaḶai|*Laws*
-7|**நீக்கு**|NīKKu”|*Eliminate*
-8|**தடைச்சட்டம்**|TaṬaiCCaṬṬaM|*Law of law*
-9|**உடன்**|UṬaṈ|*By*
-10|**ஒடுக்குமுறைச்**|OṬuKKuMuṞaiC|*Oppression*
-11|**உள்ளிட்ட**|UḶḶiṬṬa|*Enclosed*
+1|**ஐ நா**|Ai.Nā|*I na*
+2|**கவனயீர்ப்பு**|KaVaṈaYīRPPu|*Attention*
+3|**சட்டங்களை**|CaṬṬaṄKaḶai|*Laws*
+4|**உள்ளிட்ட**|UḶḶiṬṬa|*Enclosed*
+5|**நீக்கு**|NīKKu”|*Eliminate*
+6|**தடைச்சட்டம்**|TaṬaiCCaṬṬaM|*Law of law*
+7|**அலுவலகம்**|ALuVaLaKaM|*Office*
+8|**போராட்டம்**|PōRāṬṬaM|*Struggle*
+9|**ஒடுக்குமுறைச்**|OṬuKKuMuṞaiC|*Oppression*
+10|**பயங்கரவாத**|”PaYaṄKaRaVāTa|*Terrorist*
+11|**உடன்**|UṬaṈ|*By*
 12|**முன்பாக**|MuṈPāKa|*Anterior*
 
 ---
@@ -35,30 +35,30 @@ CaRVaTēCa MaṈiTa URiMaiKaḶ TiṈaTTai MuṈṈiṬṬu KoḺuMPiLuḶḶa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**போராட்டத்தில்**|PōRāṬṬaTTiL|*In the struggle*
-2|**மனித**|MaṈiTa|*Human*
-3|**நீக்கப்பட**|NīKKaPPaṬa|*Be removed*
-4|**அமைப்பினர்**|AMaiPPiṈaR,|*Organization*
-5|**கவனயீர்ப்புப்**|KaVaṈaYīRPPuP|*Attention order*
-6|**உரிமைகள்**|URiMaiKaḶ|*Rights*
-7|**வடக்கு**|VaṬaKKu|*North*
-8|**வேண்டும்**|VēṆṬuM|*Should*
-9|**வலியுறுத்தினர்**|VaLiYuṞuTTiṈaR.|*Stressed*
-10|**உடனடியாக**|UṬaṈaṬiYāKa|*Instantly*
-11|**தடைச்சட்டம்**|TaṬaiCCaṬṬaM|*Law of law*
-12|**அலுவலகத்துக்கு**|ALuVaLaKaTTuKKu|*To the office*
-13|**தெற்கு**|TeṞKu|*South*
-14|**சட்டங்கள்**|CaṬṬaṄKaḶ|*Laws*
-15|**தினத்தை முன்னிட்டு கொழும்பிலுள்ள**|TiṈaTTai MuṈṈiṬṬu KoḺuMPiLuḶḶa|*In Colombo*
-16|**சகோதரத்துவம்**|CaKōTaRaTTuVaM|*Brotherhood*
-17|**ஈடுபட்ட**|ĪṬuPaṬṬa|*Rich*
-18|**பயங்கரவாதத்**|PaYaṄKaRaVāTaT|*Terrorism*
-19|**என**|EṈa|*As*
-20|**முன்பாக**|MuṈPāKa|*Anterior*
-21|**ஒடுக்குமுறை**|OṬuKKuMuṞai|*Repression*
-22|**ஐ நா**|Ai.Nā|*I na*
-23|**சர்வதேச**|CaRVaTēCa|*International*
-24|**உள்ளிட்ட**|UḶḶiṬṬa|*Enclosed*
+1|**ஐ நா**|Ai.Nā|*I na*
+2|**உள்ளிட்ட**|UḶḶiṬṬa|*Enclosed*
+3|**என**|EṈa|*As*
+4|**தடைச்சட்டம்**|TaṬaiCCaṬṬaM|*Law of law*
+5|**பயங்கரவாதத்**|PaYaṄKaRaVāTaT|*Terrorism*
+6|**அமைப்பினர்**|AMaiPPiṈaR,|*Organization*
+7|**ஈடுபட்ட**|ĪṬuPaṬṬa|*Rich*
+8|**வடக்கு**|VaṬaKKu|*North*
+9|**உடனடியாக**|UṬaṈaṬiYāKa|*Instantly*
+10|**சட்டங்கள்**|CaṬṬaṄKaḶ|*Laws*
+11|**கவனயீர்ப்புப்**|KaVaṈaYīRPPuP|*Attention order*
+12|**ஒடுக்குமுறை**|OṬuKKuMuṞai|*Repression*
+13|**தினத்தை முன்னிட்டு கொழும்பிலுள்ள**|TiṈaTTai MuṈṈiṬṬu KoḺuMPiLuḶḶa|*In Colombo*
+14|**நீக்கப்பட**|NīKKaPPaṬa|*Be removed*
+15|**முன்பாக**|MuṈPāKa|*Anterior*
+16|**போராட்டத்தில்**|PōRāṬṬaTTiL|*In the struggle*
+17|**சகோதரத்துவம்**|CaKōTaRaTTuVaM|*Brotherhood*
+18|**சர்வதேச**|CaRVaTēCa|*International*
+19|**உரிமைகள்**|URiMaiKaḶ|*Rights*
+20|**தெற்கு**|TeṞKu|*South*
+21|**மனித**|MaṈiTa|*Human*
+22|**அலுவலகத்துக்கு**|ALuVaLaKaTTuKKu|*To the office*
+23|**வேண்டும்**|VēṆṬuM|*Should*
+24|**வலியுறுத்தினர்**|VaLiYuṞuTTiṈaR.|*Stressed*
 
 ---
 
@@ -70,32 +70,32 @@ CaRVaTēCa MaṈiTa URiMaiKaḶ TiṈaTTai MuṈṈiṬṬu NēṞṞu CeVVāYKK
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
-2|**மனித**|MaṈiTa|*Human*
-3|**உரிமைகள்**|URiMaiKaḶ|*Rights*
-4|**வடக்கு**|VaṬaKKu|*North*
-5|**ஐக்கிய**|AiKKiYa|*State*
-6|**தினத்தை**|TiṈaTTai|*Day on*
-7|**செய்யப்பட்டிருந்தது**|CeYYaPPaṬṬiRuNTaTu.|*Was made of*
-8|**நேற்று**|NēṞṞu|*Yesterday*
-9|**போராட்டமொன்று**|PōRāṬṬaMoṈṞu|*A struggle*
-10|**அலுவலகத்துக்கு**|ALuVaLaKaTTuKKu|*To the office*
-11|**கவனயீர்ப்பு**|KaVaṈaYīRPPu|*Attention*
-12|**நாடுகள்**|NāṬuKaḶ|*States*
-13|**தெற்கு**|TeṞKu|*South*
-14|**வெளிப்படுத்தி**|VeḶiPPaṬuTTi|*Disclose*
-15|**செவ்வாய்க்கிழமை**|CeVVāYKKiḺaMai|*Tuesday*
-16|**சகோதரத்துவம்**|CaKōTaRaTTuVaM|*Brotherhood*
-17|**உரிமைகள்சார்**|URiMaiKaḶCāR|*Bureaucracy*
-18|**அமைப்பினால்**|AMaiPPiṈāL|*By organization*
-19|**கரிசனைகளை**|KaRiCaṈaiKaḶai|*Compasses*
-20|**முன்பாக**|MuṈPāKa|*Anterior*
-21|**கொழும்பிலுள்ள**|KoḺuMPiLuḶḶa|*In Colombo*
-22|**எனும்**|EṈuM|*As*
-23|**நிலவும்**|NiLaVuM|*Prevail*
-24|**சர்வதேச**|CaRVaTēCa|*International*
-25|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
-26|**நாட்டில்**|NāṬṬiL|*Country*
+1|**கவனயீர்ப்பு**|KaVaṈaYīRPPu|*Attention*
+2|**அமைப்பினால்**|AMaiPPiṈāL|*By organization*
+3|**போராட்டமொன்று**|PōRāṬṬaMoṈṞu|*A struggle*
+4|**செவ்வாய்க்கிழமை**|CeVVāYKKiḺaMai|*Tuesday*
+5|**நேற்று**|NēṞṞu|*Yesterday*
+6|**வடக்கு**|VaṬaKKu|*North*
+7|**வெளிப்படுத்தி**|VeḶiPPaṬuTTi|*Disclose*
+8|**செய்யப்பட்டிருந்தது**|CeYYaPPaṬṬiRuNTaTu.|*Was made of*
+9|**எனும்**|EṈuM|*As*
+10|**கரிசனைகளை**|KaRiCaṈaiKaḶai|*Compasses*
+11|**உரிமைகள்சார்**|URiMaiKaḶCāR|*Bureaucracy*
+12|**ஐக்கிய**|AiKKiYa|*State*
+13|**நாட்டில்**|NāṬṬiL|*Country*
+14|**முன்பாக**|MuṈPāKa|*Anterior*
+15|**கொழும்பிலுள்ள**|KoḺuMPiLuḶḶa|*In Colombo*
+16|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
+17|**சகோதரத்துவம்**|CaKōTaRaTTuVaM|*Brotherhood*
+18|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
+19|**சர்வதேச**|CaRVaTēCa|*International*
+20|**தினத்தை**|TiṈaTTai|*Day on*
+21|**உரிமைகள்**|URiMaiKaḶ|*Rights*
+22|**தெற்கு**|TeṞKu|*South*
+23|**மனித**|MaṈiTa|*Human*
+24|**அலுவலகத்துக்கு**|ALuVaLaKaTTuKKu|*To the office*
+25|**நாடுகள்**|NāṬuKaḶ|*States*
+26|**நிலவும்**|NiLaVuM|*Prevail*
 
 ---
 
@@ -107,52 +107,52 @@ IPPōRāṬṬaTTiL KaLaNTuKoṆṬōR 'PaYaṄKaRaVāTa TaṬaiCCaṬṬaTTai N
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**கலந்துகொண்டோர்**|KaLaNTuKoṆṬōR|*Attending*
-2|**தொடர்பில்**|ToṬaRPiL|*Connection*
-3|**சமூகத்தின்**|CaMūKaTTiṈ|*Social*
-4|**அரசாங்கத்தினால்**|ARaCāṄKaTTiṈāL|*By the government*
-5|**போராட்டத்தில்**|PōRāṬṬaTTiL|*In the struggle*
-6|**சட்டங்களை**|CaṬṬaṄKaḶai|*Laws*
-7|**ரணில்**|RaṆiL|*Runhil*
-8|**'பயங்கரவாத**|'PaYaṄKaRaVāTa|*'Terrorist*
-9|**கொண்டுவரப்பட்ட**|KoṆṬuVaRaPPaṬṬa|*Brought*
-10|**கவனயீர்ப்புப்**|KaVaṈaYīRPPuP|*Attention order*
-11|**உறுதிப்படுத்து'**|UṞuTiPPaṬuTTu',|*Confirm '*
-12|**'உயிர்**|'UYiR|*'Vowel*
-13|**செய்'**|CeY',|*Do 'do'*
-14|**காணாமலாக்கப்பட்டோர்**|KāṆāMaLāKKaPPaṬṬōR|*Missing*
-15|**ஈடுபட்டனர்**|ĪṬuPaṬṬaṈaR.|*Were involved*
-16|**அடக்குமுறைச்**|AṬaKKuMuṞaiC|*Oppression*
-17|**'கோட்டா**|'KōṬṬā|*'Kota*
-18|**வாழ்வதற்கான**|VāḺVaTaṞKāṈa|*Lives*
-19|**உரிமைகளை**|URiMaiKaḶai|*Rights*
-20|**விடுதலை**|ViṬuTaLai|*Release*
-21|**உடனடியாக**|UṬaṈaṬiYāKa|*Instantly*
-22|**ஏந்தியவாறு**|ĒNTiYaVāṞu|*Carry*
-23|**'உயிர்த்த**|'UYiRTTa|*'Vowel*
-24|**வழங்கு'**|VaḺaṄKu',|*Provide '*
-25|**பாதிக்கப்பட்டோருக்கு**|PāTiKKaPPaṬṬōRuKKu|*To victims*
-26|**'பால்புதுமையின**|'PāLPuTuMaiYiṈa|*'Milk*
-27|**சட்டத்தை**|CaṬṬaTTai|*Law*
-28|**'நிகழ்நிலைக்**|'NiKaḺNiLaiK|*'The present day*
-29|**தாக்குதல்களால்**|TāKKuTaLKaḶāL|*By attacks*
-30|**'அரசியல்**|'ARaCiYaL|*'Politics*
-31|**தினத்**|TiṈaT|*Daily*
-32|**ஞாயிறு**|ÑāYiṞu|*Sunfire*
-33|**நீதியை**|NīTiYai|*Righteousness*
-34|**உரிமையை**|URiMaiYai|*Right*
-35|**பதாதைகளை**|PaTāTaiKaḶai|*Downstream*
-36|**உறுதிப்படுத்து'**|UṞuTiPPaṬuTTu'|*Confirm '*
-37|**எனும்**|EṈuM|*As*
-38|**கைதிகளை**|KaiTiKaḶai|*Prisoners*
-39|**வாசகங்கள்**|VāCaKaṄKaḶ|*Text*
-40|**தடைச்சட்டத்தை**|TaṬaiCCaṬṬaTTai|*Barrier*
-41|**காப்புச்**|KāPPuC|*Backup*
-42|**'வலிந்து**|'VaLiNTu|*'Painted*
-43|**எழுதப்பட்ட**|EḺuTaPPaṬṬa|*Written*
-44|**நீக்கு'**|NīKKu',|*To eliminate '*
-45|**நிலைநாட்டு'**|NiLaiNāṬṬu',|*Standing '*
-46|**இப்போராட்டத்தில்**|IPPōRāṬṬaTTiL|*In this struggle*
+1|**காப்புச்**|KāPPuC|*Backup*
+2|**சட்டங்களை**|CaṬṬaṄKaḶai|*Laws*
+3|**'பால்புதுமையின**|'PāLPuTuMaiYiṈa|*'Milk*
+4|**பதாதைகளை**|PaTāTaiKaḶai|*Downstream*
+5|**நீக்கு'**|NīKKu',|*To eliminate '*
+6|**செய்'**|CeY',|*Do 'do'*
+7|**'கோட்டா**|'KōṬṬā|*'Kota*
+8|**'உயிர்**|'UYiR|*'Vowel*
+9|**உரிமைகளை**|URiMaiKaḶai|*Rights*
+10|**ஈடுபட்டனர்**|ĪṬuPaṬṬaṈaR.|*Were involved*
+11|**தாக்குதல்களால்**|TāKKuTaLKaḶāL|*By attacks*
+12|**இப்போராட்டத்தில்**|IPPōRāṬṬaTTiL|*In this struggle*
+13|**விடுதலை**|ViṬuTaLai|*Release*
+14|**தினத்**|TiṈaT|*Daily*
+15|**தொடர்பில்**|ToṬaRPiL|*Connection*
+16|**எழுதப்பட்ட**|EḺuTaPPaṬṬa|*Written*
+17|**உடனடியாக**|UṬaṈaṬiYāKa|*Instantly*
+18|**வாசகங்கள்**|VāCaKaṄKaḶ|*Text*
+19|**ஏந்தியவாறு**|ĒNTiYaVāṞu|*Carry*
+20|**தடைச்சட்டத்தை**|TaṬaiCCaṬṬaTTai|*Barrier*
+21|**கலந்துகொண்டோர்**|KaLaNTuKoṆṬōR|*Attending*
+22|**கவனயீர்ப்புப்**|KaVaṈaYīRPPuP|*Attention order*
+23|**உரிமையை**|URiMaiYai|*Right*
+24|**ரணில்**|RaṆiL|*Runhil*
+25|**உறுதிப்படுத்து'**|UṞuTiPPaṬuTTu'|*Confirm '*
+26|**ஞாயிறு**|ÑāYiṞu|*Sunfire*
+27|**எனும்**|EṈuM|*As*
+28|**நீதியை**|NīTiYai|*Righteousness*
+29|**அரசாங்கத்தினால்**|ARaCāṄKaTTiṈāL|*By the government*
+30|**வாழ்வதற்கான**|VāḺVaTaṞKāṈa|*Lives*
+31|**காணாமலாக்கப்பட்டோர்**|KāṆāMaLāKKaPPaṬṬōR|*Missing*
+32|**சமூகத்தின்**|CaMūKaTTiṈ|*Social*
+33|**போராட்டத்தில்**|PōRāṬṬaTTiL|*In the struggle*
+34|**பாதிக்கப்பட்டோருக்கு**|PāTiKKaPPaṬṬōRuKKu|*To victims*
+35|**வழங்கு'**|VaḺaṄKu',|*Provide '*
+36|**அடக்குமுறைச்**|AṬaKKuMuṞaiC|*Oppression*
+37|**'நிகழ்நிலைக்**|'NiKaḺNiLaiK|*'The present day*
+38|**'பயங்கரவாத**|'PaYaṄKaRaVāTa|*'Terrorist*
+39|**நிலைநாட்டு'**|NiLaiNāṬṬu',|*Standing '*
+40|**சட்டத்தை**|CaṬṬaTTai|*Law*
+41|**கைதிகளை**|KaiTiKaḶai|*Prisoners*
+42|**உறுதிப்படுத்து'**|UṞuTiPPaṬuTTu',|*Confirm '*
+43|**கொண்டுவரப்பட்ட**|KoṆṬuVaRaPPaṬṬa|*Brought*
+44|**'அரசியல்**|'ARaCiYaL|*'Politics*
+45|**'உயிர்த்த**|'UYiRTTa|*'Vowel*
+46|**'வலிந்து**|'VaLiNTu|*'Painted*
 
 ---
 
@@ -164,29 +164,29 @@ IPPōRāṬṬaM KuṞiTTuK KaRuTTu VeḶiYiṬṬa VaṬaKKu - TeṞKu CaKōTaR
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**வெளிப்படுத்தும்**|VeḶiPPaṬuTTuM|*Revealing*
-2|**மனித**|MaṈiTa|*Human*
-3|**பெரேரா**|PeRēRā,|*Perera*
-4|**வடக்கு**|VaṬaKKu|*North*
-5|**தெரிவித்தார்**|TeRiViTTāR.|*Stated*
-6|**நோக்கிலேயே**|NōKKiLēYē|*In view*
-7|**குறித்துக்**|KuṞiTTuK|*Mark*
-8|**இப்போராட்டத்தை**|IPPōRāṬṬaTTai|*This struggle*
-9|**வெளியிட்ட**|VeḶiYiṬṬa|*Published*
-10|**முன்னெடுத்திருப்பதாக**|MuṈṈeṬuTTiRuPPaTāKa|*Have carried out*
-11|**சட்டத்தரணி**|CaṬṬaTTaRaṆi|*Lawyer*
-12|**தெற்கு**|TeṞKu|*South*
-13|**இப்போராட்டம்**|IPPōRāṬṬaM|*This struggle*
-14|**சகோதரத்துவம்**|CaKōTaRaTTuVaM|*Brotherhood*
-15|**உரிமைகள்சார்**|URiMaiKaḶCāR|*Bureaucracy*
-16|**ஸ்ரீநாத்**|SRīNāT|*Srinath*
-17|**கரிசனைகளை**|KaRiCaṈaiKaḶai|*Compasses*
-18|**எனும்**|EṈuM|*As*
-19|**நிலவும்**|NiLaVuM|*Prevail*
-20|**ஒருங்கிணைப்பாளர்**|ORuṄKiṆaiPPāḶaR|*Coordinator*
-21|**கருத்து**|KaRuTTu|*Opinion*
-22|**அமைப்பின்**|AMaiPPiṈ|*Organization of*
-23|**நாட்டில்**|NāṬṬiL|*Country*
+1|**நோக்கிலேயே**|NōKKiLēYē|*In view*
+2|**ஸ்ரீநாத்**|SRīNāT|*Srinath*
+3|**முன்னெடுத்திருப்பதாக**|MuṈṈeṬuTTiRuPPaTāKa|*Have carried out*
+4|**தெரிவித்தார்**|TeRiViTTāR.|*Stated*
+5|**வடக்கு**|VaṬaKKu|*North*
+6|**பெரேரா**|PeRēRā,|*Perera*
+7|**வெளிப்படுத்தும்**|VeḶiPPaṬuTTuM|*Revealing*
+8|**அமைப்பின்**|AMaiPPiṈ|*Organization of*
+9|**எனும்**|EṈuM|*As*
+10|**கரிசனைகளை**|KaRiCaṈaiKaḶai|*Compasses*
+11|**குறித்துக்**|KuṞiTTuK|*Mark*
+12|**உரிமைகள்சார்**|URiMaiKaḶCāR|*Bureaucracy*
+13|**நாட்டில்**|NāṬṬiL|*Country*
+14|**வெளியிட்ட**|VeḶiYiṬṬa|*Published*
+15|**இப்போராட்டம்**|IPPōRāṬṬaM|*This struggle*
+16|**கருத்து**|KaRuTTu|*Opinion*
+17|**சகோதரத்துவம்**|CaKōTaRaTTuVaM|*Brotherhood*
+18|**தெற்கு**|TeṞKu|*South*
+19|**இப்போராட்டத்தை**|IPPōRāṬṬaTTai|*This struggle*
+20|**மனித**|MaṈiTa|*Human*
+21|**சட்டத்தரணி**|CaṬṬaTTaRaṆi|*Lawyer*
+22|**நிலவும்**|NiLaVuM|*Prevail*
+23|**ஒருங்கிணைப்பாளர்**|ORuṄKiṆaiPPāḶaR|*Coordinator*
 
 ---
 
@@ -198,35 +198,35 @@ ATTōṬu KaṬaNTa ARaCāṄKaTTiṈāL KoṆṬuVaRaPPaṬṬa AṬaKKuMuṞai
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**சுட்டிக்காட்டிய**|CuṬṬiKKāṬṬiYa|*Pointed*
-2|**அரசாங்கத்தினால்**|ARaCāṄKaTTiṈāL|*By the government*
-3|**பிரயோகிக்கும்**|PiRaYōKiKKuM|*Applied*
-4|**சட்டங்களை**|CaṬṬaṄKaḶai|*Laws*
-5|**நீக்குவதாகக்**|NīKKuVaTāKaK|*Deleting*
-6|**வருவதாக**|VaRuVaTāKa|*Coming*
-7|**கொண்டுவரப்பட்ட**|KoṆṬuVaRaPPaṬṬa|*Brought*
-8|**அரசாங்கம்**|ARaCāṄKaM,|*Government*
-9|**கூறி**|KūṞi|*Claiming*
-10|**முன்னெடுக்கவில்லை**|MuṈṈeṬuKKaViLLai|*Did not carry out*
-11|**அவர்**|AVaR,|*He*
-12|**அதனை**|ATaṈai|*Over*
-13|**தற்போதைய**|TaṞPōTaiYa|*Current*
-14|**இன்னமும்**|IṈṈaMuM|*Still*
-15|**நடவடிக்கையில்**|NaṬaVaṬiKKaiYiL|*In action*
-16|**அடக்குமுறைச்**|AṬaKKuMuṞaiC|*Oppression*
-17|**கடந்த**|KaṬaNTa|*Past*
-18|**மாறாக**|MāṞāKa|*Virtually*
-19|**எதனையும்**|ETaṈaiYuM|*Anything*
-20|**முன்னிறுத்திய**|MuṈṈiṞuTTiYa|*Concluded*
-21|**நடவடிக்கைகள்**|NaṬaVaṬiKKaiKaḶ|*Activities*
-22|**ஈடுபட்டு**|ĪṬuPaṬṬu|*Engaged*
-23|**எனச்**|EṈaC|*As*
-24|**அத்தோடு**|ATTōṬu|*As well as*
-25|**விசனம்**|ViCaṈaM|*Sorrow*
-26|**பயங்கரவாதத்**|PaYaṄKaRaVāTaT|*Terrorism*
-27|**தடைச்சட்டத்தை**|TaṬaiCCaṬṬaTTai|*Barrier*
-28|**ஆட்சிபீடமேறிய**|ĀṬCiPīṬaMēṞiYa|*Regime*
-29|**வெளியிட்டார்**|VeḶiYiṬṬāR.|*Published*
+1|**சட்டங்களை**|CaṬṬaṄKaḶai|*Laws*
+2|**அவர்**|AVaR,|*He*
+3|**ஆட்சிபீடமேறிய**|ĀṬCiPīṬaMēṞiYa|*Regime*
+4|**அத்தோடு**|ATTōṬu|*As well as*
+5|**பயங்கரவாதத்**|PaYaṄKaRaVāTaT|*Terrorism*
+6|**வெளியிட்டார்**|VeḶiYiṬṬāR.|*Published*
+7|**முன்னிறுத்திய**|MuṈṈiṞuTTiYa|*Concluded*
+8|**தடைச்சட்டத்தை**|TaṬaiCCaṬṬaTTai|*Barrier*
+9|**விசனம்**|ViCaṈaM|*Sorrow*
+10|**வருவதாக**|VaRuVaTāKa|*Coming*
+11|**சுட்டிக்காட்டிய**|CuṬṬiKKāṬṬiYa|*Pointed*
+12|**எனச்**|EṈaC|*As*
+13|**அரசாங்கத்தினால்**|ARaCāṄKaTTiṈāL|*By the government*
+14|**எதனையும்**|ETaṈaiYuM|*Anything*
+15|**ஈடுபட்டு**|ĪṬuPaṬṬu|*Engaged*
+16|**நடவடிக்கையில்**|NaṬaVaṬiKKaiYiL|*In action*
+17|**நீக்குவதாகக்**|NīKKuVaTāKaK|*Deleting*
+18|**அதனை**|ATaṈai|*Over*
+19|**அரசாங்கம்**|ARaCāṄKaM,|*Government*
+20|**மாறாக**|MāṞāKa|*Virtually*
+21|**அடக்குமுறைச்**|AṬaKKuMuṞaiC|*Oppression*
+22|**தற்போதைய**|TaṞPōTaiYa|*Current*
+23|**இன்னமும்**|IṈṈaMuM|*Still*
+24|**நடவடிக்கைகள்**|NaṬaVaṬiKKaiKaḶ|*Activities*
+25|**கொண்டுவரப்பட்ட**|KoṆṬuVaRaPPaṬṬa|*Brought*
+26|**கடந்த**|KaṬaNTa|*Past*
+27|**முன்னெடுக்கவில்லை**|MuṈṈeṬuKKaViLLai|*Did not carry out*
+28|**கூறி**|KūṞi|*Claiming*
+29|**பிரயோகிக்கும்**|PiRaYōKiKKuM|*Applied*
 
 ---
 
@@ -238,24 +238,24 @@ MēLuM, YāRāKa IRuNTāLuM, ENTaVoRu CaNTaRPPaTTiLuM PaYaṄKaRaVāTa TaṬaiCC
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**என்பதே**|EṈPaTē|*That*
-2|**சந்தர்ப்பத்திலும்**|CaNTaRPPaTTiLuM|*In case of*
-3|**வலியுறுத்தினார்**|VaLiYuṞuTTiṈāR.|*Stressed*
-4|**அவர்**|AVaR|*He*
+1|**இருந்தாலும்**|IRuNTāLuM,|*Though*
+2|**மேலும்**|MēLuM,|*And*
+3|**சந்தர்ப்பத்திலும்**|CaNTaRPPaTTiLuM|*In case of*
+4|**தடைச்சட்டம்**|TaṬaiCCaṬṬaM|*Law of law*
 5|**அச்சட்டம்**|ACCaṬṬaM|*Clamp*
-6|**மேலும்**|MēLuM,|*And*
+6|**வலியுறுத்தினார்**|VaLiYuṞuTTiṈāR.|*Stressed*
 7|**நிலைப்பாடு**|NiLaiPPāṬu|*Stance*
-8|**யாராக**|YāRāKa|*To whom*
-9|**ஆகவே**|ĀKaVē|*So*
-10|**நீக்கப்படவேண்டும்**|NīKKaPPaṬaVēṆṬuM|*To be removed*
-11|**எந்தவொரு**|ENTaVoRu|*Any*
-12|**தடைச்சட்டம்**|TaṬaiCCaṬṬaM|*Law of law*
+8|**அவர்**|AVaR|*He*
+9|**என்றும்**|EṈṞuM|*Ever*
+10|**எந்தவொரு**|ENTaVoRu|*Any*
+11|**முழுமையாக**|MuḺuMaiYāKa|*Fully*
+12|**ஆகவே**|ĀKaVē|*So*
 13|**பயங்கரவாத**|PaYaṄKaRaVāTa|*Terrorist*
-14|**என்றும்**|EṈṞuM,|*Ever*
-15|**இருந்தாலும்**|IRuNTāLuM,|*Though*
-16|**என்றும்**|EṈṞuM|*Ever*
-17|**தமது**|TaMaTu|*Their*
-18|**பயன்படுத்தப்படக்கூடாது**|PaYaṈPaṬuTTaPPaṬaKKūṬāTu|*Should not be used*
-19|**முழுமையாக**|MuḺuMaiYāKa|*Fully*
+14|**தமது**|TaMaTu|*Their*
+15|**என்றும்**|EṈṞuM,|*Ever*
+16|**யாராக**|YāRāKa|*To whom*
+17|**பயன்படுத்தப்படக்கூடாது**|PaYaṈPaṬuTTaPPaṬaKKūṬāTu|*Should not be used*
+18|**என்பதே**|EṈPaTē|*That*
+19|**நீக்கப்படவேண்டும்**|NīKKaPPaṬaVēṆṬuM|*To be removed*
 
 ---
