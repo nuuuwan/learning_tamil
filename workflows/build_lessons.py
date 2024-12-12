@@ -9,7 +9,7 @@ def main():
         for news_article in news_article_list
         if news_article.original_lang == "ta"
     ]
-    LIMIT = 1
+    LIMIT = 10
     latest_ta_news_article_list = ta_news_article_list[:LIMIT]
     lesson_list = [
         Lesson.from_news_article(news_article)
