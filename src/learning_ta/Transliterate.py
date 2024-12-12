@@ -7,19 +7,20 @@ from learning_ta.TA_TO_ISO import TA_TO_ISO
 class Transliterate:
     @staticmethod
     def ta_to_iso(ta: str) -> str:
-        iso = []
+        iso_list = []
         i = 0
         while i < len(ta):
             match = None
             for j in range(len(ta), i, -1):
                 substring = ta[i:j]
                 if substring in TA_TO_ISO:
-                    match = TA_TO_ISO[substring].title()
+                    match = TA_TO_ISO[substring]
                     i = j - 1
                     break
             if match:
-                iso.append(match)
+                prefix = "-" if iso_list and iso_list[-1].strip() else ""
+                iso_list.append(prefix + match)
             else:
-                iso.append(ta[i])
+                iso_list.append(ta[i])
             i += 1
-        return "".join(iso)
+        return "".join(iso_list)
