@@ -79,6 +79,7 @@ class Lesson:
             ta_words.sort()
 
             cell_list_list = []
+            i_row = 0
             for ta_word in ta_words:
                 cleaned_ta_word = Lesson.clean(ta_word)
                 if not cleaned_ta_word:
@@ -88,9 +89,11 @@ class Lesson:
                 if not en_word:
                     continue
 
+                i_row += 1
                 iso_word = Transliterate.ta_to_iso(ta_word)
                 cell_list_list.append(
                     [
+                        str(i_row),
                         Markdown.bold(cleaned_ta_word),
                         iso_word,
                         Markdown.italic(en_word),
@@ -99,7 +102,12 @@ class Lesson:
 
             lines.append(
                 Markdown.table(
-                    [Markdown.bold("Tamil"), "ISO", Markdown.italic("English")],
+                    [
+                        "No.",
+                        Markdown.bold("Tamil"),
+                        "ISO",
+                        Markdown.italic("English"),
+                    ],
                     cell_list_list,
                 )
             )
