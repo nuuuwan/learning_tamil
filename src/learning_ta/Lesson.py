@@ -85,12 +85,17 @@ class Lesson:
                     en_word = translator[cleaned_ta_word]
                     iso_word = Transliterate.ta_to_iso(ta_word)
                     cell_list_list.append(
-                        [cleaned_ta_word, iso_word, Markdown.italic(en_word)]
+                        [
+                            Markdown.bold(cleaned_ta_word),
+                            iso_word,
+                            Markdown.italic(en_word),
+                        ]
                     )
 
             lines.append(
                 Markdown.table(
-                    ["Tamil", "ISO", Markdown.italic("English")], cell_list_list
+                    [Markdown.bold("Tamil"), "ISO", Markdown.italic("English")],
+                    cell_list_list,
                 )
             )
 

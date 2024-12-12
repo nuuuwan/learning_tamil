@@ -12,3 +12,8 @@ class Markdown:
     def italic(s: str) -> str:
         s = s.strip()
         return f"*{s}*"
+
+    @staticmethod
+    def bold(s: str) -> str:
+        s = s.strip()
+        return f"**{s}**"
