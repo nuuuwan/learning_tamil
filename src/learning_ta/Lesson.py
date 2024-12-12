@@ -103,8 +103,8 @@ class Lesson:
             lines.append(
                 Markdown.table(
                     [
-                        "No.",
-                        Markdown.bold("Tamil"),
+                        "எண்",
+                        Markdown.bold("தமிழ்"),
                         "ISO",
                         Markdown.italic("English"),
                     ],
