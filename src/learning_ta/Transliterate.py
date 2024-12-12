@@ -18,7 +18,7 @@ class Transliterate:
                     i = j - 1
                     break
             if match:
-                prefix = "-" if iso_list and iso_list[-1].strip() else ""
+                prefix = "·" if iso_list and iso_list[-1].strip() else ""
                 iso_list.append(prefix + match)
             else:
                 iso_list.append(ta[i])
