@@ -1,5 +1,5 @@
 # Ref: https://en.wikipedia.org/wiki/Tamil_script
-TA_TO_EN = {
+TA_TO_ISO = {
     "அ": "a",
     "ஆ": "ā",
     "இ": "i",
