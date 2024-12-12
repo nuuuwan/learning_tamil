@@ -14,12 +14,11 @@ class Transliterate:
             for j in range(len(ta), i, -1):
                 substring = ta[i:j]
                 if substring in TA_TO_ISO:
-                    match = TA_TO_ISO[substring]
+                    match = TA_TO_ISO[substring].title()
                     i = j - 1
                     break
             if match:
-                prefix = "·" if iso_list and iso_list[-1].strip() else ""
-                iso_list.append(prefix + match)
+                iso_list.append(match)
             else:
                 iso_list.append(ta[i])
             i += 1
