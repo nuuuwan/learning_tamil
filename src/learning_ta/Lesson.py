@@ -28,12 +28,11 @@ class Lesson:
         return os.path.join("data", "lessons", f"{self.news_article.hash}.md")
 
     @property
-    def lines_footer(self) -> list[str]:
+    def lines_article_data(self) -> list[str]:
         return [
             "",
-            f"* Hash: {self.news_article.hash}",
-            f"* Time: {self.news_article.time_str}",
-            f"* URL: [{self.news_article.url}]({self.news_article.url})",
+            f"`{self.news_article.time_str}`",
+            f"[{self.news_article.url}]({self.news_article.url})",
             "",
         ]
 
@@ -48,11 +47,48 @@ class Lesson:
 
         return s.strip()
 
+    @staticmethod
+    def get_dictionary_table_lines(
+        translator: Translator, ta_words: list[str]
+    ) -> list[str]:
+        cell_list_list = []
+        i_row = 0
+        for ta_word in ta_words:
+            cleaned_ta_word = Lesson.clean(ta_word)
+            if not cleaned_ta_word:
+                continue
+            en_word = translator[cleaned_ta_word]
+            if not en_word:
+                continue
+
+            i_row += 1
+            iso_word = Transliterate.ta_to_iso(ta_word)
+            cell_list_list.append(
+                [
+                    str(i_row),
+                    Markdown.bold(cleaned_ta_word),
+                    iso_word,
+                    Markdown.italic(en_word),
+                ]
+            )
+
+        return [
+            Markdown.table(
+                [
+                    "எண்",
+                    Markdown.bold("தமிழ்"),
+                    "ISO",
+                    Markdown.italic("English"),
+                ],
+                cell_list_list,
+            )
+        ]
+
     @property
     def lines(self) -> list[str]:
         lines = [
             f"# {self.news_article.original_title}",
-        ]
+        ] + self.lines_article_data
 
         translator = Translator("ta", "en")
         for ta_line, en_line in zip(
@@ -77,44 +113,11 @@ class Lesson:
             ta_words = ta_line.split(" ")
             ta_words = list(set(ta_words))
             ta_words.sort()
-
-            cell_list_list = []
-            i_row = 0
-            for ta_word in ta_words:
-                cleaned_ta_word = Lesson.clean(ta_word)
-                if not cleaned_ta_word:
-                    continue
-
-                en_word = translator[cleaned_ta_word]
-                if not en_word:
-                    continue
-
-                i_row += 1
-                iso_word = Transliterate.ta_to_iso(ta_word)
-                cell_list_list.append(
-                    [
-                        str(i_row),
-                        Markdown.bold(cleaned_ta_word),
-                        iso_word,
-                        Markdown.italic(en_word),
-                    ]
-                )
-
-            lines.append(
-                Markdown.table(
-                    [
-                        "எண்",
-                        Markdown.bold("தமிழ்"),
-                        "ISO",
-                        Markdown.italic("English"),
-                    ],
-                    cell_list_list,
-                )
-            )
+            lines += self.get_dictionary_table_lines(translator, ta_words)
 
             lines.extend(["", "---", ""])
 
-        return lines + self.lines_footer
+        return lines
 
     def write(self):
         File(self.md_path).write_lines(self.lines)
