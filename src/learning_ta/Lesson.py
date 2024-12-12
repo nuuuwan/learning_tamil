@@ -24,8 +24,16 @@ class Lesson:
         )
 
     @property
+    def date(self) -> str:
+        return self.news_article.time_str[:10]
+
+    @property
+    def title(self) -> str:
+        return Lesson.clean(self.news_article.en_title[:48]).replace(" ", "-")
+
+    @property
     def md_path(self) -> str:
-        return os.path.join("data", "lessons", f"{self.news_article.hash}.md")
+        return os.path.join("data", "lessons", f"[{self.date}] {self.title}.md")
 
     @property
     def lines_article_data(self) -> list[str]:

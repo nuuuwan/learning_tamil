@@ -13,10 +13,10 @@ TīViRa CiKiCCaiP PiRiViL CiVāJiLiṄKaM AṈuMaTi
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
 1|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-2|**பிரிவில்**|PiRiViL|*Segment*
+2|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
 3|**தீவிர**|TīViRa|*Sore*
-4|**அனுமதி**|AṈuMaTi|*Admission*
-5|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
+4|**பிரிவில்**|PiRiViL|*Segment*
+5|**அனுமதி**|AṈuMaTi|*Admission*
 
 ---
 
@@ -28,24 +28,24 @@ CuKaYīṈaM KāRaṆaMāKa MuṈṈāḶ PāRāḶuMaṈṞa UṞuPPiṈaR EM. 
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**எம்**|EM.|*M.*
-2|**சுகயீனம்**|CuKaYīṈaM|*Indigenous*
-3|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-4|**உறவினர்கள்**|UṞaViṈaRKaḶ|*Relatives*
-5|**உறுப்பினர்**|UṞuPPiṈaR|*Member*
-6|**பாராளுமன்ற**|PāRāḶuMaṈṞa|*Parliament*
+1|**தெரிவித்துள்ளனர்**|TeRiViTTuḶḶaṈaR.|*Reported*
+2|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+3|**பிரிவில்**|PiRiViL|*Segment*
+4|**கே**|Kē.|*K*
+5|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
+6|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
 7|**தீவிர**|TīViRa|*Sore*
-8|**காரணமாக**|KāRaṆaMāKa|*Produce*
-9|**பிரிவில்**|PiRiViL|*Segment*
+8|**சுகயீனம்**|CuKaYīṈaM|*Indigenous*
+9|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
 10|**அனுமதிக்கப்பட்டுள்ளதாக**|AṈuMaTiKKaPPaṬṬuḶḶaTāKa|*As permitted*
-11|**தெரிவித்துள்ளனர்**|TeRiViTTuḶḶaṈaR.|*Reported*
-12|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-13|**கே**|Kē.|*K*
-14|**உள்ள**|UḶḶa|*Existing*
-15|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-16|**முன்னாள்**|MuṈṈāḶ|*Ex*
-17|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
-18|**தனியார்**|TaṈiYāR|*Private*
+11|**எம்**|EM.|*M.*
+12|**காரணமாக**|KāRaṆaMāKa|*Produce*
+13|**உறுப்பினர்**|UṞuPPiṈaR|*Member*
+14|**உறவினர்கள்**|UṞaViṈaRKaḶ|*Relatives*
+15|**உள்ள**|UḶḶa|*Existing*
+16|**பாராளுமன்ற**|PāRāḶuMaṈṞa|*Parliament*
+17|**தனியார்**|TaṈiYāR|*Private*
+18|**முன்னாள்**|MuṈṈāḶ|*Ex*
 
 ---
 
@@ -57,20 +57,20 @@ TaMiḺT TēCiYaK KaṬCiYiṈ PoTuCCeYaLāḶaRāṈa CiVāJiLiṄKaM KoḺuMPu
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-2|**உடல்**|UṬaL|*Body*
-3|**கொழும்புக்கு**|KoḺuMPuKKu|*To Colombo*
-4|**மருத்துவ**|MaRuTTuVa|*Clinical*
-5|**நிலை**|NiLai|*Position*
+1|**உடல்**|UṬaL|*Body*
+2|**கட்சியின்**|KaṬCiYiṈ|*Party*
+3|**நிலையில்**|NiLaiYiL|*In place*
+4|**நிலை**|NiLai|*Position*
+5|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
 6|**பொதுச்செயலாளரான**|PoTuCCeYaLāḶaRāṈa|*General*
-7|**கட்சியின்**|KaṬCiYiṈ|*Party*
-8|**நிலையில்**|NiLaiYiL|*In place*
-9|**தேசியக்**|TēCiYaK|*National*
-10|**பாதிப்புக்குள்ளானார்**|PāTiPPuKKuḶḶāṈāR.|*Having vulnerable*
-11|**பரிசோனைக்காகச்**|PaRiCōṈaiKKāKaC|*Chase*
-12|**சென்றிருந்த**|CeṈṞiRuNTa|*Visited*
-13|**தமிழ்த்**|TaMiḺT|*Tamil*
-14|**திடீரென**|TiṬīReṈa|*Suddenly*
+7|**மருத்துவ**|MaRuTTuVa|*Clinical*
+8|**திடீரென**|TiṬīReṈa|*Suddenly*
+9|**பரிசோனைக்காகச்**|PaRiCōṈaiKKāKaC|*Chase*
+10|**தேசியக்**|TēCiYaK|*National*
+11|**கொழும்புக்கு**|KoḺuMPuKKu|*To Colombo*
+12|**தமிழ்த்**|TaMiḺT|*Tamil*
+13|**பாதிப்புக்குள்ளானார்**|PāTiPPuKKuḶḶāṈāR.|*Having vulnerable*
+14|**சென்றிருந்த**|CeṈṞiRuNTa|*Visited*
 
 ---
 
@@ -82,19 +82,19 @@ ITaṈai AṬuTTu KoḺuMPiL AMaiNTuḶḶa TaṈiYāR VaiTTiYaCāLaiYiL AṈuMa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
-2|**இதனை**|ITaṈai|*This*
-3|**சிகிச்சை**|CiKiCCai|*Treatment*
-4|**அனுமதிக்கப்பட்டு**|AṈuMaTiKKaPPaṬṬu|*Permitted*
+1|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+2|**சிகிச்சை**|CiKiCCai|*Treatment*
+3|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
+4|**குறிப்பிடத்தக்கது**|KuṞiPPiṬaTTaKKaTu.|*Notable*
 5|**தீவிர**|TīViRa|*Sore*
-6|**பிரிவில்**|PiRiViL|*Segment*
+6|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
 7|**வருகின்றமை**|VaRuKiṈṞaMai|*Visiting*
-8|**குறிப்பிடத்தக்கது**|KuṞiPPiṬaTTaKKaTu.|*Notable*
-9|**அடுத்து**|AṬuTTu|*Next*
-10|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-11|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-12|**பெற்று**|PeṞṞu|*Obtaining*
-13|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
-14|**தனியார்**|TaṈiYāR|*Private*
+8|**இதனை**|ITaṈai|*This*
+9|**பெற்று**|PeṞṞu|*Obtaining*
+10|**அடுத்து**|AṬuTTu|*Next*
+11|**பிரிவில்**|PiRiViL|*Segment*
+12|**அனுமதிக்கப்பட்டு**|AṈuMaTiKKaPPaṬṬu|*Permitted*
+13|**தனியார்**|TaṈiYāR|*Private*
+14|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
 
 ---
