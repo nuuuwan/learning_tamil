@@ -1,18 +1,18 @@
-# முன்னாள் அமைச்சர் தற்கொலைக்கு முயற்சி
+# முன்னாள் அமைச்சர் தற்கொலை முயற்சி
 
-[https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலைக்கு-முயற்சி/50-348578](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலைக்கு-முயற்சி/50-348578)
+[https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலை-முயற்சி/50-348578](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலை-முயற்சி/50-348578)
 
 `2024-12-11 12:06:07`
 
-## முன்னாள் அமைச்சர் தற்கொலைக்கு முயற்சி
+## முன்னாள் அமைச்சர் தற்கொலை முயற்சி
 
-MuṈṈāḶ AMaiCCaR TaṞKoLaiKKu MuYaṞCi
+MuṈṈāḶ AMaiCCaR TaṞKoLai MuYaṞCi
 
-*Attempt to commit suicide*
+*Former minister suicide attempt*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தற்கொலைக்கு**|TaṞKoLaiKKu|*Suicide*
+1|**தற்கொலை**|TaṞKoLai|*Suicide*
 2|**முயற்சி**|MuYaṞCi|*Attempt*
 3|**முன்னாள்**|MuṈṈāḶ|*Ex*
 4|**அமைச்சர்**|AMaiCCaR|*Cabinet*
@@ -23,7 +23,7 @@ MuṈṈāḶ AMaiCCaR TaṞKoLaiKKu MuYaṞCi
 
 TeṈKoRiYāViL AVaCaRaNiLai IRāṆuVaC CaṬṬaTTuKKu PaRiNTuRaiTTaTaṞKāKa KaiTāṈa ANNāṬṬiṈ MuṈṈāḶ PāTuKāPPu AMaiCCaR KiM YāṄ HaYūṈ CiṞaiYiL TaṈ UYiRaiMāYTTuKKoḶḶa MuYaṞCiTTuḶḶāR.
 
-*Former Defense Minister Kim Yang Huen, who has been arrested for recommending the Emergency Military Act in South Korea, has tried to make his life in the jail.*
+*Former Defense Minister Kim Yang Hune, who has been arrested for recommending the Emergency Military Act in South Korea, has tried to make his life in the jail.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -51,7 +51,7 @@ TeṈKoRiYāViL AVaCaRaNiLai IRāṆuVaC CaṬṬaTTuKKu PaRiNTuRaiTTaTaṞKāKa
 
 TeṈKoRiYāViL AVaCaRaNiLai IRāṆuVaC CaṬṬaM AṆMaiYiL KoṆṬuVaRaPPaṬṬa NiLaiYiL, KaṬuM ETiRPPuKKu PiṈṈā் TiRuMPaP PeṞaPPaṬṬaTu. INTaP PaRiNTuRaiYai JaṈāTiPaTi YūṈ CuK IYōLuKKu AḶiTTa KuṞṞaCCāṬṬiL MuṈṈāḶ PāTuKāPPu AMaiCCā் KiM YāṄ HaYūṈ ÑāYiṞṞuKKiḺaMai KaiTu CeYYaPPaṬṬāR.
 
-*With the recently enacted Emergency Military Act in South Korea. Former security Sanchak Kim Yang Huen was arrested on Sunday on charges of making the recommendation to President Yun Suk Iol.*
+*With the recently enacted Emergency Military Act in South Korea. Former security Sanchak Kim Yang Huen was arrested on Sunday for allegedly making the recommendation to President Yun Suk Iol.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
