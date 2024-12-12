@@ -31,9 +31,9 @@ class Lesson:
     def lines_article_data(self) -> list[str]:
         return [
             "",
-            f"`{self.news_article.time_str}`",
-            "",
             f"[{self.news_article.url}]({self.news_article.url})",
+            "",
+            f"`{self.news_article.time_str}`",
             "",
         ]
 
