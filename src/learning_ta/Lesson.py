@@ -113,7 +113,7 @@ class Lesson:
 
             ta_words = ta_line.split(" ")
             ta_words = list(set(ta_words))
-            ta_words.sort()
+
             lines += self.get_dictionary_table_lines(translator, ta_words)
 
             lines.extend(["", "---", ""])
