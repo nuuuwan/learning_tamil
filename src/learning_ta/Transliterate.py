@@ -14,8 +14,7 @@ class Transliterate:
             for j in range(len(ta), i, -1):
                 substring = ta[i:j]
                 if substring in TA_TO_ISO:
-                    iso = TA_TO_ISO[substring]
-                    match = f"{substring}`{iso}`  "
+                    match = TA_TO_ISO[substring].upper()
                     i = j - 1
                     break
             if match:

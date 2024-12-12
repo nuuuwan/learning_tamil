@@ -6,138 +6,138 @@
 
 ## இரத்தினக்கல் அகழ்ந்த அறுவர் கைது
 
-இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`   அ`a`  க`ka`  ழ்`ḻ`  ந்`n`  த`ta`   அ`a`  று`ṟu`  வ`va`  ர்`r`   கை`kai`  து`tu`  
+IRATTIṈAKKAL AKAḺNTA AṞUVAR KAITU
 
 *Gem arrest*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**கைது**|கை`kai`  து`tu`  |*Arrest*
-2|**அறுவர்**|அ`a`  று`ṟu`  வ`va`  ர்`r`  |*Humans*
-3|**அகழ்ந்த**|அ`a`  க`ka`  ழ்`ḻ`  ந்`n`  த`ta`  |*Exclusive*
-4|**இரத்தினக்கல்**|இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`  |*Gow*
+1|**அறுவர்**|AṞUVAR|*Humans*
+2|**இரத்தினக்கல்**|IRATTIṈAKKAL|*Gow*
+3|**கைது**|KAITU|*Arrest*
+4|**அகழ்ந்த**|AKAḺNTA|*Exclusive*
 
 ---
 
 ## அனுமதிப்பத்திரம் இன்றி சட்டவிரோதமான முறையில் இரத்தினக்கல் தோண்டிய ஆறு சந்தேக நபர்களை ஹட்டன்  பொலிஸ் ஊழல் ஒழிப்பு பிரிவின் அதிகாரிகள் கைது செய்துள்ளனர்.
 
-அ`a`  னு`ṉu`  ம`ma`  தி`ti`  ப்`p`  ப`pa`  த்`t`  தி`ti`  ர`ra`  ம்`m`   இ`i`  ன்`ṉ`  றி`ṟi`   ச`ca`  ட்`ṭ`  ட`ṭa`  வி`vi`  ரோ`rō`  த`ta`  மா`mā`  ன`ṉa`   மு`mu`  றை`ṟai`  யி`yi`  ல்`l`   இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`   தோ`tō`  ண்`ṇ`  டி`ṭi`  ய`ya`   ஆ`ā`  று`ṟu`   ச`ca`  ந்`n`  தே`tē`  க`ka`   ந`na`  ப`pa`  ர்`r`  க`ka`  ளை`ḷai`   ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`    பொ`po`  லி`li`  ஸ்`s`   ஊ`ū`  ழ`ḻa`  ல்`l`   ஒ`o`  ழி`ḻi`  ப்`p`  பு`pu`   பி`pi`  ரி`ri`  வி`vi`  ன்`ṉ`   அ`a`  தி`ti`  கா`kā`  ரி`ri`  க`ka`  ள்`ḷ`   கை`kai`  து`tu`   செ`ce`  ய்`y`  து`tu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .
+AṈUMATIPPATTIRAM IṈṞI CAṬṬAVIRŌTAMĀṈA MUṞAIYIL IRATTIṈAKKAL TŌṆṬIYA ĀṞU CANTĒKA NAPARKAḶAI HAṬṬAṈ  POLIS ŪḺAL OḺIPPU PIRIVIṈ ATIKĀRIKAḶ KAITU CEYTUḶḶAṈAR.
 
 *Officials of the Hatton Police Anti -Corruption Unit have arrested six suspects who illegally excavated gems without permission.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**ஊழல்**|ஊ`ū`  ழ`ḻa`  ல்`l`  |*Corruption*
-2|**பிரிவின்**|பி`pi`  ரி`ri`  வி`vi`  ன்`ṉ`  |*Division*
-3|**இன்றி**|இ`i`  ன்`ṉ`  றி`ṟi`  |*Without*
-4|**கைது**|கை`kai`  து`tu`  |*Arrest*
-5|**சந்தேக**|ச`ca`  ந்`n`  தே`tē`  க`ka`  |*Suspicious*
-6|**அதிகாரிகள்**|அ`a`  தி`ti`  கா`kā`  ரி`ri`  க`ka`  ள்`ḷ`  |*Officers*
-7|**அனுமதிப்பத்திரம்**|அ`a`  னு`ṉu`  ம`ma`  தி`ti`  ப்`p`  ப`pa`  த்`t`  தி`ti`  ர`ra`  ம்`m`  |*Admission*
-8|**பொலிஸ்**| பொ`po`  லி`li`  ஸ்`s`  |*Police*
-9|**நபர்களை**|ந`na`  ப`pa`  ர்`r`  க`ka`  ளை`ḷai`  |*Persons*
-10|**இரத்தினக்கல்**|இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`  |*Gow*
-11|**தோண்டிய**|தோ`tō`  ண்`ṇ`  டி`ṭi`  ய`ya`  |*Excavated*
-12|**செய்துள்ளனர்**|செ`ce`  ய்`y`  து`tu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .|*Have done*
-13|**ஹட்டன்**|ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`  |*Hatton*
-14|**முறையில்**|மு`mu`  றை`ṟai`  யி`yi`  ல்`l`  |*Manner*
-15|**ஒழிப்பு**|ஒ`o`  ழி`ḻi`  ப்`p`  பு`pu`  |*Abusing*
-16|**சட்டவிரோதமான**|ச`ca`  ட்`ṭ`  ட`ṭa`  வி`vi`  ரோ`rō`  த`ta`  மா`mā`  ன`ṉa`  |*Illegal*
-17|**ஆறு**|ஆ`ā`  று`ṟu`  |*Six*
+1|**பிரிவின்**|PIRIVIṈ|*Division*
+2|**செய்துள்ளனர்**|CEYTUḶḶAṈAR.|*Have done*
+3|**நபர்களை**|NAPARKAḶAI|*Persons*
+4|**ஒழிப்பு**|OḺIPPU|*Abusing*
+5|**ஆறு**|ĀṞU|*Six*
+6|**ஊழல்**|ŪḺAL|*Corruption*
+7|**அனுமதிப்பத்திரம்**|AṈUMATIPPATTIRAM|*Admission*
+8|**சட்டவிரோதமான**|CAṬṬAVIRŌTAMĀṈA|*Illegal*
+9|**ஹட்டன்**|HAṬṬAṈ|*Hatton*
+10|**கைது**|KAITU|*Arrest*
+11|**இன்றி**|IṈṞI|*Without*
+12|**பொலிஸ்**| POLIS|*Police*
+13|**முறையில்**|MUṞAIYIL|*Manner*
+14|**இரத்தினக்கல்**|IRATTIṈAKKAL|*Gow*
+15|**சந்தேக**|CANTĒKA|*Suspicious*
+16|**அதிகாரிகள்**|ATIKĀRIKAḶ|*Officers*
+17|**தோண்டிய**|TŌṆṬIYA|*Excavated*
 
 ---
 
 ## ஹட்டன் நகரிலிருந்து காசல்ரி நீர்த்தேக்கத்திற்கு பாயும் டிக்கோயா கால்வாயில் இரத்தினக்கல் அகழ்ந்துகொண்டிருந்த அறுவரே கைது செய்யப்பட்டுள்ளனர். அவர்கள் இரத்தினக்கல் அகழ்வதற்கு பயன்படுத்திய உபகரணங்கள் சிலவற்றையும் கைப்பற்றியுள்ளனர்.
 
-ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`   ந`na`  க`ka`  ரி`ri`  லி`li`  ரு`ru`  ந்`n`  து`tu`   கா`kā`  ச`ca`  ல்`l`  ரி`ri`   நீ`nī`  ர்`r`  த்`t`  தே`tē`  க்`k`  க`ka`  த்`t`  தி`ti`  ற்`ṟ`  கு`ku`   பா`pā`  யு`yu`  ம்`m`   டி`ṭi`  க்`k`  கோ`kō`  யா`yā`   கா`kā`  ல்`l`  வா`vā`  யி`yi`  ல்`l`   இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`   அ`a`  க`ka`  ழ்`ḻ`  ந்`n`  து`tu`  கொ`ko`  ண்`ṇ`  டி`ṭi`  ரு`ru`  ந்`n`  த`ta`   அ`a`  று`ṟu`  வ`va`  ரே`rē`   கை`kai`  து`tu`   செ`ce`  ய்`y`  ய`ya`  ப்`p`  ப`pa`  ட்`ṭ`  டு`ṭu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  . அ`a`  வ`va`  ர்`r`  க`ka`  ள்`ḷ`   இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`   அ`a`  க`ka`  ழ்`ḻ`  வ`va`  த`ta`  ற்`ṟ`  கு`ku`   ப`pa`  ய`ya`  ன்`ṉ`  ப`pa`  டு`ṭu`  த்`t`  தி`ti`  ய`ya`   உ`u`  ப`pa`  க`ka`  ர`ra`  ண`ṇa`  ங்`ṅ`  க`ka`  ள்`ḷ`   சி`ci`  ல`la`  வ`va`  ற்`ṟ`  றை`ṟai`  யு`yu`  ம்`m`   கை`kai`  ப்`p`  ப`pa`  ற்`ṟ`  றி`ṟi`  யு`yu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .
+HAṬṬAṈ NAKARILIRUNTU KĀCALRI NĪRTTĒKKATTIṞKU PĀYUM ṬIKKŌYĀ KĀLVĀYIL IRATTIṈAKKAL AKAḺNTUKOṆṬIRUNTA AṞUVARĒ KAITU CEYYAPPAṬṬUḶḶAṈAR. AVARKAḶ IRATTIṈAKKAL AKAḺVATAṞKU PAYAṈPAṬUTTIYA UPAKARAṆAṄKAḶ CILAVAṞṞAIYUM KAIPPAṞṞIYUḶḶAṈAR.
 
 *Hatton has been arrested in the Dikoya Canal, which flows from Hatton to Casalry Reservoir. They have also seized some of the equipment used for excavation.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**உபகரணங்கள்**|உ`u`  ப`pa`  க`ka`  ர`ra`  ண`ṇa`  ங்`ṅ`  க`ka`  ள்`ḷ`  |*Equipment*
-2|**கால்வாயில்**|கா`kā`  ல்`l`  வா`vā`  யி`yi`  ல்`l`  |*Canal*
-3|**கைது**|கை`kai`  து`tu`  |*Arrest*
-4|**நகரிலிருந்து**|ந`na`  க`ka`  ரி`ri`  லி`li`  ரு`ru`  ந்`n`  து`tu`  |*From the city*
-5|**பயன்படுத்திய**|ப`pa`  ய`ya`  ன்`ṉ`  ப`pa`  டு`ṭu`  த்`t`  தி`ti`  ய`ya`  |*Applied*
-6|**அறுவரே**|அ`a`  று`ṟu`  வ`va`  ரே`rē`  |*Hardware*
-7|**இரத்தினக்கல்**|இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`  |*Gow*
-8|**அவர்கள்**|அ`a`  வ`va`  ர்`r`  க`ka`  ள்`ḷ`  |*They*
-9|**சிலவற்றையும்**|சி`ci`  ல`la`  வ`va`  ற்`ṟ`  றை`ṟai`  யு`yu`  ம்`m`  |*And some*
-10|**டிக்கோயா**|டி`ṭi`  க்`k`  கோ`kō`  யா`yā`  |*Tikoya*
-11|**காசல்ரி**|கா`kā`  ச`ca`  ல்`l`  ரி`ri`  |*Cabin*
-12|**ஹட்டன்**|ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`  |*Hatton*
-13|**அகழ்ந்துகொண்டிருந்த**|அ`a`  க`ka`  ழ்`ḻ`  ந்`n`  து`tu`  கொ`ko`  ண்`ṇ`  டி`ṭi`  ரு`ru`  ந்`n`  த`ta`  |*Excavated*
-14|**நீர்த்தேக்கத்திற்கு**|நீ`nī`  ர்`r`  த்`t`  தே`tē`  க்`k`  க`ka`  த்`t`  தி`ti`  ற்`ṟ`  கு`ku`  |*To the reservoir*
-15|**அகழ்வதற்கு**|அ`a`  க`ka`  ழ்`ḻ`  வ`va`  த`ta`  ற்`ṟ`  கு`ku`  |*In order to excavate*
-16|**கைப்பற்றியுள்ளனர்**|கை`kai`  ப்`p`  ப`pa`  ற்`ṟ`  றி`ṟi`  யு`yu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .|*Have seized*
-17|**செய்யப்பட்டுள்ளனர்**|செ`ce`  ய்`y`  ய`ya`  ப்`p`  ப`pa`  ட்`ṭ`  டு`ṭu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .|*Have been made*
-18|**பாயும்**|பா`pā`  யு`yu`  ம்`m`  |*Flowing*
+1|**சிலவற்றையும்**|CILAVAṞṞAIYUM|*And some*
+2|**அகழ்வதற்கு**|AKAḺVATAṞKU|*In order to excavate*
+3|**அவர்கள்**|AVARKAḶ|*They*
+4|**ஹட்டன்**|HAṬṬAṈ|*Hatton*
+5|**கால்வாயில்**|KĀLVĀYIL|*Canal*
+6|**கைது**|KAITU|*Arrest*
+7|**காசல்ரி**|KĀCALRI|*Cabin*
+8|**நகரிலிருந்து**|NAKARILIRUNTU|*From the city*
+9|**அகழ்ந்துகொண்டிருந்த**|AKAḺNTUKOṆṬIRUNTA|*Excavated*
+10|**பயன்படுத்திய**|PAYAṈPAṬUTTIYA|*Applied*
+11|**உபகரணங்கள்**|UPAKARAṆAṄKAḶ|*Equipment*
+12|**செய்யப்பட்டுள்ளனர்**|CEYYAPPAṬṬUḶḶAṈAR.|*Have been made*
+13|**கைப்பற்றியுள்ளனர்**|KAIPPAṞṞIYUḶḶAṈAR.|*Have seized*
+14|**பாயும்**|PĀYUM|*Flowing*
+15|**நீர்த்தேக்கத்திற்கு**|NĪRTTĒKKATTIṞKU|*To the reservoir*
+16|**டிக்கோயா**|ṬIKKŌYĀ|*Tikoya*
+17|**இரத்தினக்கல்**|IRATTIṈAKKAL|*Gow*
+18|**அறுவரே**|AṞUVARĒ|*Hardware*
 
 ---
 
 ## டிக்கோயா- வனராஜா தேயிலை தொழிற்சாலைக்கு பின்புறம் உள்ள டிக்கோயா கால்வாயில் சிலர் சட்டவிரோதமான முறையில் இரத்தினக்கல் அகழ்வதாக கிடைத்த தகவலையடுத்து ஹட்டன் பொலிஸார் சுற்றிவளைப்பு நடத்தி சந்தேக நபர்களை கைது செய்துள்ளனர்.
 
-டி`ṭi`  க்`k`  கோ`kō`  யா`yā`  - வ`va`  ன`ṉa`  ரா`rā`  ஜா`jā`   தே`tē`  யி`yi`  லை`lai`   தொ`to`  ழி`ḻi`  ற்`ṟ`  சா`cā`  லை`lai`  க்`k`  கு`ku`   பி`pi`  ன்`ṉ`  பு`pu`  ற`ṟa`  ம்`m`   உ`u`  ள்`ḷ`  ள`ḷa`   டி`ṭi`  க்`k`  கோ`kō`  யா`yā`   கா`kā`  ல்`l`  வா`vā`  யி`yi`  ல்`l`   சி`ci`  ல`la`  ர்`r`   ச`ca`  ட்`ṭ`  ட`ṭa`  வி`vi`  ரோ`rō`  த`ta`  மா`mā`  ன`ṉa`   மு`mu`  றை`ṟai`  யி`yi`  ல்`l`   இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`   அ`a`  க`ka`  ழ்`ḻ`  வ`va`  தா`tā`  க`ka`   கி`ki`  டை`ṭai`  த்`t`  த`ta`   த`ta`  க`ka`  வ`va`  லை`lai`  ய`ya`  டு`ṭu`  த்`t`  து`tu`   ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`   பொ`po`  லி`li`  ஸா`sā`  ர்`r`   சு`cu`  ற்`ṟ`  றி`ṟi`  வ`va`  ளை`ḷai`  ப்`p`  பு`pu`   ந`na`  ட`ṭa`  த்`t`  தி`ti`   ச`ca`  ந்`n`  தே`tē`  க`ka`   ந`na`  ப`pa`  ர்`r`  க`ka`  ளை`ḷai`   கை`kai`  து`tu`   செ`ce`  ய்`y`  து`tu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .
+ṬIKKŌYĀ- VAṈARĀJĀ TĒYILAI TOḺIṞCĀLAIKKU PIṈPUṞAM UḶḶA ṬIKKŌYĀ KĀLVĀYIL CILAR CAṬṬAVIRŌTAMĀṈA MUṞAIYIL IRATTIṈAKKAL AKAḺVATĀKA KIṬAITTA TAKAVALAIYAṬUTTU HAṬṬAṈ POLISĀR CUṞṞIVAḶAIPPU NAṬATTI CANTĒKA NAPARKAḶAI KAITU CEYTUḶḶAṈAR.
 
 *Hatton police have arrested the suspects after receiving information that some people were illegally excavated in the Tikoya Canal behind the Dikoya-Vanaraja Tea Factory.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**கால்வாயில்**|கா`kā`  ல்`l`  வா`vā`  யி`yi`  ல்`l`  |*Canal*
-2|**தொழிற்சாலைக்கு**|தொ`to`  ழி`ḻi`  ற்`ṟ`  சா`cā`  லை`lai`  க்`k`  கு`ku`  |*To the factory*
-3|**டிக்கோயா-**|டி`ṭi`  க்`k`  கோ`kō`  யா`yā`  -|*Tikoya-*
-4|**தகவலையடுத்து**|த`ta`  க`ka`  வ`va`  லை`lai`  ய`ya`  டு`ṭu`  த்`t`  து`tu`  |*Info*
-5|**உள்ள**|உ`u`  ள்`ḷ`  ள`ḷa`  |*Existing*
-6|**நபர்களை**|ந`na`  ப`pa`  ர்`r`  க`ka`  ளை`ḷai`  |*Persons*
-7|**அகழ்வதாக**|அ`a`  க`ka`  ழ்`ḻ`  வ`va`  தா`tā`  க`ka`  |*Excavated*
-8|**ஹட்டன்**|ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`  |*Hatton*
-9|**முறையில்**|மு`mu`  றை`ṟai`  யி`yi`  ல்`l`  |*Manner*
-10|**சுற்றிவளைப்பு**|சு`cu`  ற்`ṟ`  றி`ṟi`  வ`va`  ளை`ḷai`  ப்`p`  பு`pu`  |*Warship*
-11|**இரத்தினக்கல்**|இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  க்`k`  க`ka`  ல்`l`  |*Gow*
-12|**சிலர்**|சி`ci`  ல`la`  ர்`r`  |*Some people*
-13|**வனராஜா**|வ`va`  ன`ṉa`  ரா`rā`  ஜா`jā`  |*Wilderness*
-14|**கிடைத்த**|கி`ki`  டை`ṭai`  த்`t`  த`ta`  |*Got*
-15|**நடத்தி**|ந`na`  ட`ṭa`  த்`t`  தி`ti`  |*Conduct*
-16|**கைது**|கை`kai`  து`tu`  |*Arrest*
-17|**பின்புறம்**|பி`pi`  ன்`ṉ`  பு`pu`  ற`ṟa`  ம்`m`  |*Back*
-18|**சந்தேக**|ச`ca`  ந்`n`  தே`tē`  க`ka`  |*Suspicious*
-19|**பொலிஸார்**|பொ`po`  லி`li`  ஸா`sā`  ர்`r`  |*Police*
-20|**செய்துள்ளனர்**|செ`ce`  ய்`y`  து`tu`  ள்`ḷ`  ள`ḷa`  ன`ṉa`  ர்`r`  .|*Have done*
-21|**டிக்கோயா**|டி`ṭi`  க்`k`  கோ`kō`  யா`yā`  |*Tikoya*
-22|**தேயிலை**|தே`tē`  யி`yi`  லை`lai`  |*Tea*
-23|**சட்டவிரோதமான**|ச`ca`  ட்`ṭ`  ட`ṭa`  வி`vi`  ரோ`rō`  த`ta`  மா`mā`  ன`ṉa`  |*Illegal*
+1|**உள்ள**|UḶḶA|*Existing*
+2|**சிலர்**|CILAR|*Some people*
+3|**ஹட்டன்**|HAṬṬAṈ|*Hatton*
+4|**சட்டவிரோதமான**|CAṬṬAVIRŌTAMĀṈA|*Illegal*
+5|**சுற்றிவளைப்பு**|CUṞṞIVAḶAIPPU|*Warship*
+6|**அகழ்வதாக**|AKAḺVATĀKA|*Excavated*
+7|**வனராஜா**|VAṈARĀJĀ|*Wilderness*
+8|**தொழிற்சாலைக்கு**|TOḺIṞCĀLAIKKU|*To the factory*
+9|**நடத்தி**|NAṬATTI|*Conduct*
+10|**பொலிஸார்**|POLISĀR|*Police*
+11|**செய்துள்ளனர்**|CEYTUḶḶAṈAR.|*Have done*
+12|**தேயிலை**|TĒYILAI|*Tea*
+13|**டிக்கோயா**|ṬIKKŌYĀ|*Tikoya*
+14|**இரத்தினக்கல்**|IRATTIṈAKKAL|*Gow*
+15|**சந்தேக**|CANTĒKA|*Suspicious*
+16|**நபர்களை**|NAPARKAḶAI|*Persons*
+17|**கால்வாயில்**|KĀLVĀYIL|*Canal*
+18|**கைது**|KAITU|*Arrest*
+19|**டிக்கோயா-**|ṬIKKŌYĀ-|*Tikoya-*
+20|**தகவலையடுத்து**|TAKAVALAIYAṬUTTU|*Info*
+21|**பின்புறம்**|PIṈPUṞAM|*Back*
+22|**முறையில்**|MUṞAIYIL|*Manner*
+23|**கிடைத்த**|KIṬAITTA|*Got*
 
 ---
 
 ## கைது செய்யப்பட்ட சந்தேகநபர்கள் இரத்தினபுரி, கஹவத்தை, பலாங்கொடை, ஹட்டன் மற்றும் டிக்கோயா ஆகிய பிரதேசங்களைச் சேர்ந்த 25-40 வயதுக்குட்பட்டவர்கள் எனவும், கைது செய்யப்பட்ட சந்தேகநபர்கள் ஹட்டன் நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளதாகவும் சுற்றிவளைப்பை மேற்கொண்ட அதிகாரிகள் தெரிவித்தனர்.
 
-கை`kai`  து`tu`   செ`ce`  ய்`y`  ய`ya`  ப்`p`  ப`pa`  ட்`ṭ`  ட`ṭa`   ச`ca`  ந்`n`  தே`tē`  க`ka`  ந`na`  ப`pa`  ர்`r`  க`ka`  ள்`ḷ`   இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  பு`pu`  ரி`ri`  , க`ka`  ஹ`ha`  வ`va`  த்`t`  தை`tai`  , ப`pa`  லா`lā`  ங்`ṅ`  கொ`ko`  டை`ṭai`  , ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`   ம`ma`  ற்`ṟ`  று`ṟu`  ம்`m`   டி`ṭi`  க்`k`  கோ`kō`  யா`yā`   ஆ`ā`  கி`ki`  ய`ya`   பி`pi`  ர`ra`  தே`tē`  ச`ca`  ங்`ṅ`  க`ka`  ளை`ḷai`  ச்`c`   சே`cē`  ர்`r`  ந்`n`  த`ta`   25-40 வ`va`  ய`ya`  து`tu`  க்`k`  கு`ku`  ட்`ṭ`  ப`pa`  ட்`ṭ`  ட`ṭa`  வ`va`  ர்`r`  க`ka`  ள்`ḷ`   எ`e`  ன`ṉa`  வு`vu`  ம்`m`  , கை`kai`  து`tu`   செ`ce`  ய்`y`  ய`ya`  ப்`p`  ப`pa`  ட்`ṭ`  ட`ṭa`   ச`ca`  ந்`n`  தே`tē`  க`ka`  ந`na`  ப`pa`  ர்`r`  க`ka`  ள்`ḷ`   ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`   நீ`nī`  த`ta`  வா`vā`  ன்`ṉ`   நீ`nī`  தி`ti`  ம`ma`  ன்`ṉ`  றி`ṟi`  ல்`l`   மு`mu`  ன்`ṉ`  னி`ṉi`  லை`lai`  ப்`p`  ப`pa`  டு`ṭu`  த்`t`  த`ta`  ப்`p`  ப`pa`  ட`ṭa`  வு`vu`  ள்`ḷ`  ள`ḷa`  தா`tā`  க`ka`  வு`vu`  ம்`m`   சு`cu`  ற்`ṟ`  றி`ṟi`  வ`va`  ளை`ḷai`  ப்`p`  பை`pai`   மே`mē`  ற்`ṟ`  கொ`ko`  ண்`ṇ`  ட`ṭa`   அ`a`  தி`ti`  கா`kā`  ரி`ri`  க`ka`  ள்`ḷ`   தெ`te`  ரி`ri`  வி`vi`  த்`t`  த`ta`  ன`ṉa`  ர்`r`  .
+KAITU CEYYAPPAṬṬA CANTĒKANAPARKAḶ IRATTIṈAPURI, KAHAVATTAI, PALĀṄKOṬAI, HAṬṬAṈ MAṞṞUM ṬIKKŌYĀ ĀKIYA PIRATĒCAṄKAḶAIC CĒRNTA 25-40 VAYATUKKUṬPAṬṬAVARKAḶ EṈAVUM, KAITU CEYYAPPAṬṬA CANTĒKANAPARKAḶ HAṬṬAṈ NĪTAVĀṈ NĪTIMAṈṞIL MUṈṈILAIPPAṬUTTAPPAṬAVUḶḶATĀKAVUM CUṞṞIVAḶAIPPAI MĒṞKOṆṬA ATIKĀRIKAḶ TERIVITTAṈAR.
 
 *Officials said that the suspects were between the ages of 25-40, from the age of 25-40 in Ratnapura, Kahawatte, Balangoda, Hatton and Tikoya and the arrested suspects would be presented to the Hatton Magistrate's Court.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**இரத்தினபுரி**|இ`i`  ர`ra`  த்`t`  தி`ti`  ன`ṉa`  பு`pu`  ரி`ri`  ,|*Forum*
-2|**மற்றும்**|ம`ma`  ற்`ṟ`  று`ṟu`  ம்`m`  |*And*
-3|**தெரிவித்தனர்**|தெ`te`  ரி`ri`  வி`vi`  த்`t`  த`ta`  ன`ṉa`  ர்`r`  .|*Stated*
-4|**நீதிமன்றில்**|நீ`nī`  தி`ti`  ம`ma`  ன்`ṉ`  றி`ṟi`  ல்`l`  |*In court*
-5|**சுற்றிவளைப்பை**|சு`cu`  ற்`ṟ`  றி`ṟi`  வ`va`  ளை`ḷai`  ப்`p`  பை`pai`  |*Waiting swing*
-6|**ஹட்டன்**|ஹ`ha`  ட்`ṭ`  ட`ṭa`  ன்`ṉ`  |*Hatton*
-7|**சந்தேகநபர்கள்**|ச`ca`  ந்`n`  தே`tē`  க`ka`  ந`na`  ப`pa`  ர்`r`  க`ka`  ள்`ḷ`  |*Suspects*
-8|**கஹவத்தை**|க`ka`  ஹ`ha`  வ`va`  த்`t`  தை`tai`  ,|*Kahawatte*
-9|**எனவும்**|எ`e`  ன`ṉa`  வு`vu`  ம்`m`  ,|*And*
-10|**சேர்ந்த**|சே`cē`  ர்`r`  ந்`n`  த`ta`  |*Along with*
-11|**பலாங்கொடை**|ப`pa`  லா`lā`  ங்`ṅ`  கொ`ko`  டை`ṭai`  ,|*Balang*
-12|**கைது**|கை`kai`  து`tu`  |*Arrest*
-13|**வயதுக்குட்பட்டவர்கள்**|வ`va`  ய`ya`  து`tu`  க்`k`  கு`ku`  ட்`ṭ`  ப`pa`  ட்`ṭ`  ட`ṭa`  வ`va`  ர்`r`  க`ka`  ள்`ḷ`  |*Under -age*
-14|**ஆகிய**|ஆ`ā`  கி`ki`  ய`ya`  |*On*
-15|**மேற்கொண்ட**|மே`mē`  ற்`ṟ`  கொ`ko`  ண்`ṇ`  ட`ṭa`  |*Carried out*
-16|**முன்னிலைப்படுத்தப்படவுள்ளதாகவும்**|மு`mu`  ன்`ṉ`  னி`ṉi`  லை`lai`  ப்`p`  ப`pa`  டு`ṭu`  த்`t`  த`ta`  ப்`p`  ப`pa`  ட`ṭa`  வு`vu`  ள்`ḷ`  ள`ḷa`  தா`tā`  க`ka`  வு`vu`  ம்`m`  |*To be presented to be presented*
-17|**செய்யப்பட்ட**|செ`ce`  ய்`y`  ய`ya`  ப்`p`  ப`pa`  ட்`ṭ`  ட`ṭa`  |*Made*
-18|**அதிகாரிகள்**|அ`a`  தி`ti`  கா`kā`  ரி`ri`  க`ka`  ள்`ḷ`  |*Officers*
-19|**நீதவான்**|நீ`nī`  த`ta`  வா`vā`  ன்`ṉ`  |*Magistrate*
-20|**டிக்கோயா**|டி`ṭi`  க்`k`  கோ`kō`  யா`yā`  |*Tikoya*
-21|**பிரதேசங்களைச்**|பி`pi`  ர`ra`  தே`tē`  ச`ca`  ங்`ṅ`  க`ka`  ளை`ḷai`  ச்`c`  |*Territory*
+1|**ஹட்டன்**|HAṬṬAṈ|*Hatton*
+2|**மற்றும்**|MAṞṞUM|*And*
+3|**அதிகாரிகள்**|ATIKĀRIKAḶ|*Officers*
+4|**எனவும்**|EṈAVUM,|*And*
+5|**சுற்றிவளைப்பை**|CUṞṞIVAḶAIPPAI|*Waiting swing*
+6|**பிரதேசங்களைச்**|PIRATĒCAṄKAḶAIC|*Territory*
+7|**கஹவத்தை**|KAHAVATTAI,|*Kahawatte*
+8|**சேர்ந்த**|CĒRNTA|*Along with*
+9|**மேற்கொண்ட**|MĒṞKOṆṬA|*Carried out*
+10|**டிக்கோயா**|ṬIKKŌYĀ|*Tikoya*
+11|**செய்யப்பட்ட**|CEYYAPPAṬṬA|*Made*
+12|**பலாங்கொடை**|PALĀṄKOṬAI,|*Balang*
+13|**தெரிவித்தனர்**|TERIVITTAṈAR.|*Stated*
+14|**கைது**|KAITU|*Arrest*
+15|**நீதிமன்றில்**|NĪTIMAṈṞIL|*In court*
+16|**சந்தேகநபர்கள்**|CANTĒKANAPARKAḶ|*Suspects*
+17|**நீதவான்**|NĪTAVĀṈ|*Magistrate*
+18|**முன்னிலைப்படுத்தப்படவுள்ளதாகவும்**|MUṈṈILAIPPAṬUTTAPPAṬAVUḶḶATĀKAVUM|*To be presented to be presented*
+19|**இரத்தினபுரி**|IRATTIṈAPURI,|*Forum*
+20|**ஆகிய**|ĀKIYA|*On*
+21|**வயதுக்குட்பட்டவர்கள்**|VAYATUKKUṬPAṬṬAVARKAḶ|*Under -age*
 
 ---
