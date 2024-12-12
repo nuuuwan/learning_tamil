@@ -41,7 +41,9 @@ class Lesson:
             [self.news_article.en_title, *self.news_article.en_body_lines],
         ):
             iso_line = T11e.ta_to_iso(ta_line)
-            lines.extend(["##" + ta_line, "", iso_line, "", en_line, "---", ""])
+            lines.extend(
+                ["## " + ta_line, "", iso_line, "", en_line, "---", ""]
+            )
 
         return lines
 
