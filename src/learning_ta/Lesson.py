@@ -33,7 +33,9 @@ class Lesson:
 
     @property
     def md_path(self) -> str:
-        return os.path.join("data", "lessons", f"[{self.date}] {self.title}.md")
+        return os.path.join(
+            "data", "lessons", f"[{self.date}] {self.title}.md"
+        )
 
     @property
     def lines_article_data(self) -> list[str]:
@@ -58,8 +60,11 @@ class Lesson:
 
     @staticmethod
     def get_dictionary_table_lines(
-        translator: Translator, ta_words: list[str]
+        translator: Translator, ta_line: str
     ) -> list[str]:
+        ta_words = ta_line.split(" ")
+        ta_words = list(set(ta_words))
+
         cell_list_list = []
         i_row = 0
         for ta_word in ta_words:
@@ -69,18 +74,15 @@ class Lesson:
             en_word = translator[cleaned_ta_word]
             if not en_word:
                 continue
-
             i_row += 1
-            iso_word = Transliterate.ta_to_iso(ta_word)
             cell_list_list.append(
                 [
                     str(i_row),
                     Markdown.bold(cleaned_ta_word),
-                    iso_word,
+                    Transliterate.ta_to_iso(ta_word),
                     Markdown.italic(en_word),
                 ]
             )
-
         return [
             Markdown.table(
                 [
@@ -94,35 +96,41 @@ class Lesson:
         ]
 
     @property
+    def tamil_lines(self) -> list[str]:
+        return [
+            self.news_article.original_title,
+            *self.news_article.original_body_lines,
+        ]
+
+    @property
     def lines(self) -> list[str]:
         lines = [
             f"# {self.news_article.original_title}",
         ] + self.lines_article_data
 
         translator = Translator("ta", "en")
-        for ta_line, en_line in zip(
-            [
-                self.news_article.original_title,
-                *self.news_article.original_body_lines,
-            ],
-            [self.news_article.en_title, *self.news_article.en_body_lines],
-        ):
-            iso_line = Transliterate.ta_to_iso(ta_line)
-            lines.extend(
-                [
-                    "## " + ta_line,
-                    "",
-                    iso_line,
-                    "",
-                    Markdown.italic(en_line),
-                    "",
-                ]
-            )
+        for ta_line in self.tamil_lines:
+            for ta_sentence in ta_line.split("."):
+                cleaned_ta_sentence = Lesson.clean(ta_sentence)
+                if not cleaned_ta_sentence:
+                    continue
+                en_sentence = translator[cleaned_ta_sentence]
+                if not en_sentence:
+                    continue
+                lines.extend(
+                    [
+                        "## " + ta_sentence,
+                        "",
+                        Transliterate.ta_to_iso(cleaned_ta_sentence),
+                        "",
+                        Markdown.italic(en_sentence),
+                        "",
+                    ]
+                )
 
-            ta_words = ta_line.split(" ")
-            ta_words = list(set(ta_words))
-
-            lines += self.get_dictionary_table_lines(translator, ta_words)
+                lines += self.get_dictionary_table_lines(
+                    translator, ta_sentence
+                )
 
             lines.extend(["", "---", ""])
 

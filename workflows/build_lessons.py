@@ -14,7 +14,7 @@ def main():
         if news_article.original_lang == "ta"
     ]
     log.debug(f"Found {len(ta_news_article_list):,} Tamil news articles")
-    LIMIT = 30
+    LIMIT = 1
     latest_ta_news_article_list = ta_news_article_list[:LIMIT]
     log.debug(
         f"Building lessons for {len(latest_ta_news_article_list):,} articles"

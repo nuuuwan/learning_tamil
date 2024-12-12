@@ -4,11 +4,9 @@ from functools import cached_property
 
 from utils import WWW, JSONFile, Log, TSVFile
 
+from learning_ta.Translator import Translator
+
 log = Log("NewsArticle")
-
-# https://raw.githubusercontent.com/nuuuwan/news_lk3_data/refs/heads/main/ext_articles/0000808a.ext.json
-
-# https://raw.githubusercontent.com/nuuuwan/news_lk3_data/refs/heads/main/articles/0000808a.json
 
 
 @dataclass
@@ -71,29 +69,6 @@ class NewsArticle:
     def original_body_lines(self) -> list[str]:
         return self.d_details["original_body_lines"]
 
-    # extended
-    @cached_property
-    def extended_path(self) -> str:
-        return os.path.join(
-            "data", "news", "articles", "extended", f"{self.hash}.json"
-        )
-
-    @cached_property
-    def d_extended(self) -> dict:
-        if not os.path.exists(self.extended_path):
-            url_ext = (
-                "https://raw.githubusercontent.com"
-                + "/nuuuwan/news_lk3_data/refs/heads/main"
-                + f"/ext_articles/{self.hash}.ext.json"
-            )
-            os.rename(WWW(url_ext).download(), self.extended_path)
-            log.info(f"Wrote {self.extended_path}")
-        return JSONFile(self.extended_path).read()
-
     @cached_property
     def en_title(self) -> str:
-        return self.d_extended["translated_text"]["en"]["title"]
-
-    @cached_property
-    def en_body_lines(self) -> list[str]:
-        return self.d_extended["translated_text"]["en"]["body_lines"]
+        return Translator("ta", "en")[self.original_title]
