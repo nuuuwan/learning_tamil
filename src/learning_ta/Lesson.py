@@ -49,7 +49,7 @@ class Lesson:
     @cache
     def clean(s):
         # replace common punctuation with space
-        s = re.sub(r"[.,;:!?]", " ", s)
+        s = re.sub(r"[.,;:!?”]", " ", s)
 
         # replace multiples spaces with single
         s = re.sub(r"\s+", " ", s)

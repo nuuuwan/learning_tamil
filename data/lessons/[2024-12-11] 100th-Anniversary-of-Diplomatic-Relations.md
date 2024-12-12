@@ -12,12 +12,12 @@ IRāJaTaNTiRa UṞaVuKaḶiṈ 100 VaTu ĀṆṬu NiṞaiVu ViḺā
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
-2|**ஆண்டு**|ĀṆṬu|*Year*
+1|**ஆண்டு**|ĀṆṬu|*Year*
+2|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
 3|**வது**|VaTu|*Th*
-4|**நிறைவு**|NiṞaiVu|*Completion*
-5|**விழா**|ViḺā|*Ceremony*
-6|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
+4|**விழா**|ViḺā|*Ceremony*
+5|**நிறைவு**|NiṞaiVu|*Completion*
+6|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
 
 ---
 
@@ -29,38 +29,38 @@ ILaṄKai MaṞṞuM ĪRāK KuṬiYaRaCu IṬaiYiLāṈa IRāJaTaNTiRa UṞaVuKa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**மற்றும்**|MaṞṞuM|*And*
-2|**வரவேற்பு**|VaRaVēṞPu|*Welcome*
-3|**ஈராக்**|ĪRāK|*Iraq*
-4|**நிகழ்வில்**|NiKaḺViL|*At the event*
-5|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
-6|**கிரேண்ட்**|KiRēṆṬ|*Grim*
-7|**அதிதியாக**|ATiTiYāKa|*Lift*
-8|**சினமன்**|CiṈaMaṈ|*Secretion*
+1|**ஆண்டு**|ĀṆṬu|*Year*
+2|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
+3|**இடையிலான**|IṬaiYiLāṈa|*Between*
+4|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
+5|**கிரேண்ட்**|KiRēṆṬ|*Grim*
+6|**பிரேமதாச**|PiRēMaTāCa|*Premium*
+7|**பிரதம**|PiRaTaMa|*Chief*
+8|**குடியரசு**|KuṬiYaRaCu|*Republican*
 9|**ஹோட்டலில்**|HōṬṬaLiL|*At the hotel*
-10|**தலைவர்**|TaLaiVaR|*Chairman*
-11|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
-12|**​செவ்வாய்க்கிழமை**|​CeVVāYKKiḺaMai|*Tuesday*
-13|**கொழும்பு**|KoḺuMPu|*Colombo*
-14|**இலங்கை**|ILaṄKai|*Sri Lanka*
-15|**பிரேமதாச**|PiRēMaTāCa|*Premium*
-16|**ஈராக்கிய**|ĪRāKKiYa|*Iraqi*
-17|**எதிர்க்கட்சித்**|ETiRKKaṬCiT|*Opposition*
-18|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
-19|**நிறைவை**|NiṞaiVai|*Subsided*
-20|**ஆண்டு**|ĀṆṬu|*Year*
-21|**தூதரகத்தினால்**|TūTaRaKaTTiṈāL|*By the embassy*
-22|**செய்யப்பட்ட**|CeYYaPPaṬṬa|*Made*
-23|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-24|**ஆவது**|ĀVaTu|*Become*
-25|**சஜித்**|CaJiT|*Sajith*
-26|**இடையிலான**|IṬaiYiLāṈa|*Between*
-27|**கலந்து**|KaLaNTu|*Mix*
-28|**குடியரசு**|KuṬiYaRaCu|*Republican*
-29|**கொண்டார்**|KoṆṬāR.|*Have been*
-30|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
-31|**பிரதம**|PiRaTaMa|*Chief*
-32|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
+10|**தூதரகத்தினால்**|TūTaRaKaTTiṈāL|*By the embassy*
+11|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
+12|**சினமன்**|CiṈaMaṈ|*Secretion*
+13|**வரவேற்பு**|VaRaVēṞPu|*Welcome*
+14|**அதிதியாக**|ATiTiYāKa|*Lift*
+15|**கலந்து**|KaLaNTu|*Mix*
+16|**கொழும்பு**|KoḺuMPu|*Colombo*
+17|**ஈராக்**|ĪRāK|*Iraq*
+18|**நிகழ்வில்**|NiKaḺViL|*At the event*
+19|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+20|**கொண்டார்**|KoṆṬāR.|*Have been*
+21|**சஜித்**|CaJiT|*Sajith*
+22|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+23|**மற்றும்**|MaṞṞuM|*And*
+24|**நிறைவை**|NiṞaiVai|*Subsided*
+25|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
+26|**எதிர்க்கட்சித்**|ETiRKKaṬCiT|*Opposition*
+27|**தலைவர்**|TaLaiVaR|*Chairman*
+28|**ஆவது**|ĀVaTu|*Become*
+29|**ஈராக்கிய**|ĪRāKKiYa|*Iraqi*
+30|**இலங்கை**|ILaṄKai|*Sri Lanka*
+31|**​செவ்வாய்க்கிழமை**|​CeVVāYKKiḺaMai|*Tuesday*
+32|**செய்யப்பட்ட**|CeYYaPPaṬṬa|*Made*
 
 ---
 
@@ -72,19 +72,19 @@ ILaṄKai MaṞṞuM ĪRāK KuṬiYaRaCu IṬaiYiLāṈa IRāJaTaNTiRa UṞaVuKa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அழைப்பின்**|AḺaiPPiṈ|*Invitation*
-2|**பேரில்**|PēRiL|*Obedient*
-3|**அரசியல்**|ARaCiYaL|*Politics*
-4|**நியமிக்கப்பட்டுள்ள**|NiYaMiKKaPPaṬṬuḶḶa|*Assigned*
-5|**குடியரசால்**|KuṬiYaRaCāL|*Republican*
-6|**ஈராக்**|ĪRāK|*Iraq*
-7|**கெளரவ**|KeḶaRaVa|*Honor*
-8|**பிரமுகர்கள்**|PiRaMuKaRKaḶ|*Dignitaries*
-9|**பலரும்**|PaLaRuM|*And many*
-10|**இந்நிகழ்வில்**|INNiKaḺViL|*At the event*
-11|**பங்கேற்றனர்**|PaṄKēṞṞaṈaR.|*Participated*
-12|**இடம்பெற்ற**|IṬaMPeṞṞa|*Found*
-13|**தூதுவர்**|TūTuVaR|*Ambassador*
-14|**அவர்களின்**|AVaRKaḶiṈ|*Their*
+1|**கெளரவ**|KeḶaRaVa|*Honor*
+2|**அவர்களின்**|AVaRKaḶiṈ|*Their*
+3|**பேரில்**|PēRiL|*Obedient*
+4|**இடம்பெற்ற**|IṬaMPeṞṞa|*Found*
+5|**இந்நிகழ்வில்**|INNiKaḺViL|*At the event*
+6|**நியமிக்கப்பட்டுள்ள**|NiYaMiKKaPPaṬṬuḶḶa|*Assigned*
+7|**பிரமுகர்கள்**|PiRaMuKaRKaḶ|*Dignitaries*
+8|**பங்கேற்றனர்**|PaṄKēṞṞaṈaR.|*Participated*
+9|**தூதுவர்**|TūTuVaR|*Ambassador*
+10|**குடியரசால்**|KuṬiYaRaCāL|*Republican*
+11|**அழைப்பின்**|AḺaiPPiṈ|*Invitation*
+12|**அரசியல்**|ARaCiYaL|*Politics*
+13|**பலரும்**|PaLaRuM|*And many*
+14|**ஈராக்**|ĪRāK|*Iraq*
 
 ---
