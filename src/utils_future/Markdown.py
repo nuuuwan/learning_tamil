@@ -7,3 +7,8 @@ class Markdown:
         for cell_list in cell_list_list:
             table.append("|".join(cell_list))
         return "\n".join(table)
+
+    @staticmethod
+    def italic(s: str) -> str:
+        s = s.strip()
+        return f"*{s}*"

@@ -63,7 +63,16 @@ class Lesson:
             [self.news_article.en_title, *self.news_article.en_body_lines],
         ):
             iso_line = Transliterate.ta_to_iso(ta_line)
-            lines.extend(["## " + ta_line, "", iso_line, "", en_line, ""])
+            lines.extend(
+                [
+                    "## " + ta_line,
+                    "",
+                    iso_line,
+                    "",
+                    Markdown.italic(en_line),
+                    "",
+                ]
+            )
 
             ta_words = ta_line.split(" ")
             ta_words = list(set(ta_words))
@@ -75,10 +84,14 @@ class Lesson:
                 if cleaned_ta_word:
                     en_word = translator[cleaned_ta_word]
                     iso_word = Transliterate.ta_to_iso(ta_word)
-                    cell_list_list.append([cleaned_ta_word, iso_word, en_word])
+                    cell_list_list.append(
+                        [cleaned_ta_word, iso_word, Markdown.italic(en_word)]
+                    )
 
             lines.append(
-                Markdown.table(["Tamil", "ISO", "English"], cell_list_list)
+                Markdown.table(
+                    ["Tamil", "ISO", Markdown.italic("English")], cell_list_list
+                )
             )
 
             lines.extend(["", "---", ""])
