@@ -81,16 +81,21 @@ class Lesson:
             cell_list_list = []
             for ta_word in ta_words:
                 cleaned_ta_word = Lesson.clean(ta_word)
-                if cleaned_ta_word:
-                    en_word = translator[cleaned_ta_word]
-                    iso_word = Transliterate.ta_to_iso(ta_word)
-                    cell_list_list.append(
-                        [
-                            Markdown.bold(cleaned_ta_word),
-                            iso_word,
-                            Markdown.italic(en_word),
-                        ]
-                    )
+                if not cleaned_ta_word:
+                    continue
+
+                en_word = translator[cleaned_ta_word]
+                if not en_word:
+                    continue
+
+                iso_word = Transliterate.ta_to_iso(ta_word)
+                cell_list_list.append(
+                    [
+                        Markdown.bold(cleaned_ta_word),
+                        iso_word,
+                        Markdown.italic(en_word),
+                    ]
+                )
 
             lines.append(
                 Markdown.table(

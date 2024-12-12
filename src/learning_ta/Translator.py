@@ -38,6 +38,10 @@ class Translator:
         s = s.strip()
         if not s:
             return ""
+        detected_land = self.GOOGLE_TRANSLATOR.detect(s).lang
+        if detected_land != self.lang_src:
+            return ""
+
         result = self.GOOGLE_TRANSLATOR.translate(
             s, src=self.lang_src, dest=self.lang_dest
         )
@@ -54,5 +58,7 @@ class Translator:
             return self.__idx__[s]
 
         translated_s = self.__translate_nocache__(s)
+        if not translated_s:
+            return ""
         self.__set_idx__(s, translated_s)
         return translated_s
