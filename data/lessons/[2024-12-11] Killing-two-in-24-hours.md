@@ -6,189 +6,189 @@
 
 ## 24 மணிநேரத்தில் இருவர் கொலை
 
-24 MaṆiNēRaTTiL IRuVaR KoLai
+24 ம(Ma)ணி(Ṇi)நே(Nē)ர(Ra)த்(T)தி(Ti)ல்(L) இ(I)ரு(Ru)வ(Va)ர்(R) கொ(Ko)லை(Lai)
 
 *Killing two in 24 hours*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**இருவர்**|IRuVaR|*Twice*
-2|**மணிநேரத்தில்**|MaṆiNēRaTTiL|*In hours*
-3|**கொலை**|KoLai|*Murder*
+1|**கொலை**|கொ(Ko)லை(Lai)|*Murder*
+2|**இருவர்**|இ(I)ரு(Ru)வ(Va)ர்(R)|*Twice*
+3|**மணிநேரத்தில்**|ம(Ma)ணி(Ṇi)நே(Nē)ர(Ra)த்(T)தி(Ti)ல்(L)|*In hours*
 
 ---
 
 ## இன்று (11)  காலை 6 மணியுடன் முடிவடைந்த 24 மணித்தியாலங்களில் இருவேறு  பிரதேசங்களில் இருவர் கொல்லப்பட்டுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு அறிவித்துள்ளது.
 
-IṈṞu (11)  KāLai 6 MaṆiYuṬaṈ MuṬiVaṬaiNTa 24 MaṆiTTiYāLaṄKaḶiL IRuVēṞu  PiRaTēCaṄKaḶiL IRuVaR KoLLaPPaṬṬuḶḶaṈaR EṈa PoLiS ŪṬaKaPPiRiVu AṞiViTTuḶḶaTu.
+இ(I)ன்(Ṉ)று(Ṟu) (11)  கா(Kā)லை(Lai) 6 ம(Ma)ணி(Ṇi)யு(Yu)ட(Ṭa)ன்(Ṉ) மு(Mu)டி(Ṭi)வ(Va)டை(Ṭai)ந்(N)த(Ta) 24 ம(Ma)ணி(Ṇi)த்(T)தி(Ti)யா(Yā)ல(La)ங்(Ṅ)க(Ka)ளி(Ḷi)ல்(L) இ(I)ரு(Ru)வே(Vē)று(Ṟu)  பி(Pi)ர(Ra)தே(Tē)ச(Ca)ங்(Ṅ)க(Ka)ளி(Ḷi)ல்(L) இ(I)ரு(Ru)வ(Va)ர்(R) கொ(Ko)ல்(L)ல(La)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R) எ(E)ன(Ṉa) பொ(Po)லி(Li)ஸ்(S) ஊ(Ū)ட(Ṭa)க(Ka)ப்(P)பி(Pi)ரி(Ri)வு(Vu) அ(A)றி(Ṟi)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *Two people have been killed in two areas within 24 hours of the end of today (11) at 6 am, the police media unit said.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**ஊடகப்பிரிவு**|ŪṬaKaPPiRiVu|*Media section*
-2|**கொல்லப்பட்டுள்ளனர்**|KoLLaPPaṬṬuḶḶaṈaR|*Have been killed*
-3|**மணித்தியாலங்களில்**|MaṆiTTiYāLaṄKaḶiL|*Hours*
-4|**அறிவித்துள்ளது**|AṞiViTTuḶḶaTu.|*Has announced that*
-5|**இருவர்**|IRuVaR|*Twice*
-6|**என**|EṈa|*As*
-7|**மணியுடன்**|MaṆiYuṬaṈ|*With the bell*
-8|**முடிவடைந்த**|MuṬiVaṬaiNTa|*End*
-9|**இன்று**|IṈṞu|*Today*
-10|**காலை**| KāLai|*Morning*
-11|**பொலிஸ்**|PoLiS|*Police*
-12|**பிரதேசங்களில்**| PiRaTēCaṄKaḶiL|*In territories*
-13|**இருவேறு**|IRuVēṞu|*Silence*
+1|**அறிவித்துள்ளது**|அ(A)றி(Ṟi)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Has announced that*
+2|**முடிவடைந்த**|மு(Mu)டி(Ṭi)வ(Va)டை(Ṭai)ந்(N)த(Ta)|*End*
+3|**மணித்தியாலங்களில்**|ம(Ma)ணி(Ṇi)த்(T)தி(Ti)யா(Yā)ல(La)ங்(Ṅ)க(Ka)ளி(Ḷi)ல்(L)|*Hours*
+4|**இருவேறு**|இ(I)ரு(Ru)வே(Vē)று(Ṟu)|*Silence*
+5|**பிரதேசங்களில்**| பி(Pi)ர(Ra)தே(Tē)ச(Ca)ங்(Ṅ)க(Ka)ளி(Ḷi)ல்(L)|*In territories*
+6|**கொல்லப்பட்டுள்ளனர்**|கொ(Ko)ல்(L)ல(La)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R)|*Have been killed*
+7|**பொலிஸ்**|பொ(Po)லி(Li)ஸ்(S)|*Police*
+8|**இன்று**|இ(I)ன்(Ṉ)று(Ṟu)|*Today*
+9|**காலை**| கா(Kā)லை(Lai)|*Morning*
+10|**என**|எ(E)ன(Ṉa)|*As*
+11|**இருவர்**|இ(I)ரு(Ru)வ(Va)ர்(R)|*Twice*
+12|**மணியுடன்**|ம(Ma)ணி(Ṇi)யு(Yu)ட(Ṭa)ன்(Ṉ)|*With the bell*
+13|**ஊடகப்பிரிவு**|ஊ(Ū)ட(Ṭa)க(Ka)ப்(P)பி(Pi)ரி(Ri)வு(Vu)|*Media section*
 
 ---
 
 ## ஜா-எல கடையொன்றில் 45 வயதுடைய நபர் ஒருவர் கூரிய ஆயுதத்தால், செவ்வாய்க்கிழமை (10) தாக்கப்பட்டதில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-Jā-ELa KaṬaiYoṈṞiL 45 VaYaTuṬaiYa NaPaR ORuVaR KūRiYa ĀYuTaTTāL, CeVVāYKKiḺaMai (10) TāKKaPPaṬṬaTiL UYiRiḺaNTuḶḶaTāKa PoLiSāR TeRiViTTaṈaR.
+ஜா(Jā)-எ(E)ல(La) க(Ka)டை(Ṭai)யொ(Yo)ன்(Ṉ)றி(Ṟi)ல்(L) 45 வ(Va)ய(Ya)து(Tu)டை(Ṭai)ய(Ya) ந(Na)ப(Pa)ர்(R) ஒ(O)ரு(Ru)வ(Va)ர்(R) கூ(Kū)ரி(Ri)ய(Ya) ஆ(Ā)யு(Yu)த(Ta)த்(T)தா(Tā)ல்(L), செ(Ce)வ்(V)வா(Vā)ய்(Y)க்(K)கி(Ki)ழ(Ḻa)மை(Mai) (10) தா(Tā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தி(Ti)ல்(L) உ(U)யி(Yi)ரி(Ri)ழ(Ḻa)ந்(N)து(Tu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka) பொ(Po)லி(Li)ஸா(Sā)ர்(R) தெ(Te)ரி(Ri)வி(Vi)த்(T)த(Ta)ன(Ṉa)ர்(R).
 
 *A 45-year-old man was killed in a sharp weapon at a Ja-Ela shop, police said.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தாக்கப்பட்டதில்**|TāKKaPPaṬṬaTiL|*In the beaten*
-2|**ஜா-எல**|Jā-ELa|*Ja-e*
-3|**செவ்வாய்க்கிழமை**|CeVVāYKKiḺaMai|*Tuesday*
-4|**தெரிவித்தனர்**|TeRiViTTaṈaR.|*Stated*
-5|**உயிரிழந்துள்ளதாக**|UYiRiḺaNTuḶḶaTāKa|*Died*
-6|**கூரிய**|KūRiYa|*Keen*
-7|**பொலிஸார்**|PoLiSāR|*Police*
-8|**கடையொன்றில்**|KaṬaiYoṈṞiL|*At the store*
-9|**நபர்**|NaPaR|*Person*
-10|**வயதுடைய**|VaYaTuṬaiYa|*Agitated*
-11|**ஆயுதத்தால்**|ĀYuTaTTāL,|*By weapon*
-12|**ஒருவர்**|ORuVaR|*One*
+1|**கடையொன்றில்**|க(Ka)டை(Ṭai)யொ(Yo)ன்(Ṉ)றி(Ṟi)ல்(L)|*At the store*
+2|**வயதுடைய**|வ(Va)ய(Ya)து(Tu)டை(Ṭai)ய(Ya)|*Agitated*
+3|**நபர்**|ந(Na)ப(Pa)ர்(R)|*Person*
+4|**தாக்கப்பட்டதில்**|தா(Tā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தி(Ti)ல்(L)|*In the beaten*
+5|**உயிரிழந்துள்ளதாக**|உ(U)யி(Yi)ரி(Ri)ழ(Ḻa)ந்(N)து(Tu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka)|*Died*
+6|**ஜா-எல**|ஜா(Jā)-எ(E)ல(La)|*Ja-e*
+7|**பொலிஸார்**|பொ(Po)லி(Li)ஸா(Sā)ர்(R)|*Police*
+8|**கூரிய**|கூ(Kū)ரி(Ri)ய(Ya)|*Keen*
+9|**ஆயுதத்தால்**|ஆ(Ā)யு(Yu)த(Ta)த்(T)தா(Tā)ல்(L),|*By weapon*
+10|**ஒருவர்**|ஒ(O)ரு(Ru)வ(Va)ர்(R)|*One*
+11|**செவ்வாய்க்கிழமை**|செ(Ce)வ்(V)வா(Vā)ய்(Y)க்(K)கி(Ki)ழ(Ḻa)மை(Mai)|*Tuesday*
+12|**தெரிவித்தனர்**|தெ(Te)ரி(Ri)வி(Vi)த்(T)த(Ta)ன(Ṉa)ர்(R).|*Stated*
 
 ---
 
 ## கடைக்குள் சக ஊழியருடன் மது அருந்தியதாகவும் இதன்போது ஏற்பட்ட  வாக்குவாதம் முற்றி, மற்றைய ஊழியர் கூரிய ஆயுத்தால் தாக்கியுள்ளார் என்று பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
 
-KaṬaiKKuḶ CaKa ŪḺiYaRuṬaṈ MaTu ARuNTiYaTāKaVuM ITaṈPōTu ĒṞPaṬṬa  VāKKuVāTaM MuṞṞi, MaṞṞaiYa ŪḺiYaR KūRiYa ĀYuTTāL TāKKiYuḶḶāR EṈṞu PoLiS ViCāRaṆaiKaḶiL IRuNTu TeRiYaVaNTuḶḶaTu.
+க(Ka)டை(Ṭai)க்(K)கு(Ku)ள்(Ḷ) ச(Ca)க(Ka) ஊ(Ū)ழி(Ḻi)ய(Ya)ரு(Ru)ட(Ṭa)ன்(Ṉ) ம(Ma)து(Tu) அ(A)ரு(Ru)ந்(N)தி(Ti)ய(Ya)தா(Tā)க(Ka)வு(Vu)ம்(M) இ(I)த(Ta)ன்(Ṉ)போ(Pō)து(Tu) ஏ(Ē)ற்(Ṟ)ப(Pa)ட்(Ṭ)ட(Ṭa)  வா(Vā)க்(K)கு(Ku)வா(Vā)த(Ta)ம்(M) மு(Mu)ற்(Ṟ)றி(Ṟi), ம(Ma)ற்(Ṟ)றை(Ṟai)ய(Ya) ஊ(Ū)ழி(Ḻi)ய(Ya)ர்(R) கூ(Kū)ரி(Ri)ய(Ya) ஆ(Ā)யு(Yu)த்(T)தா(Tā)ல்(L) தா(Tā)க்(K)கி(Ki)யு(Yu)ள்(Ḷ)ளா(Ḷā)ர்(R) எ(E)ன்(Ṉ)று(Ṟu) பொ(Po)லி(Li)ஸ்(S) வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)க(Ka)ளி(Ḷi)ல்(L) இ(I)ரு(Ru)ந்(N)து(Tu) தெ(Te)ரி(Ri)ய(Ya)வ(Va)ந்(N)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *Police investigations have revealed that alcohol was drinking with a colleague in the shop and that the other employee had been attacked by a sharp manner.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**மற்றைய**|MaṞṞaiYa|*Other*
-2|**சக**|CaKa|*Co -*
-3|**இருந்து**|IRuNTu|*From*
-4|**இதன்போது**|ITaṈPōTu|*During this time*
-5|**பொலிஸ்**|PoLiS|*Police*
-6|**தாக்கியுள்ளார்**|TāKKiYuḶḶāR|*Have hit*
-7|**ஊழியருடன்**|ŪḺiYaRuṬaṈ|*With the employee*
-8|**ஏற்பட்ட**|ĒṞPaṬṬa |*Found*
-9|**ஊழியர்**|ŪḺiYaR|*Employee*
-10|**மது**|MaTu|*Wine*
-11|**கூரிய**|KūRiYa|*Keen*
-12|**என்று**|EṈṞu|*That*
-13|**அருந்தியதாகவும்**|ARuNTiYaTāKaVuM|*Drank*
-14|**விசாரணைகளில்**|ViCāRaṆaiKaḶiL|*In investigations*
-15|**ஆயுத்தால்**|ĀYuTTāL|*Innumerable*
-16|**கடைக்குள்**|KaṬaiKKuḶ|*Intracartial*
-17|**வாக்குவாதம்**|VāKKuVāTaM|*Argument*
-18|**தெரியவந்துள்ளது**|TeRiYaVaNTuḶḶaTu.|*Has been revealed*
-19|**முற்றி**|MuṞṞi,|*Fulfill*
+1|**ஊழியர்**|ஊ(Ū)ழி(Ḻi)ய(Ya)ர்(R)|*Employee*
+2|**இதன்போது**|இ(I)த(Ta)ன்(Ṉ)போ(Pō)து(Tu)|*During this time*
+3|**பொலிஸ்**|பொ(Po)லி(Li)ஸ்(S)|*Police*
+4|**தெரியவந்துள்ளது**|தெ(Te)ரி(Ri)ய(Ya)வ(Va)ந்(N)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Has been revealed*
+5|**இருந்து**|இ(I)ரு(Ru)ந்(N)து(Tu)|*From*
+6|**விசாரணைகளில்**|வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)க(Ka)ளி(Ḷi)ல்(L)|*In investigations*
+7|**மது**|ம(Ma)து(Tu)|*Wine*
+8|**மற்றைய**|ம(Ma)ற்(Ṟ)றை(Ṟai)ய(Ya)|*Other*
+9|**வாக்குவாதம்**|வா(Vā)க்(K)கு(Ku)வா(Vā)த(Ta)ம்(M)|*Argument*
+10|**அருந்தியதாகவும்**|அ(A)ரு(Ru)ந்(N)தி(Ti)ய(Ya)தா(Tā)க(Ka)வு(Vu)ம்(M)|*Drank*
+11|**ஆயுத்தால்**|ஆ(Ā)யு(Yu)த்(T)தா(Tā)ல்(L)|*Innumerable*
+12|**ஏற்பட்ட**|ஏ(Ē)ற்(Ṟ)ப(Pa)ட்(Ṭ)ட(Ṭa) |*Found*
+13|**கூரிய**|கூ(Kū)ரி(Ri)ய(Ya)|*Keen*
+14|**தாக்கியுள்ளார்**|தா(Tā)க்(K)கி(Ki)யு(Yu)ள்(Ḷ)ளா(Ḷā)ர்(R)|*Have hit*
+15|**ஊழியருடன்**|ஊ(Ū)ழி(Ḻi)ய(Ya)ரு(Ru)ட(Ṭa)ன்(Ṉ)|*With the employee*
+16|**சக**|ச(Ca)க(Ka)|*Co -*
+17|**கடைக்குள்**|க(Ka)டை(Ṭai)க்(K)கு(Ku)ள்(Ḷ)|*Intracartial*
+18|**முற்றி**|மு(Mu)ற்(Ṟ)றி(Ṟi),|*Fulfill*
+19|**என்று**|எ(E)ன்(Ṉ)று(Ṟu)|*That*
 
 ---
 
 ## பலத்த காயங்களுடன் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார். சந்தேகநபர்,  பிரதேசத்தை விட்டு தப்பிச் சென்றுவிட்டார். அவரை கைது செய்வதற்கான விசாரணைகளை ஜா-எல பொலிஸார் ஆரம்பித்துள்ளனர்.
 
-PaLaTTa KāYaṄKaḶuṬaṈ RāKaMa VaiTTiYaCāLaiYiL AṈuMaTiKKaPPaṬṬa NaPaR CiKiCCai PaLaṈiṈṞi UYiRiḺaNTuḶḶāR. CaNTēKaNaPaR,  PiRaTēCaTTai ViṬṬu TaPPiC CeṈṞuViṬṬāR. AVaRai KaiTu CeYVaTaṞKāṈa ViCāRaṆaiKaḶai Jā-ELa PoLiSāR ĀRaMPiTTuḶḶaṈaR.
+ப(Pa)ல(La)த்(T)த(Ta) கா(Kā)ய(Ya)ங்(Ṅ)க(Ka)ளு(Ḷu)ட(Ṭa)ன்(Ṉ) ரா(Rā)க(Ka)ம(Ma) வை(Vai)த்(T)தி(Ti)ய(Ya)சா(Cā)லை(Lai)யி(Yi)ல்(L) அ(A)னு(Ṉu)ம(Ma)தி(Ti)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa) ந(Na)ப(Pa)ர்(R) சி(Ci)கி(Ki)ச்(C)சை(Cai) ப(Pa)ல(La)னி(Ṉi)ன்(Ṉ)றி(Ṟi) உ(U)யி(Yi)ரி(Ri)ழ(Ḻa)ந்(N)து(Tu)ள்(Ḷ)ளா(Ḷā)ர்(R). ச(Ca)ந்(N)தே(Tē)க(Ka)ந(Na)ப(Pa)ர்(R),  பி(Pi)ர(Ra)தே(Tē)ச(Ca)த்(T)தை(Tai) வி(Vi)ட்(Ṭ)டு(Ṭu) த(Ta)ப்(P)பி(Pi)ச்(C) செ(Ce)ன்(Ṉ)று(Ṟu)வி(Vi)ட்(Ṭ)டா(Ṭā)ர்(R). அ(A)வ(Va)ரை(Rai) கை(Kai)து(Tu) செ(Ce)ய்(Y)வ(Va)த(Ta)ற்(Ṟ)கா(Kā)ன(Ṉa) வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)க(Ka)ளை(Ḷai) ஜா(Jā)-எ(E)ல(La) பொ(Po)லி(Li)ஸா(Sā)ர்(R) ஆ(Ā)ர(Ra)ம்(M)பி(Pi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).
 
 *A man admitted to Ragama Hospital with serious injuries dies without treatment. The suspect has fled the territory. Ja-Ela police have launched investigations to arrest him.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தப்பிச்**|TaPPiC|*Escape*
-2|**சென்றுவிட்டார்**|CeṈṞuViṬṬāR.|*Has gone away*
-3|**அனுமதிக்கப்பட்ட**|AṈuMaTiKKaPPaṬṬa|*Permitted*
-4|**பொலிஸார்**|PoLiSāR|*Police*
-5|**உயிரிழந்துள்ளார்**|UYiRiḺaNTuḶḶāR.|*Has died*
-6|**சந்தேகநபர்**|CaNTēKaNaPaR,|*Suspect*
-7|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
-8|**ஜா-எல**|Jā-ELa|*Ja-e*
-9|**ராகம**|RāKaMa|*Ragama*
-10|**விட்டு**|ViṬṬu|*Left*
-11|**செய்வதற்கான**|CeYVaTaṞKāṈa|*Acting*
-12|**காயங்களுடன்**|KāYaṄKaḶuṬaṈ|*With wounds*
-13|**அவரை**|AVaRai|*Bean*
-14|**பலத்த**|PaLaTTa|*Unged*
-15|**சிகிச்சை**|CiKiCCai|*Treatment*
-16|**விசாரணைகளை**|ViCāRaṆaiKaḶai|*Inquiries*
-17|**ஆரம்பித்துள்ளனர்**|ĀRaMPiTTuḶḶaṈaR.|*Have begun*
-18|**கைது**|KaiTu|*Arrest*
-19|**நபர்**|NaPaR|*Person*
-20|**பிரதேசத்தை**| PiRaTēCaTTai|*Territory*
-21|**பலனின்றி**|PaLaṈiṈṞi|*Freely*
+1|**பிரதேசத்தை**| பி(Pi)ர(Ra)தே(Tē)ச(Ca)த்(T)தை(Tai)|*Territory*
+2|**செய்வதற்கான**|செ(Ce)ய்(Y)வ(Va)த(Ta)ற்(Ṟ)கா(Kā)ன(Ṉa)|*Acting*
+3|**உயிரிழந்துள்ளார்**|உ(U)யி(Yi)ரி(Ri)ழ(Ḻa)ந்(N)து(Tu)ள்(Ḷ)ளா(Ḷā)ர்(R).|*Has died*
+4|**சந்தேகநபர்**|ச(Ca)ந்(N)தே(Tē)க(Ka)ந(Na)ப(Pa)ர்(R),|*Suspect*
+5|**காயங்களுடன்**|கா(Kā)ய(Ya)ங்(Ṅ)க(Ka)ளு(Ḷu)ட(Ṭa)ன்(Ṉ)|*With wounds*
+6|**ராகம**|ரா(Rā)க(Ka)ம(Ma)|*Ragama*
+7|**பொலிஸார்**|பொ(Po)லி(Li)ஸா(Sā)ர்(R)|*Police*
+8|**வைத்தியசாலையில்**|வை(Vai)த்(T)தி(Ti)ய(Ya)சா(Cā)லை(Lai)யி(Yi)ல்(L)|*At the hospital*
+9|**நபர்**|ந(Na)ப(Pa)ர்(R)|*Person*
+10|**பலனின்றி**|ப(Pa)ல(La)னி(Ṉi)ன்(Ṉ)றி(Ṟi)|*Freely*
+11|**விசாரணைகளை**|வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)க(Ka)ளை(Ḷai)|*Inquiries*
+12|**அனுமதிக்கப்பட்ட**|அ(A)னு(Ṉu)ம(Ma)தி(Ti)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)|*Permitted*
+13|**கைது**|கை(Kai)து(Tu)|*Arrest*
+14|**விட்டு**|வி(Vi)ட்(Ṭ)டு(Ṭu)|*Left*
+15|**ஆரம்பித்துள்ளனர்**|ஆ(Ā)ர(Ra)ம்(M)பி(Pi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).|*Have begun*
+16|**சிகிச்சை**|சி(Ci)கி(Ki)ச்(C)சை(Cai)|*Treatment*
+17|**சென்றுவிட்டார்**|செ(Ce)ன்(Ṉ)று(Ṟu)வி(Vi)ட்(Ṭ)டா(Ṭā)ர்(R).|*Has gone away*
+18|**ஜா-எல**|ஜா(Jā)-எ(E)ல(La)|*Ja-e*
+19|**தப்பிச்**|த(Ta)ப்(P)பி(Pi)ச்(C)|*Escape*
+20|**அவரை**|அ(A)வ(Va)ரை(Rai)|*Bean*
+21|**பலத்த**|ப(Pa)ல(La)த்(T)த(Ta)|*Unged*
 
 ---
 
 ## இதேவேளை, லக்கல பிரதேசத்தில்  44 வயதுடைய பெண் ஒருவர் கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் படுகாயமடைந்த நிலையில், செவ்வாய்க்கிழமை (10)  உயிரிழந்துள்ளார்.
 
-ITēVēḶai, LaKKaLa PiRaTēCaTTiL  44 VaYaTuṬaiYa PeṆ ORuVaR KūRiYa ĀYuTaTTāL TāKKaPPaṬṬaTiL PaṬuKāYaMaṬaiNTa NiLaiYiL, CeVVāYKKiḺaMai (10)  UYiRiḺaNTuḶḶāR.
+இ(I)தே(Tē)வே(Vē)ளை(Ḷai), ல(La)க்(K)க(Ka)ல(La) பி(Pi)ர(Ra)தே(Tē)ச(Ca)த்(T)தி(Ti)ல்(L)  44 வ(Va)ய(Ya)து(Tu)டை(Ṭai)ய(Ya) பெ(Pe)ண்(Ṇ) ஒ(O)ரு(Ru)வ(Va)ர்(R) கூ(Kū)ரி(Ri)ய(Ya) ஆ(Ā)யு(Yu)த(Ta)த்(T)தா(Tā)ல்(L) தா(Tā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தி(Ti)ல்(L) ப(Pa)டு(Ṭu)கா(Kā)ய(Ya)ம(Ma)டை(Ṭai)ந்(N)த(Ta) நி(Ni)லை(Lai)யி(Yi)ல்(L), செ(Ce)வ்(V)வா(Vā)ய்(Y)க்(K)கி(Ki)ழ(Ḻa)மை(Mai) (10)  உ(U)யி(Yi)ரி(Ri)ழ(Ḻa)ந்(N)து(Tu)ள்(Ḷ)ளா(Ḷā)ர்(R).
 
 *Meanwhile, a 44 -year -old woman in Lakkala has died on Tuesday (10) after being hit by a sharp weapon.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**பிரதேசத்தில்**|PiRaTēCaTTiL|*In the territory*
-2|**இதேவேளை**|ITēVēḶai,|*Ascendant*
-3|**பெண்**|PeṆ|*Woman*
-4|**தாக்கப்பட்டதில்**|TāKKaPPaṬṬaTiL|*In the beaten*
-5|**லக்கல**|LaKKaLa|*Lakkal*
-6|**ஆயுதத்தால்**|ĀYuTaTTāL|*By weapon*
-7|**செவ்வாய்க்கிழமை**|CeVVāYKKiḺaMai|*Tuesday*
-8|**உயிரிழந்துள்ளார்**| UYiRiḺaNTuḶḶāR.|*Has died*
-9|**நிலையில்**|NiLaiYiL,|*In place*
-10|**கூரிய**|KūRiYa|*Keen*
-11|**படுகாயமடைந்த**|PaṬuKāYaMaṬaiNTa|*Wounded*
-12|**வயதுடைய**|VaYaTuṬaiYa|*Agitated*
-13|**ஒருவர்**|ORuVaR|*One*
+1|**ஆயுதத்தால்**|ஆ(Ā)யு(Yu)த(Ta)த்(T)தா(Tā)ல்(L)|*By weapon*
+2|**வயதுடைய**|வ(Va)ய(Ya)து(Tu)டை(Ṭai)ய(Ya)|*Agitated*
+3|**பெண்**|பெ(Pe)ண்(Ṇ)|*Woman*
+4|**பிரதேசத்தில்**|பி(Pi)ர(Ra)தே(Tē)ச(Ca)த்(T)தி(Ti)ல்(L)|*In the territory*
+5|**தாக்கப்பட்டதில்**|தா(Tā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தி(Ti)ல்(L)|*In the beaten*
+6|**படுகாயமடைந்த**|ப(Pa)டு(Ṭu)கா(Kā)ய(Ya)ம(Ma)டை(Ṭai)ந்(N)த(Ta)|*Wounded*
+7|**இதேவேளை**|இ(I)தே(Tē)வே(Vē)ளை(Ḷai),|*Ascendant*
+8|**கூரிய**|கூ(Kū)ரி(Ri)ய(Ya)|*Keen*
+9|**நிலையில்**|நி(Ni)லை(Lai)யி(Yi)ல்(L),|*In place*
+10|**உயிரிழந்துள்ளார்**| உ(U)யி(Yi)ரி(Ri)ழ(Ḻa)ந்(N)து(Tu)ள்(Ḷ)ளா(Ḷā)ர்(R).|*Has died*
+11|**ஒருவர்**|ஒ(O)ரு(Ru)வ(Va)ர்(R)|*One*
+12|**செவ்வாய்க்கிழமை**|செ(Ce)வ்(V)வா(Vā)ய்(Y)க்(K)கி(Ki)ழ(Ḻa)மை(Mai)|*Tuesday*
+13|**லக்கல**|ல(La)க்(K)க(Ka)ல(La)|*Lakkal*
 
 ---
 
 ## குடும்ப தகராறு காரணமாக குறித்த பெண் அவரது கணவரால் தாக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
 
-KuṬuMPa TaKaRāṞu KāRaṆaMāKa KuṞiTTa PeṆ AVaRaTu KaṆaVaRāL TāKKaPPaṬṬaTāKa PoLiSāR TeRiViTTaṈaR.
+கு(Ku)டு(Ṭu)ம்(M)ப(Pa) த(Ta)க(Ka)ரா(Rā)று(Ṟu) கா(Kā)ர(Ra)ண(Ṇa)மா(Mā)க(Ka) கு(Ku)றி(Ṟi)த்(T)த(Ta) பெ(Pe)ண்(Ṇ) அ(A)வ(Va)ர(Ra)து(Tu) க(Ka)ண(Ṇa)வ(Va)ரா(Rā)ல்(L) தா(Tā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தா(Tā)க(Ka) பொ(Po)லி(Li)ஸா(Sā)ர்(R) தெ(Te)ரி(Ri)வி(Vi)த்(T)த(Ta)ன(Ṉa)ர்(R).
 
 *Police said the woman was assaulted by her husband due to a family dispute.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**பெண்**|PeṆ|*Woman*
-2|**தகராறு**|TaKaRāṞu|*Dispute*
-3|**தெரிவித்தனர்**|TeRiViTTaṈaR.|*Stated*
-4|**குறித்த**|KuṞiTTa|*On*
-5|**குடும்ப**|KuṬuMPa|*Family*
-6|**கணவரால்**|KaṆaVaRāL|*By husband*
-7|**பொலிஸார்**|PoLiSāR|*Police*
-8|**காரணமாக**|KāRaṆaMāKa|*Produce*
-9|**அவரது**|AVaRaTu|*His*
-10|**தாக்கப்பட்டதாக**|TāKKaPPaṬṬaTāKa|*As being beaten*
+1|**குறித்த**|கு(Ku)றி(Ṟi)த்(T)த(Ta)|*On*
+2|**பெண்**|பெ(Pe)ண்(Ṇ)|*Woman*
+3|**கணவரால்**|க(Ka)ண(Ṇa)வ(Va)ரா(Rā)ல்(L)|*By husband*
+4|**தாக்கப்பட்டதாக**|தா(Tā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தா(Tā)க(Ka)|*As being beaten*
+5|**குடும்ப**|கு(Ku)டு(Ṭu)ம்(M)ப(Pa)|*Family*
+6|**பொலிஸார்**|பொ(Po)லி(Li)ஸா(Sā)ர்(R)|*Police*
+7|**அவரது**|அ(A)வ(Va)ர(Ra)து(Tu)|*His*
+8|**தகராறு**|த(Ta)க(Ka)ரா(Rā)று(Ṟu)|*Dispute*
+9|**தெரிவித்தனர்**|தெ(Te)ரி(Ri)வி(Vi)த்(T)த(Ta)ன(Ṉa)ர்(R).|*Stated*
+10|**காரணமாக**|கா(Kā)ர(Ra)ண(Ṇa)மா(Mā)க(Ka)|*Produce*
 
 ---
 
 ## சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்ட லக்கல பொலிஸார்   சந்தேக நபரை கைது செய்துள்ளனர்.
 
-CaMPaVaM ToṬaRPiL ViCāRaṆaiKaḶai MēṞKoṆṬa LaKKaLa PoLiSāR   CaNTēKa NaPaRai KaiTu CeYTuḶḶaṈaR.
+ச(Ca)ம்(M)ப(Pa)வ(Va)ம்(M) தொ(To)ட(Ṭa)ர்(R)பி(Pi)ல்(L) வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)க(Ka)ளை(Ḷai) மே(Mē)ற்(Ṟ)கொ(Ko)ண்(Ṇ)ட(Ṭa) ல(La)க்(K)க(Ka)ல(La) பொ(Po)லி(Li)ஸா(Sā)ர்(R)   ச(Ca)ந்(N)தே(Tē)க(Ka) ந(Na)ப(Pa)ரை(Rai) கை(Kai)து(Tu) செ(Ce)ய்(Y)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).
 
 *The Lakkala police have arrested the suspect, investigating the incident.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**லக்கல**|LaKKaLa|*Lakkal*
-2|**சம்பவம்**|CaMPaVaM|*Incident*
-3|**தொடர்பில்**|ToṬaRPiL|*Connection*
-4|**பொலிஸார்**|PoLiSāR|*Police*
-5|**மேற்கொண்ட**|MēṞKoṆṬa|*Carried out*
-6|**கைது**|KaiTu|*Arrest*
-7|**செய்துள்ளனர்**|CeYTuḶḶaṈaR.|*Have done*
-8|**சந்தேக**|  CaNTēKa|*Suspicious*
-9|**நபரை**|NaPaRai|*Person*
-10|**விசாரணைகளை**|ViCāRaṆaiKaḶai|*Inquiries*
+1|**கைது**|கை(Kai)து(Tu)|*Arrest*
+2|**விசாரணைகளை**|வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)க(Ka)ளை(Ḷai)|*Inquiries*
+3|**சம்பவம்**|ச(Ca)ம்(M)ப(Pa)வ(Va)ம்(M)|*Incident*
+4|**பொலிஸார்**|பொ(Po)லி(Li)ஸா(Sā)ர்(R)|*Police*
+5|**சந்தேக**|  ச(Ca)ந்(N)தே(Tē)க(Ka)|*Suspicious*
+6|**தொடர்பில்**|தொ(To)ட(Ṭa)ர்(R)பி(Pi)ல்(L)|*Connection*
+7|**நபரை**|ந(Na)ப(Pa)ரை(Rai)|*Person*
+8|**மேற்கொண்ட**|மே(Mē)ற்(Ṟ)கொ(Ko)ண்(Ṇ)ட(Ṭa)|*Carried out*
+9|**லக்கல**|ல(La)க்(K)க(Ka)ல(La)|*Lakkal*
+10|**செய்துள்ளனர்**|செ(Ce)ய்(Y)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).|*Have done*
 
 ---

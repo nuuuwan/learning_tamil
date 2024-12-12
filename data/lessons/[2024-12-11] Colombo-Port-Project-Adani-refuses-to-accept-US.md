@@ -6,270 +6,270 @@
 
 ## கொழும்பு துறைமுக திட்டம்: அமெரிக்க நிதியுதவியை  ஏற்க அதானி  மறுப்பு
 
-KoḺuMPu TuṞaiMuKa TiṬṬaM: AMeRiKKa NiTiYuTaViYai  ĒṞKa ATāṈi  MaṞuPPu
+கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu) து(Tu)றை(Ṟai)மு(Mu)க(Ka) தி(Ti)ட்(Ṭ)ட(Ṭa)ம்(M): அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka) நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)யை(Yai)  ஏ(Ē)ற்(Ṟ)க(Ka) அ(A)தா(Tā)னி(Ṉi)  ம(Ma)று(Ṟu)ப்(P)பு(Pu)
 
 *Colombo Port Project: Adani refuses to accept US funding*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அமெரிக்க**|AMeRiKKa|*US*
-2|**அதானி**|ATāṈi|*Adani*
-3|**மறுப்பு**|MaṞuPPu|*Rejection*
-4|**திட்டம்**|TiṬṬaM:|*Plan*
-5|**ஏற்க**|ĒṞKa|*Adopt*
-6|**கொழும்பு**|KoḺuMPu|*Colombo*
-7|**துறைமுக**|TuṞaiMuKa|*Port*
-8|**நிதியுதவியை**|NiTiYuTaViYai|*Financial support*
+1|**திட்டம்**|தி(Ti)ட்(Ṭ)ட(Ṭa)ம்(M):|*Plan*
+2|**துறைமுக**|து(Tu)றை(Ṟai)மு(Mu)க(Ka)|*Port*
+3|**நிதியுதவியை**|நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)யை(Yai)|*Financial support*
+4|**கொழும்பு**|கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu)|*Colombo*
+5|**ஏற்க**|ஏ(Ē)ற்(Ṟ)க(Ka)|*Adopt*
+6|**அமெரிக்க**|அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka)|*US*
+7|**அதானி**|அ(A)தா(Tā)னி(Ṉi)|*Adani*
+8|**மறுப்பு**|ம(Ma)று(Ṟu)ப்(P)பு(Pu)|*Rejection*
 
 ---
 
 ## இலங்கையின் கொழும்பு துறைமுகத்தில் புதிய முனையம் அமைத்து வரும் அதானி நிறுவனத்துக்கு அமெரிக்க நிறுவனம் நிதி உதவி அளிக்க ஒப்புக்கொண்டிருந்த நிலையில் அந்த நிதியுதவி தேவையில்லை என அதானி நிறுவனம் தெரிவித்துள்ளது.
 
-ILaṄKaiYiṈ KoḺuMPu TuṞaiMuKaTTiL PuTiYa MuṈaiYaM AMaiTTu VaRuM ATāṈi NiṞuVaṈaTTuKKu AMeRiKKa NiṞuVaṈaM NiTi UTaVi AḶiKKa OPPuKKoṆṬiRuNTa NiLaiYiL ANTa NiTiYuTaVi TēVaiYiLLai EṈa ATāṈi NiṞuVaṈaM TeRiViTTuḶḶaTu.
+இ(I)ல(La)ங்(Ṅ)கை(Kai)யி(Yi)ன்(Ṉ) கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu) து(Tu)றை(Ṟai)மு(Mu)க(Ka)த்(T)தி(Ti)ல்(L) பு(Pu)தி(Ti)ய(Ya) மு(Mu)னை(Ṉai)ய(Ya)ம்(M) அ(A)மை(Mai)த்(T)து(Tu) வ(Va)ரு(Ru)ம்(M) அ(A)தா(Tā)னி(Ṉi) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)து(Tu)க்(K)கு(Ku) அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ம்(M) நி(Ni)தி(Ti) உ(U)த(Ta)வி(Vi) அ(A)ளி(Ḷi)க்(K)க(Ka) ஒ(O)ப்(P)பு(Pu)க்(K)கொ(Ko)ண்(Ṇ)டி(Ṭi)ரு(Ru)ந்(N)த(Ta) நி(Ni)லை(Lai)யி(Yi)ல்(L) அ(A)ந்(N)த(Ta) நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi) தே(Tē)வை(Vai)யி(Yi)ல்(L)லை(Lai) எ(E)ன(Ṉa) அ(A)தா(Tā)னி(Ṉi) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ம்(M) தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *Adani has said that the US company has agreed to provide financial assistance to Adani, which is setting up a new terminal at the port of Colombo, Sri Lanka.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அமெரிக்க**|AMeRiKKa|*US*
-2|**புதிய**|PuTiYa|*New*
-3|**இலங்கையின்**|ILaṄKaiYiṈ|*Sri Lanka*
-4|**நிதி**|NiTi|*Finance*
-5|**நிதியுதவி**|NiTiYuTaVi|*Funding*
-6|**கொழும்பு**|KoḺuMPu|*Colombo*
-7|**தெரிவித்துள்ளது**|TeRiViTTuḶḶaTu.|*Stated*
-8|**நிறுவனம்**|NiṞuVaṈaM|*Corporation*
-9|**என**|EṈa|*As*
-10|**அந்த**|ANTa|*That*
-11|**அளிக்க**|AḶiKKa|*Present*
-12|**துறைமுகத்தில்**|TuṞaiMuKaTTiL|*At the port*
-13|**நிறுவனத்துக்கு**|NiṞuVaṈaTTuKKu|*To the company*
-14|**முனையம்**|MuṈaiYaM|*20*
-15|**தேவையில்லை**|TēVaiYiLLai|*No need*
-16|**வரும்**|VaRuM|*Come*
-17|**அதானி**|ATāṈi|*Adani*
-18|**நிலையில்**|NiLaiYiL|*In place*
-19|**அமைத்து**|AMaiTTu|*Set up*
-20|**உதவி**|UTaVi|*Assistance*
-21|**ஒப்புக்கொண்டிருந்த**|OPPuKKoṆṬiRuNTa|*Agreed*
+1|**அளிக்க**|அ(A)ளி(Ḷi)க்(K)க(Ka)|*Present*
+2|**இலங்கையின்**|இ(I)ல(La)ங்(Ṅ)கை(Kai)யி(Yi)ன்(Ṉ)|*Sri Lanka*
+3|**கொழும்பு**|கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu)|*Colombo*
+4|**தேவையில்லை**|தே(Tē)வை(Vai)யி(Yi)ல்(L)லை(Lai)|*No need*
+5|**வரும்**|வ(Va)ரு(Ru)ம்(M)|*Come*
+6|**அமைத்து**|அ(A)மை(Mai)த்(T)து(Tu)|*Set up*
+7|**துறைமுகத்தில்**|து(Tu)றை(Ṟai)மு(Mu)க(Ka)த்(T)தி(Ti)ல்(L)|*At the port*
+8|**நிறுவனத்துக்கு**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)து(Tu)க்(K)கு(Ku)|*To the company*
+9|**என**|எ(E)ன(Ṉa)|*As*
+10|**அதானி**|அ(A)தா(Tā)னி(Ṉi)|*Adani*
+11|**நிறுவனம்**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ம்(M)|*Corporation*
+12|**புதிய**|பு(Pu)தி(Ti)ய(Ya)|*New*
+13|**முனையம்**|மு(Mu)னை(Ṉai)ய(Ya)ம்(M)|*20*
+14|**அந்த**|அ(A)ந்(N)த(Ta)|*That*
+15|**நிதி**|நி(Ni)தி(Ti)|*Finance*
+16|**உதவி**|உ(U)த(Ta)வி(Vi)|*Assistance*
+17|**தெரிவித்துள்ளது**|தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Stated*
+18|**அமெரிக்க**|அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka)|*US*
+19|**நிலையில்**|நி(Ni)லை(Lai)யி(Yi)ல்(L)|*In place*
+20|**ஒப்புக்கொண்டிருந்த**|ஒ(O)ப்(P)பு(Pu)க்(K)கொ(Ko)ண்(Ṇ)டி(Ṭi)ரு(Ru)ந்(N)த(Ta)|*Agreed*
+21|**நிதியுதவி**|நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)|*Funding*
 
 ---
 
 ## கொழும்பு துறைகத்தில், கொழும்பு மேற்கு சர்வதேச முனையம் (CWIT) எனப்படும் ஆழ்கடல் கொள்கலன் முனையத்தின் வளர்ச்சி, கட்டுமானம் மற்றும் இயக்கத்துக்கான பணிகள் மேற்கொள்ளப்பட்டு வருகின்றன. அதானி போர்ட்ஸ், இலங்கை கூட்டு நிறுவனமான ஜோன் கீல்ஸ் ஹோல்டிங்ஸ் பிஎல்சி மற்றும் இலங்கை துறைமுக அதிகாரசபை (SLPA) ஆகியவற்றின் கூட்டமைப்பினால் CWIT உருவாக்கப்பட்டு வருகிறது.
 
-KoḺuMPu TuṞaiKaTTiL, KoḺuMPu MēṞKu CaRVaTēCa MuṈaiYaM (CWIT) EṈaPPaṬuM ĀḺKaṬaL KoḶKaLaṈ MuṈaiYaTTiṈ VaḶaRCCi, KaṬṬuMāṈaM MaṞṞuM IYaKKaTTuKKāṈa PaṆiKaḶ MēṞKoḶḶaPPaṬṬu VaRuKiṈṞaṈa. ATāṈi PōRṬS, ILaṄKai KūṬṬu NiṞuVaṈaMāṈa JōṈ KīLS HōLṬiṄS PiELCi MaṞṞuM ILaṄKai TuṞaiMuKa ATiKāRaCaPai (SLPA) ĀKiYaVaṞṞiṈ KūṬṬaMaiPPiṈāL CWIT URuVāKKaPPaṬṬu VaRuKiṞaTu.
+கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu) து(Tu)றை(Ṟai)க(Ka)த்(T)தி(Ti)ல்(L), கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu) மே(Mē)ற்(Ṟ)கு(Ku) ச(Ca)ர்(R)வ(Va)தே(Tē)ச(Ca) மு(Mu)னை(Ṉai)ய(Ya)ம்(M) (CWIT) எ(E)ன(Ṉa)ப்(P)ப(Pa)டு(Ṭu)ம்(M) ஆ(Ā)ழ்(Ḻ)க(Ka)ட(Ṭa)ல்(L) கொ(Ko)ள்(Ḷ)க(Ka)ல(La)ன்(Ṉ) மு(Mu)னை(Ṉai)ய(Ya)த்(T)தி(Ti)ன்(Ṉ) வ(Va)ள(Ḷa)ர்(R)ச்(C)சி(Ci), க(Ka)ட்(Ṭ)டு(Ṭu)மா(Mā)ன(Ṉa)ம்(M) ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M) இ(I)ய(Ya)க்(K)க(Ka)த்(T)து(Tu)க்(K)கா(Kā)ன(Ṉa) ப(Pa)ணி(Ṇi)க(Ka)ள்(Ḷ) மே(Mē)ற்(Ṟ)கொ(Ko)ள்(Ḷ)ள(Ḷa)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu) வ(Va)ரு(Ru)கி(Ki)ன்(Ṉ)ற(Ṟa)ன(Ṉa). அ(A)தா(Tā)னி(Ṉi) போ(Pō)ர்(R)ட்(Ṭ)ஸ்(S), இ(I)ல(La)ங்(Ṅ)கை(Kai) கூ(Kū)ட்(Ṭ)டு(Ṭu) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)மா(Mā)ன(Ṉa) ஜோ(Jō)ன்(Ṉ) கீ(Kī)ல்(L)ஸ்(S) ஹோ(Hō)ல்(L)டி(Ṭi)ங்(Ṅ)ஸ்(S) பி(Pi)எ(E)ல்(L)சி(Ci) ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M) இ(I)ல(La)ங்(Ṅ)கை(Kai) து(Tu)றை(Ṟai)மு(Mu)க(Ka) அ(A)தி(Ti)கா(Kā)ர(Ra)ச(Ca)பை(Pai) (SLPA) ஆ(Ā)கி(Ki)ய(Ya)வ(Va)ற்(Ṟ)றி(Ṟi)ன்(Ṉ) கூ(Kū)ட்(Ṭ)ட(Ṭa)மை(Mai)ப்(P)பி(Pi)னா(Ṉā)ல்(L) CWIT உ(U)ரு(Ru)வா(Vā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu) வ(Va)ரு(Ru)கி(Ki)ற(Ṟa)து(Tu).
 
 *In the Colombo sector, the development, construction and movement of the deep sea container terminal known as the Colombo West International Terminal (CWIT). The CWIT is being formed by the Federation of Adani Ports, Sri Lankan joint venture, John Keells Holdings PLC and the Sri Lanka Port Authority (SLPA).*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அதிகாரசபை**|ATiKāRaCaPai|*Authority*
-2|**ஹோல்டிங்ஸ்**|HōLṬiṄS|*Holdings*
-3|**ஆகியவற்றின்**|ĀKiYaVaṞṞiṈ|*Sparin*
-4|**கொள்கலன்**|KoḶKaLaṈ|*Container*
-5|**மற்றும்**|MaṞṞuM|*And*
-6|**கொழும்பு**|KoḺuMPu|*Colombo*
-7|**வருகின்றன**|VaRuKiṈṞaṈa.|*Come on*
-8|**எனப்படும்**|EṈaPPaṬuM|*So -called*
-9|**உருவாக்கப்பட்டு**|URuVāKKaPPaṬṬu|*Created*
-10|**கீல்ஸ்**|KīLS|*Hinges*
-11|**ஜோன்**|JōṈ|*Joan*
-12|**நிறுவனமான**|NiṞuVaṈaMāṈa|*Corporate*
-13|**போர்ட்ஸ்**|PōRṬS,|*Ports*
-14|**கூட்டு**|KūṬṬu|*Add*
-15|**மேற்கு**|MēṞKu|*West*
-16|**பிஎல்சி**|PiELCi|*Blc*
-17|**இலங்கை**|ILaṄKai|*Sri Lanka*
-18|**வருகிறது**|VaRuKiṞaTu.|*Comes with*
-19|**வளர்ச்சி**|VaḶaRCCi,|*Growth*
-20|**மேற்கொள்ளப்பட்டு**|MēṞKoḶḶaPPaṬṬu|*Carried out*
-21|**முனையம்**|MuṈaiYaM|*20*
-22|**துறைமுக**|TuṞaiMuKa|*Port*
-23|**துறைகத்தில்**|TuṞaiKaTTiL,|*In the field*
-24|**இயக்கத்துக்கான**|IYaKKaTTuKKāṈa|*Echinic*
-25|**கட்டுமானம்**|KaṬṬuMāṈaM|*Construction*
-26|**அதானி**|ATāṈi|*Adani*
-27|**கூட்டமைப்பினால்**|KūṬṬaMaiPPiṈāL|*By the federation*
-28|**சர்வதேச**|CaRVaTēCa|*International*
-29|**முனையத்தின்**|MuṈaiYaTTiṈ|*Terminal*
-30|**ஆழ்கடல்**|ĀḺKaṬaL|*Deep sea*
-31|**பணிகள்**|PaṆiKaḶ|*Tasks*
+1|**பிஎல்சி**|பி(Pi)எ(E)ல்(L)சி(Ci)|*Blc*
+2|**துறைமுக**|து(Tu)றை(Ṟai)மு(Mu)க(Ka)|*Port*
+3|**சர்வதேச**|ச(Ca)ர்(R)வ(Va)தே(Tē)ச(Ca)|*International*
+4|**கொழும்பு**|கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu)|*Colombo*
+5|**ஆழ்கடல்**|ஆ(Ā)ழ்(Ḻ)க(Ka)ட(Ṭa)ல்(L)|*Deep sea*
+6|**நிறுவனமான**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)மா(Mā)ன(Ṉa)|*Corporate*
+7|**வளர்ச்சி**|வ(Va)ள(Ḷa)ர்(R)ச்(C)சி(Ci),|*Growth*
+8|**போர்ட்ஸ்**|போ(Pō)ர்(R)ட்(Ṭ)ஸ்(S),|*Ports*
+9|**ஹோல்டிங்ஸ்**|ஹோ(Hō)ல்(L)டி(Ṭi)ங்(Ṅ)ஸ்(S)|*Holdings*
+10|**கொள்கலன்**|கொ(Ko)ள்(Ḷ)க(Ka)ல(La)ன்(Ṉ)|*Container*
+11|**மற்றும்**|ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M)|*And*
+12|**உருவாக்கப்பட்டு**|உ(U)ரு(Ru)வா(Vā)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)|*Created*
+13|**இலங்கை**|இ(I)ல(La)ங்(Ṅ)கை(Kai)|*Sri Lanka*
+14|**எனப்படும்**|எ(E)ன(Ṉa)ப்(P)ப(Pa)டு(Ṭu)ம்(M)|*So -called*
+15|**கட்டுமானம்**|க(Ka)ட்(Ṭ)டு(Ṭu)மா(Mā)ன(Ṉa)ம்(M)|*Construction*
+16|**ஜோன்**|ஜோ(Jō)ன்(Ṉ)|*Joan*
+17|**இயக்கத்துக்கான**|இ(I)ய(Ya)க்(K)க(Ka)த்(T)து(Tu)க்(K)கா(Kā)ன(Ṉa)|*Echinic*
+18|**அதானி**|அ(A)தா(Tā)னி(Ṉi)|*Adani*
+19|**கூட்டமைப்பினால்**|கூ(Kū)ட்(Ṭ)ட(Ṭa)மை(Mai)ப்(P)பி(Pi)னா(Ṉā)ல்(L)|*By the federation*
+20|**மேற்கு**|மே(Mē)ற்(Ṟ)கு(Ku)|*West*
+21|**வருகிறது**|வ(Va)ரு(Ru)கி(Ki)ற(Ṟa)து(Tu).|*Comes with*
+22|**பணிகள்**|ப(Pa)ணி(Ṇi)க(Ka)ள்(Ḷ)|*Tasks*
+23|**மேற்கொள்ளப்பட்டு**|மே(Mē)ற்(Ṟ)கொ(Ko)ள்(Ḷ)ள(Ḷa)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)|*Carried out*
+24|**துறைகத்தில்**|து(Tu)றை(Ṟai)க(Ka)த்(T)தி(Ti)ல்(L),|*In the field*
+25|**ஆகியவற்றின்**|ஆ(Ā)கி(Ki)ய(Ya)வ(Va)ற்(Ṟ)றி(Ṟi)ன்(Ṉ)|*Sparin*
+26|**கூட்டு**|கூ(Kū)ட்(Ṭ)டு(Ṭu)|*Add*
+27|**முனையம்**|மு(Mu)னை(Ṉai)ய(Ya)ம்(M)|*20*
+28|**அதிகாரசபை**|அ(A)தி(Ti)கா(Kā)ர(Ra)ச(Ca)பை(Pai)|*Authority*
+29|**முனையத்தின்**|மு(Mu)னை(Ṉai)ய(Ya)த்(T)தி(Ti)ன்(Ṉ)|*Terminal*
+30|**கீல்ஸ்**|கீ(Kī)ல்(L)ஸ்(S)|*Hinges*
+31|**வருகின்றன**|வ(Va)ரு(Ru)கி(Ki)ன்(Ṉ)ற(Ṟa)ன(Ṉa).|*Come on*
 
 ---
 
 ## இத்திட்டத்துக்கு அமெரிக்காவின் இன்டர்நேஷனல் டெவலப்மென்ட் ஃபைனான்ஸ் கார்ப்பரேஷன் (US IDFC) 553 மில்லியன் டொலர் கடன் உதவி வழங்க கடந்த ஆண்டு நவம்பரில் ஒப்புக்கொண்டது. இந்நிலையில், அமெரிக்க நிறுவனத்துடனான கடன் ஒப்பந்தத்தில் இருந்து அதானி குழுமம் வெளியேறியுள்ளது.
 
-ITTiṬṬaTTuKKu AMeRiKKāViṈ IṈṬaRNēShaṈaL ṬeVaLaPMeṈṬ AkhPaiṈāṈS KāRPPaRēShaṈ (US IDFC) 553 MiLLiYaṈ ṬoLaR KaṬaṈ UTaVi VaḺaṄKa KaṬaNTa ĀṆṬu NaVaMPaRiL OPPuKKoṆṬaTu. INNiLaiYiL, AMeRiKKa NiṞuVaṈaTTuṬaṈāṈa KaṬaṈ OPPaNTaTTiL IRuNTu ATāṈi KuḺuMaM VeḶiYēṞiYuḶḶaTu.
+இ(I)த்(T)தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)து(Tu)க்(K)கு(Ku) அ(A)மெ(Me)ரி(Ri)க்(K)கா(Kā)வி(Vi)ன்(Ṉ) இ(I)ன்(Ṉ)ட(Ṭa)ர்(R)நே(Nē)ஷ(Sha)ன(Ṉa)ல்(L) டெ(Ṭe)வ(Va)ல(La)ப்(P)மெ(Me)ன்(Ṉ)ட்(Ṭ) ஃ(Akh)பை(Pai)னா(Ṉā)ன்(Ṉ)ஸ்(S) கா(Kā)ர்(R)ப்(P)ப(Pa)ரே(Rē)ஷ(Sha)ன்(Ṉ) (US IDFC) 553 மி(Mi)ல்(L)லி(Li)ய(Ya)ன்(Ṉ) டொ(Ṭo)ல(La)ர்(R) க(Ka)ட(Ṭa)ன்(Ṉ) உ(U)த(Ta)வி(Vi) வ(Va)ழ(Ḻa)ங்(Ṅ)க(Ka) க(Ka)ட(Ṭa)ந்(N)த(Ta) ஆ(Ā)ண்(Ṇ)டு(Ṭu) ந(Na)வ(Va)ம்(M)ப(Pa)ரி(Ri)ல்(L) ஒ(O)ப்(P)பு(Pu)க்(K)கொ(Ko)ண்(Ṇ)ட(Ṭa)து(Tu). இ(I)ந்(N)நி(Ni)லை(Lai)யி(Yi)ல்(L), அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)து(Tu)ட(Ṭa)னா(Ṉā)ன(Ṉa) க(Ka)ட(Ṭa)ன்(Ṉ) ஒ(O)ப்(P)ப(Pa)ந்(N)த(Ta)த்(T)தி(Ti)ல்(L) இ(I)ரு(Ru)ந்(N)து(Tu) அ(A)தா(Tā)னி(Ṉi) கு(Ku)ழு(Ḻu)ம(Ma)ம்(M) வெ(Ve)ளி(Ḷi)யே(Yē)றி(Ṟi)யு(Yu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *In November last year, the US International Development Finance Corporation (US IDFC) agreed to provide $ 553 million loan assistance to the project.. In this case, the Adani Group has left the loan agreement with the US company.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அமெரிக்க**|AMeRiKKa|*US*
-2|**வெளியேறியுள்ளது**|VeḶiYēṞiYuḶḶaTu.|*Has been outdoors*
-3|**இன்டர்நேஷனல்**|IṈṬaRNēShaṈaL|*International*
-4|**இருந்து**|IRuNTu|*From*
-5|**அமெரிக்காவின்**|AMeRiKKāViṈ|*America*
-6|**ஆண்டு**|ĀṆṬu|*Year*
-7|**நவம்பரில்**|NaVaMPaRiL|*In November*
-8|**வழங்க**|VaḺaṄKa|*Supply*
-9|**டெவலப்மென்ட்**|ṬeVaLaPMeṈṬ|*Development*
-10|**ஒப்புக்கொண்டது**|OPPuKKoṆṬaTu.|*Agreed*
-11|**டொலர்**|ṬoLaR|*Dollar*
-12|**இந்நிலையில்**|INNiLaiYiL,|*Underline*
-13|**கடன்**|KaṬaṈ|*Credit*
-14|**நிறுவனத்துடனான**|NiṞuVaṈaTTuṬaṈāṈa|*Corporate*
-15|**மில்லியன்**|MiLLiYaṈ|*Million*
-16|**ஒப்பந்தத்தில்**|OPPaNTaTTiL|*In contract*
-17|**ஃபைனான்ஸ்**|AkhPaiṈāṈS|*Finance*
-18|**கடந்த**|KaṬaNTa|*Past*
-19|**அதானி**|ATāṈi|*Adani*
-20|**குழுமம்**|KuḺuMaM|*Groups*
-21|**இத்திட்டத்துக்கு**|ITTiṬṬaTTuKKu|*For this project*
-22|**உதவி**|UTaVi|*Assistance*
-23|**கார்ப்பரேஷன்**|KāRPPaRēShaṈ|*Corporation*
+1|**ஃபைனான்ஸ்**|ஃ(Akh)பை(Pai)னா(Ṉā)ன்(Ṉ)ஸ்(S)|*Finance*
+2|**கடன்**|க(Ka)ட(Ṭa)ன்(Ṉ)|*Credit*
+3|**டெவலப்மென்ட்**|டெ(Ṭe)வ(Va)ல(La)ப்(P)மெ(Me)ன்(Ṉ)ட்(Ṭ)|*Development*
+4|**இருந்து**|இ(I)ரு(Ru)ந்(N)து(Tu)|*From*
+5|**ஆண்டு**|ஆ(Ā)ண்(Ṇ)டு(Ṭu)|*Year*
+6|**மில்லியன்**|மி(Mi)ல்(L)லி(Li)ய(Ya)ன்(Ṉ)|*Million*
+7|**டொலர்**|டொ(Ṭo)ல(La)ர்(R)|*Dollar*
+8|**வெளியேறியுள்ளது**|வெ(Ve)ளி(Ḷi)யே(Yē)றி(Ṟi)யு(Yu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Has been outdoors*
+9|**கடந்த**|க(Ka)ட(Ṭa)ந்(N)த(Ta)|*Past*
+10|**அதானி**|அ(A)தா(Tā)னி(Ṉi)|*Adani*
+11|**நவம்பரில்**|ந(Na)வ(Va)ம்(M)ப(Pa)ரி(Ri)ல்(L)|*In November*
+12|**குழுமம்**|கு(Ku)ழு(Ḻu)ம(Ma)ம்(M)|*Groups*
+13|**ஒப்புக்கொண்டது**|ஒ(O)ப்(P)பு(Pu)க்(K)கொ(Ko)ண்(Ṇ)ட(Ṭa)து(Tu).|*Agreed*
+14|**இன்டர்நேஷனல்**|இ(I)ன்(Ṉ)ட(Ṭa)ர்(R)நே(Nē)ஷ(Sha)ன(Ṉa)ல்(L)|*International*
+15|**இந்நிலையில்**|இ(I)ந்(N)நி(Ni)லை(Lai)யி(Yi)ல்(L),|*Underline*
+16|**வழங்க**|வ(Va)ழ(Ḻa)ங்(Ṅ)க(Ka)|*Supply*
+17|**அமெரிக்காவின்**|அ(A)மெ(Me)ரி(Ri)க்(K)கா(Kā)வி(Vi)ன்(Ṉ)|*America*
+18|**நிறுவனத்துடனான**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)து(Tu)ட(Ṭa)னா(Ṉā)ன(Ṉa)|*Corporate*
+19|**உதவி**|உ(U)த(Ta)வி(Vi)|*Assistance*
+20|**இத்திட்டத்துக்கு**|இ(I)த்(T)தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)து(Tu)க்(K)கு(Ku)|*For this project*
+21|**அமெரிக்க**|அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka)|*US*
+22|**ஒப்பந்தத்தில்**|ஒ(O)ப்(P)ப(Pa)ந்(N)த(Ta)த்(T)தி(Ti)ல்(L)|*In contract*
+23|**கார்ப்பரேஷன்**|கா(Kā)ர்(R)ப்(P)ப(Pa)ரே(Rē)ஷ(Sha)ன்(Ṉ)|*Corporation*
 
 ---
 
 ## “இந்தத் திட்டத்துக்கு நிறுவனத்தின் உள் நிதி திரட்டல்கள் மற்றும் மூலதன மேலாண்மைத் திட்டத்தின் மூலம் நிதியளிக்கப்படும். இன்டர்நேஷனல் டெவலப்மென்ட் ஃபைனான்ஸ் கார்ப்பரேஷனிடமிருந்து நிதியுதவிக்கான எங்கள் கோரிக்கையை நாங்கள் திரும்பப் பெற்றுள்ளோம்.” என்று தெரிவிக்கப்பட்டுள்ளது.
 
-“INTaT TiṬṬaTTuKKu NiṞuVaṈaTTiṈ UḶ NiTi TiRaṬṬaLKaḶ MaṞṞuM MūLaTaṈa MēLāṆMaiT TiṬṬaTTiṈ MūLaM NiTiYaḶiKKaPPaṬuM. IṈṬaRNēShaṈaL ṬeVaLaPMeṈṬ AkhPaiṈāṈS KāRPPaRēShaṈiṬaMiRuNTu NiTiYuTaViKKāṈa EṄKaḶ KōRiKKaiYai NāṄKaḶ TiRuMPaP PeṞṞuḶḶōM.” EṈṞu TeRiViKKaPPaṬṬuḶḶaTu.
+“இ(I)ந்(N)த(Ta)த்(T) தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)து(Tu)க்(K)கு(Ku) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)தி(Ti)ன்(Ṉ) உ(U)ள்(Ḷ) நி(Ni)தி(Ti) தி(Ti)ர(Ra)ட்(Ṭ)ட(Ṭa)ல்(L)க(Ka)ள்(Ḷ) ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M) மூ(Mū)ல(La)த(Ta)ன(Ṉa) மே(Mē)லா(Lā)ண்(Ṇ)மை(Mai)த்(T) தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)தி(Ti)ன்(Ṉ) மூ(Mū)ல(La)ம்(M) நி(Ni)தி(Ti)ய(Ya)ளி(Ḷi)க்(K)க(Ka)ப்(P)ப(Pa)டு(Ṭu)ம்(M). இ(I)ன்(Ṉ)ட(Ṭa)ர்(R)நே(Nē)ஷ(Sha)ன(Ṉa)ல்(L) டெ(Ṭe)வ(Va)ல(La)ப்(P)மெ(Me)ன்(Ṉ)ட்(Ṭ) ஃ(Akh)பை(Pai)னா(Ṉā)ன்(Ṉ)ஸ்(S) கா(Kā)ர்(R)ப்(P)ப(Pa)ரே(Rē)ஷ(Sha)னி(Ṉi)ட(Ṭa)மி(Mi)ரு(Ru)ந்(N)து(Tu) நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)க்(K)கா(Kā)ன(Ṉa) எ(E)ங்(Ṅ)க(Ka)ள்(Ḷ) கோ(Kō)ரி(Ri)க்(K)கை(Kai)யை(Yai) நா(Nā)ங்(Ṅ)க(Ka)ள்(Ḷ) தி(Ti)ரு(Ru)ம்(M)ப(Pa)ப்(P) பெ(Pe)ற்(Ṟ)று(Ṟu)ள்(Ḷ)ளோ(Ḷō)ம்(M).” எ(E)ன்(Ṉ)று(Ṟu) தெ(Te)ரி(Ri)வி(Vi)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *“The project will be funded by the company's internal fundraising and capital management plan. We have withdrawn our request for funding from the International Development Finance Corporation. ”Has been reported.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**திரட்டல்கள்**|TiRaṬṬaLKaḶ|*Aggregates*
-2|**நிதி**|NiTi|*Finance*
-3|**“இந்தத்**|“INTaT|*“This is*
-4|**மற்றும்**|MaṞṞuM|*And*
-5|**இன்டர்நேஷனல்**|IṈṬaRNēShaṈaL|*International*
-6|**கார்ப்பரேஷனிடமிருந்து**|KāRPPaRēShaṈiṬaMiRuNTu|*From the corporation*
-7|**நிதியுதவிக்கான**|NiTiYuTaViKKāṈa|*Financial convenience*
-8|**டெவலப்மென்ட்**|ṬeVaLaPMeṈṬ|*Development*
-9|**மேலாண்மைத்**|MēLāṆMaiT|*Management force*
-10|**நிறுவனத்தின்**|NiṞuVaṈaTTiṈ|*Corporate*
-11|**திட்டத்துக்கு**|TiṬṬaTTuKKu|*To the plan*
-12|**பெற்றுள்ளோம் ”**|PeṞṞuḶḶōM.”|*We have received ”*
-13|**திரும்பப்**|TiRuMPaP|*Withdraw*
-14|**நிதியளிக்கப்படும்**|NiTiYaḶiKKaPPaṬuM.|*Will be funded*
-15|**கோரிக்கையை**|KōRiKKaiYai|*Request*
-16|**என்று**|EṈṞu|*That*
-17|**உள்**|UḶ|*Internal*
-18|**மூலம்**|MūLaM|*Source*
-19|**எங்கள்**|EṄKaḶ|*Our*
-20|**ஃபைனான்ஸ்**|AkhPaiṈāṈS|*Finance*
-21|**தெரிவிக்கப்பட்டுள்ளது**|TeRiViKKaPPaṬṬuḶḶaTu.|*Have been reported*
-22|**மூலதன**|MūLaTaṈa|*Capital*
-23|**நாங்கள்**|NāṄKaḶ|*We*
-24|**திட்டத்தின்**|TiṬṬaTTiṈ|*Plan*
+1|**திரும்பப்**|தி(Ti)ரு(Ru)ம்(M)ப(Pa)ப்(P)|*Withdraw*
+2|**ஃபைனான்ஸ்**|ஃ(Akh)பை(Pai)னா(Ṉā)ன்(Ṉ)ஸ்(S)|*Finance*
+3|**மூலம்**|மூ(Mū)ல(La)ம்(M)|*Source*
+4|**டெவலப்மென்ட்**|டெ(Ṭe)வ(Va)ல(La)ப்(P)மெ(Me)ன்(Ṉ)ட்(Ṭ)|*Development*
+5|**மேலாண்மைத்**|மே(Mē)லா(Lā)ண்(Ṇ)மை(Mai)த்(T)|*Management force*
+6|**எங்கள்**|எ(E)ங்(Ṅ)க(Ka)ள்(Ḷ)|*Our*
+7|**பெற்றுள்ளோம் ”**|பெ(Pe)ற்(Ṟ)று(Ṟu)ள்(Ḷ)ளோ(Ḷō)ம்(M).”|*We have received ”*
+8|**நிறுவனத்தின்**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)தி(Ti)ன்(Ṉ)|*Corporate*
+9|**மற்றும்**|ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M)|*And*
+10|**நிதியுதவிக்கான**|நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)க்(K)கா(Kā)ன(Ṉa)|*Financial convenience*
+11|**நாங்கள்**|நா(Nā)ங்(Ṅ)க(Ka)ள்(Ḷ)|*We*
+12|**திரட்டல்கள்**|தி(Ti)ர(Ra)ட்(Ṭ)ட(Ṭa)ல்(L)க(Ka)ள்(Ḷ)|*Aggregates*
+13|**உள்**|உ(U)ள்(Ḷ)|*Internal*
+14|**திட்டத்தின்**|தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)தி(Ti)ன்(Ṉ)|*Plan*
+15|**“இந்தத்**|“இ(I)ந்(N)த(Ta)த்(T)|*“This is*
+16|**மூலதன**|மூ(Mū)ல(La)த(Ta)ன(Ṉa)|*Capital*
+17|**கோரிக்கையை**|கோ(Kō)ரி(Ri)க்(K)கை(Kai)யை(Yai)|*Request*
+18|**தெரிவிக்கப்பட்டுள்ளது**|தெ(Te)ரி(Ri)வி(Vi)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Have been reported*
+19|**இன்டர்நேஷனல்**|இ(I)ன்(Ṉ)ட(Ṭa)ர்(R)நே(Nē)ஷ(Sha)ன(Ṉa)ல்(L)|*International*
+20|**நிதி**|நி(Ni)தி(Ti)|*Finance*
+21|**திட்டத்துக்கு**|தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)து(Tu)க்(K)கு(Ku)|*To the plan*
+22|**கார்ப்பரேஷனிடமிருந்து**|கா(Kā)ர்(R)ப்(P)ப(Pa)ரே(Rē)ஷ(Sha)னி(Ṉi)ட(Ṭa)மி(Mi)ரு(Ru)ந்(N)து(Tu)|*From the corporation*
+23|**நிதியளிக்கப்படும்**|நி(Ni)தி(Ti)ய(Ya)ளி(Ḷi)க்(K)க(Ka)ப்(P)ப(Pa)டு(Ṭu)ம்(M).|*Will be funded*
+24|**என்று**|எ(E)ன்(Ṉ)று(Ṟu)|*That*
 
 ---
 
 ## அதானிக்கும் இலங்கை துறைமுக அதிகாரசபைக்கும் இடையிலான ஒப்பந்தம் அவர்களின் நிபந்தனைகளுக்கு இணங்க மாற்றியமைக்கப்பட வேண்டும் என்று அமெரிக்காவின் இன்டர்நேஷனல் டெவலப்மென்ட் ஃபைனான்ஸ் கார்ப்பரேஷன் கேட்டுக் கொண்டதையடுத்து அதானி குழுமம் இந்த முடிவை எடுத்துள்ளது. திட்டம் முடிவடையும் தருவாயில் உள்ளதால் 51 சதவீத பங்கை வைத்திருக்கும் அதானி போர்ட்ஸ், US IDFC-ன் நிதியுதவியின்றி திட்டத்தைத் தொடர முடிவு செய்துள்ளதாக பெயர் வெளியிட விரும்பாத அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-ATāṈiKKuM ILaṄKai TuṞaiMuKa ATiKāRaCaPaiKKuM IṬaiYiLāṈa OPPaNTaM AVaRKaḶiṈ NiPaNTaṈaiKaḶuKKu IṆaṄKa MāṞṞiYaMaiKKaPPaṬa VēṆṬuM EṈṞu AMeRiKKāViṈ IṈṬaRNēShaṈaL ṬeVaLaPMeṈṬ AkhPaiṈāṈS KāRPPaRēShaṈ KēṬṬuK KoṆṬaTaiYaṬuTTu ATāṈi KuḺuMaM INTa MuṬiVai EṬuTTuḶḶaTu. TiṬṬaM MuṬiVaṬaiYuM TaRuVāYiL UḶḶaTāL 51 CaTaVīTa PaṄKai VaiTTiRuKKuM ATāṈi PōRṬS, US IDFC-Ṉ NiTiYuTaViYiṈṞi TiṬṬaTTaiT ToṬaRa MuṬiVu CeYTuḶḶaTāKa PeYaR VeḶiYiṬa ViRuMPāTa ATiKāRiKaḶ TeRiViTTuḶḶaṈaR.
+அ(A)தா(Tā)னி(Ṉi)க்(K)கு(Ku)ம்(M) இ(I)ல(La)ங்(Ṅ)கை(Kai) து(Tu)றை(Ṟai)மு(Mu)க(Ka) அ(A)தி(Ti)கா(Kā)ர(Ra)ச(Ca)பை(Pai)க்(K)கு(Ku)ம்(M) இ(I)டை(Ṭai)யி(Yi)லா(Lā)ன(Ṉa) ஒ(O)ப்(P)ப(Pa)ந்(N)த(Ta)ம்(M) அ(A)வ(Va)ர்(R)க(Ka)ளி(Ḷi)ன்(Ṉ) நி(Ni)ப(Pa)ந்(N)த(Ta)னை(Ṉai)க(Ka)ளு(Ḷu)க்(K)கு(Ku) இ(I)ண(Ṇa)ங்(Ṅ)க(Ka) மா(Mā)ற்(Ṟ)றி(Ṟi)ய(Ya)மை(Mai)க்(K)க(Ka)ப்(P)ப(Pa)ட(Ṭa) வே(Vē)ண்(Ṇ)டு(Ṭu)ம்(M) எ(E)ன்(Ṉ)று(Ṟu) அ(A)மெ(Me)ரி(Ri)க்(K)கா(Kā)வி(Vi)ன்(Ṉ) இ(I)ன்(Ṉ)ட(Ṭa)ர்(R)நே(Nē)ஷ(Sha)ன(Ṉa)ல்(L) டெ(Ṭe)வ(Va)ல(La)ப்(P)மெ(Me)ன்(Ṉ)ட்(Ṭ) ஃ(Akh)பை(Pai)னா(Ṉā)ன்(Ṉ)ஸ்(S) கா(Kā)ர்(R)ப்(P)ப(Pa)ரே(Rē)ஷ(Sha)ன்(Ṉ) கே(Kē)ட்(Ṭ)டு(Ṭu)க்(K) கொ(Ko)ண்(Ṇ)ட(Ṭa)தை(Tai)ய(Ya)டு(Ṭu)த்(T)து(Tu) அ(A)தா(Tā)னி(Ṉi) கு(Ku)ழு(Ḻu)ம(Ma)ம்(M) இ(I)ந்(N)த(Ta) மு(Mu)டி(Ṭi)வை(Vai) எ(E)டு(Ṭu)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu). தி(Ti)ட்(Ṭ)ட(Ṭa)ம்(M) மு(Mu)டி(Ṭi)வ(Va)டை(Ṭai)யு(Yu)ம்(M) த(Ta)ரு(Ru)வா(Vā)யி(Yi)ல்(L) உ(U)ள்(Ḷ)ள(Ḷa)தா(Tā)ல்(L) 51 ச(Ca)த(Ta)வீ(Vī)த(Ta) ப(Pa)ங்(Ṅ)கை(Kai) வை(Vai)த்(T)தி(Ti)ரு(Ru)க்(K)கு(Ku)ம்(M) அ(A)தா(Tā)னி(Ṉi) போ(Pō)ர்(R)ட்(Ṭ)ஸ்(S), US IDFC-ன்(Ṉ) நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)யி(Yi)ன்(Ṉ)றி(Ṟi) தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)தை(Tai)த்(T) தொ(To)ட(Ṭa)ர(Ra) மு(Mu)டி(Ṭi)வு(Vu) செ(Ce)ய்(Y)து(Tu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka) பெ(Pe)ய(Ya)ர்(R) வெ(Ve)ளி(Ḷi)யி(Yi)ட(Ṭa) வி(Vi)ரு(Ru)ம்(M)பா(Pā)த(Ta) அ(A)தி(Ti)கா(Kā)ரி(Ri)க(Ka)ள்(Ḷ) தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).
 
 *The Adani Group has taken the decision after the US International Development Finance Corporation has called for the agreement between Adani and the Port Authority of Sri Lanka to comply with their conditions.. Unnamed officials said that Adani Ports, who holds a 51 per cent share of the project, has decided to continue the project without the funding of the US IDFC.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தெரிவித்துள்ளனர்**|TeRiViTTuḶḶaṈaR.|*Reported*
-2|**நிபந்தனைகளுக்கு**|NiPaNTaṈaiKaḶuKKu|*For the conditions*
-3|**முடிவு**|MuṬiVu|*End*
-4|**செய்துள்ளதாக**|CeYTuḶḶaTāKa|*Has done*
-5|**வேண்டும்**|VēṆṬuM|*Should*
-6|**இன்டர்நேஷனல்**|IṈṬaRNēShaṈaL|*International*
-7|**தருவாயில்**|TaRuVāYiL|*Glitter*
-8|**அமெரிக்காவின்**|AMeRiKKāViṈ|*America*
-9|**பெயர்**|PeYaR|*Name*
-10|**வெளியிட**|VeḶiYiṬa|*Release*
-11|**டெவலப்மென்ட்**|ṬeVaLaPMeṈṬ|*Development*
-12|**போர்ட்ஸ்**|PōRṬS,|*Ports*
-13|**விரும்பாத**|ViRuMPāTa|*Unwilling*
-14|**உள்ளதால்**|UḶḶaTāL|*As in*
-15|**IDFC-ன்**|IDFC-Ṉ|*Idfc's*
-16|**அதிகாரசபைக்கும்**|ATiKāRaCaPaiKKuM|*Authority*
-17|**கேட்டுக்**|KēṬṬuK|*Request*
-18|**கொண்டதையடுத்து**|KoṆṬaTaiYaṬuTTu|*Contain*
-19|**நிதியுதவியின்றி**|NiTiYuTaViYiṈṞi|*Without financing*
-20|**எடுத்துள்ளது**|EṬuTTuḶḶaTu.|*Has been taken*
-21|**தொடர**|ToṬaRa|*To proceed*
-22|**அவர்களின்**|AVaRKaḶiṈ|*Their*
-23|**இலங்கை**|ILaṄKai|*Sri Lanka*
-24|**முடிவை**|MuṬiVai|*Concludes*
-25|**முடிவடையும்**|MuṬiVaṬaiYuM|*Ending*
-26|**மாற்றியமைக்கப்பட**|MāṞṞiYaMaiKKaPPaṬa|*Modified*
-27|**திட்டம்**|TiṬṬaM|*Plan*
-28|**இணங்க**|IṆaṄKa|*Accommodate*
-29|**என்று**|EṈṞu|*That*
-30|**துறைமுக**|TuṞaiMuKa|*Port*
-31|**ஃபைனான்ஸ்**|AkhPaiṈāṈS|*Finance*
-32|**திட்டத்தைத்**|TiṬṬaTTaiT|*Plan*
-33|**அதானி**|ATāṈi|*Adani*
-34|**சதவீத**|CaTaVīTa|*Percentage*
-35|**அதிகாரிகள்**|ATiKāRiKaḶ|*Officers*
-36|**குழுமம்**|KuḺuMaM|*Groups*
-37|**ஒப்பந்தம்**|OPPaNTaM|*Contract*
-38|**இடையிலான**|IṬaiYiLāṈa|*Between*
-39|**வைத்திருக்கும்**|VaiTTiRuKKuM|*Holding*
-40|**கார்ப்பரேஷன்**|KāRPPaRēShaṈ|*Corporation*
-41|**பங்கை**|PaṄKai|*Share*
-42|**அதானிக்கும்**|ATāṈiKKuM|*Adani*
-43|**இந்த**|INTa|*These*
+1|**கொண்டதையடுத்து**|கொ(Ko)ண்(Ṇ)ட(Ṭa)தை(Tai)ய(Ya)டு(Ṭu)த்(T)து(Tu)|*Contain*
+2|**துறைமுக**|து(Tu)றை(Ṟai)மு(Mu)க(Ka)|*Port*
+3|**ஒப்பந்தம்**|ஒ(O)ப்(P)ப(Pa)ந்(N)த(Ta)ம்(M)|*Contract*
+4|**ஃபைனான்ஸ்**|ஃ(Akh)பை(Pai)னா(Ṉā)ன்(Ṉ)ஸ்(S)|*Finance*
+5|**வெளியிட**|வெ(Ve)ளி(Ḷi)யி(Yi)ட(Ṭa)|*Release*
+6|**சதவீத**|ச(Ca)த(Ta)வீ(Vī)த(Ta)|*Percentage*
+7|**டெவலப்மென்ட்**|டெ(Ṭe)வ(Va)ல(La)ப்(P)மெ(Me)ன்(Ṉ)ட்(Ṭ)|*Development*
+8|**உள்ளதால்**|உ(U)ள்(Ḷ)ள(Ḷa)தா(Tā)ல்(L)|*As in*
+9|**போர்ட்ஸ்**|போ(Pō)ர்(R)ட்(Ṭ)ஸ்(S),|*Ports*
+10|**இந்த**|இ(I)ந்(N)த(Ta)|*These*
+11|**இலங்கை**|இ(I)ல(La)ங்(Ṅ)கை(Kai)|*Sri Lanka*
+12|**இணங்க**|இ(I)ண(Ṇa)ங்(Ṅ)க(Ka)|*Accommodate*
+13|**அதிகாரசபைக்கும்**|அ(A)தி(Ti)கா(Kā)ர(Ra)ச(Ca)பை(Pai)க்(K)கு(Ku)ம்(M)|*Authority*
+14|**திட்டம்**|தி(Ti)ட்(Ṭ)ட(Ṭa)ம்(M)|*Plan*
+15|**தருவாயில்**|த(Ta)ரு(Ru)வா(Vā)யி(Yi)ல்(L)|*Glitter*
+16|**முடிவை**|மு(Mu)டி(Ṭi)வை(Vai)|*Concludes*
+17|**நிபந்தனைகளுக்கு**|நி(Ni)ப(Pa)ந்(N)த(Ta)னை(Ṉai)க(Ka)ளு(Ḷu)க்(K)கு(Ku)|*For the conditions*
+18|**வைத்திருக்கும்**|வை(Vai)த்(T)தி(Ti)ரு(Ru)க்(K)கு(Ku)ம்(M)|*Holding*
+19|**தொடர**|தொ(To)ட(Ṭa)ர(Ra)|*To proceed*
+20|**முடிவு**|மு(Mu)டி(Ṭi)வு(Vu)|*End*
+21|**பெயர்**|பெ(Pe)ய(Ya)ர்(R)|*Name*
+22|**அதானி**|அ(A)தா(Tā)னி(Ṉi)|*Adani*
+23|**IDFC-ன்**|IDFC-ன்(Ṉ)|*Idfc's*
+24|**முடிவடையும்**|மு(Mu)டி(Ṭi)வ(Va)டை(Ṭai)யு(Yu)ம்(M)|*Ending*
+25|**இடையிலான**|இ(I)டை(Ṭai)யி(Yi)லா(Lā)ன(Ṉa)|*Between*
+26|**செய்துள்ளதாக**|செ(Ce)ய்(Y)து(Tu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka)|*Has done*
+27|**தெரிவித்துள்ளனர்**|தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).|*Reported*
+28|**கேட்டுக்**|கே(Kē)ட்(Ṭ)டு(Ṭu)க்(K)|*Request*
+29|**குழுமம்**|கு(Ku)ழு(Ḻu)ம(Ma)ம்(M)|*Groups*
+30|**நிதியுதவியின்றி**|நி(Ni)தி(Ti)யு(Yu)த(Ta)வி(Vi)யி(Yi)ன்(Ṉ)றி(Ṟi)|*Without financing*
+31|**எடுத்துள்ளது**|எ(E)டு(Ṭu)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Has been taken*
+32|**இன்டர்நேஷனல்**|இ(I)ன்(Ṉ)ட(Ṭa)ர்(R)நே(Nē)ஷ(Sha)ன(Ṉa)ல்(L)|*International*
+33|**விரும்பாத**|வி(Vi)ரு(Ru)ம்(M)பா(Pā)த(Ta)|*Unwilling*
+34|**அதிகாரிகள்**|அ(A)தி(Ti)கா(Kā)ரி(Ri)க(Ka)ள்(Ḷ)|*Officers*
+35|**திட்டத்தைத்**|தி(Ti)ட்(Ṭ)ட(Ṭa)த்(T)தை(Tai)த்(T)|*Plan*
+36|**பங்கை**|ப(Pa)ங்(Ṅ)கை(Kai)|*Share*
+37|**அமெரிக்காவின்**|அ(A)மெ(Me)ரி(Ri)க்(K)கா(Kā)வி(Vi)ன்(Ṉ)|*America*
+38|**அதானிக்கும்**|அ(A)தா(Tā)னி(Ṉi)க்(K)கு(Ku)ம்(M)|*Adani*
+39|**என்று**|எ(E)ன்(Ṉ)று(Ṟu)|*That*
+40|**மாற்றியமைக்கப்பட**|மா(Mā)ற்(Ṟ)றி(Ṟi)ய(Ya)மை(Mai)க்(K)க(Ka)ப்(P)ப(Pa)ட(Ṭa)|*Modified*
+41|**வேண்டும்**|வே(Vē)ண்(Ṇ)டு(Ṭu)ம்(M)|*Should*
+42|**கார்ப்பரேஷன்**|கா(Kā)ர்(R)ப்(P)ப(Pa)ரே(Rē)ஷ(Sha)ன்(Ṉ)|*Corporation*
+43|**அவர்களின்**|அ(A)வ(Va)ர்(R)க(Ka)ளி(Ḷi)ன்(Ṉ)|*Their*
 
 ---
 
 ## கடந்த மாதம், அமெரிக்க நீதித்துறை அதானி குழுமத்தின் நிறுவனர் தலைவர் கவுதம் அதானி மற்றும் ஏழு பேர் மீது, இந்திய அதிகாரிகளுக்கு 265 மில்லியன் அமெரிக்க டொலர்கள் லஞ்சமாக கொடுக்க சதி செய்ததாக குற்றம் சாட்டப்பட்டது. அதானி குழுமம் அனைத்து குற்றச்சாட்டுகளையும் ஆதாரமற்றது என்று மறுத்துள்ளது. மேலும், சட்டப்படி இந்த விவகாரம் கையாளப்படும் என்றும் உறுதியளித்துள்ளது. இந்நிலையில், அமெரிக்க நிறுவனத்தின் நிதி உதவியை ஏற்க அதானி போர்ட் நிறுவனம் மறுத்துள்ளது.
 
-KaṬaNTa MāTaM, AMeRiKKa NīTiTTuṞai ATāṈi KuḺuMaTTiṈ NiṞuVaṈaR TaLaiVaR KaVuTaM ATāṈi MaṞṞuM ĒḺu PēR MīTu, INTiYa ATiKāRiKaḶuKKu 265 MiLLiYaṈ AMeRiKKa ṬoLaRKaḶ LaÑCaMāKa KoṬuKKa CaTi CeYTaTāKa KuṞṞaM CāṬṬaPPaṬṬaTu. ATāṈi KuḺuMaM AṈaiTTu KuṞṞaCCāṬṬuKaḶaiYuM ĀTāRaMaṞṞaTu EṈṞu MaṞuTTuḶḶaTu. MēLuM, CaṬṬaPPaṬi INTa ViVaKāRaM KaiYāḶaPPaṬuM EṈṞuM UṞuTiYaḶiTTuḶḶaTu. INNiLaiYiL, AMeRiKKa NiṞuVaṈaTTiṈ NiTi UTaViYai ĒṞKa ATāṈi PōRṬ NiṞuVaṈaM MaṞuTTuḶḶaTu.
+க(Ka)ட(Ṭa)ந்(N)த(Ta) மா(Mā)த(Ta)ம்(M), அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka) நீ(Nī)தி(Ti)த்(T)து(Tu)றை(Ṟai) அ(A)தா(Tā)னி(Ṉi) கு(Ku)ழு(Ḻu)ம(Ma)த்(T)தி(Ti)ன்(Ṉ) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ர்(R) த(Ta)லை(Lai)வ(Va)ர்(R) க(Ka)வு(Vu)த(Ta)ம்(M) அ(A)தா(Tā)னி(Ṉi) ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M) ஏ(Ē)ழு(Ḻu) பே(Pē)ர்(R) மீ(Mī)து(Tu), இ(I)ந்(N)தி(Ti)ய(Ya) அ(A)தி(Ti)கா(Kā)ரி(Ri)க(Ka)ளு(Ḷu)க்(K)கு(Ku) 265 மி(Mi)ல்(L)லி(Li)ய(Ya)ன்(Ṉ) அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka) டொ(Ṭo)ல(La)ர்(R)க(Ka)ள்(Ḷ) ல(La)ஞ்(Ñ)ச(Ca)மா(Mā)க(Ka) கொ(Ko)டு(Ṭu)க்(K)க(Ka) ச(Ca)தி(Ti) செ(Ce)ய்(Y)த(Ta)தா(Tā)க(Ka) கு(Ku)ற்(Ṟ)ற(Ṟa)ம்(M) சா(Cā)ட்(Ṭ)ட(Ṭa)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)து(Tu). அ(A)தா(Tā)னி(Ṉi) கு(Ku)ழு(Ḻu)ம(Ma)ம்(M) அ(A)னை(Ṉai)த்(T)து(Tu) கு(Ku)ற்(Ṟ)ற(Ṟa)ச்(C)சா(Cā)ட்(Ṭ)டு(Ṭu)க(Ka)ளை(Ḷai)யு(Yu)ம்(M) ஆ(Ā)தா(Tā)ர(Ra)ம(Ma)ற்(Ṟ)ற(Ṟa)து(Tu) எ(E)ன்(Ṉ)று(Ṟu) ம(Ma)று(Ṟu)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu). மே(Mē)லு(Lu)ம்(M), ச(Ca)ட்(Ṭ)ட(Ṭa)ப்(P)ப(Pa)டி(Ṭi) இ(I)ந்(N)த(Ta) வி(Vi)வ(Va)கா(Kā)ர(Ra)ம்(M) கை(Kai)யா(Yā)ள(Ḷa)ப்(P)ப(Pa)டு(Ṭu)ம்(M) எ(E)ன்(Ṉ)று(Ṟu)ம்(M) உ(U)று(Ṟu)தி(Ti)ய(Ya)ளி(Ḷi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu). இ(I)ந்(N)நி(Ni)லை(Lai)யி(Yi)ல்(L), அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)தி(Ti)ன்(Ṉ) நி(Ni)தி(Ti) உ(U)த(Ta)வி(Vi)யை(Yai) ஏ(Ē)ற்(Ṟ)க(Ka) அ(A)தா(Tā)னி(Ṉi) போ(Pō)ர்(R)ட்(Ṭ) நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ம்(M) ம(Ma)று(Ṟu)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *Last month, Gautam Adani, the founder of the US Justice Adani Group and seven, was accused of conspiring to bribe Indian officials for $ 265 million.. Adani Group has denied all the allegations unfounded. Moreover, it has also promised to handle the issue by law. In this case, Adani Port has refused to accept the US company's financial assistance.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அமெரிக்க**|AMeRiKKa|*US*
-2|**விவகாரம்**|ViVaKāRaM|*Affair*
-3|**நிதி**|NiTi|*Finance*
-4|**ஏற்க**|ĒṞKa|*Adopt*
-5|**மற்றும்**|MaṞṞuM|*And*
-6|**செய்ததாக**|CeYTaTāKa|*Done*
-7|**சாட்டப்பட்டது**|CāṬṬaPPaṬṬaTu.|*Have been fed*
-8|**குற்றச்சாட்டுகளையும்**|KuṞṞaCCāṬṬuKaḶaiYuM|*Allegations too*
-9|**நீதித்துறை**|NīTiTTuṞai|*Judiciary*
-10|**நிறுவனர்**|NiṞuVaṈaR|*Founder*
-11|**அதிகாரிகளுக்கு**|ATiKāRiKaḶuKKu|*To the authorities*
-12|**அனைத்து**|AṈaiTTu|*All*
-13|**நிறுவனம்**|NiṞuVaṈaM|*Corporation*
-14|**மாதம்**|MāTaM,|*Month*
-15|**இந்நிலையில்**|INNiLaiYiL,|*Underline*
-16|**மீது**|MīTu,|*On*
-17|**கையாளப்படும்**|KaiYāḶaPPaṬuM|*Will be handled*
-18|**ஏழு**|ĒḺu|*Seven*
-19|**நிறுவனத்தின்**|NiṞuVaṈaTTiṈ|*Corporate*
-20|**லஞ்சமாக**|LaÑCaMāKa|*Bribed*
-21|**பேர்**|PēR|*Character*
-22|**தலைவர்**|TaLaiVaR|*Chairman*
-23|**சதி**|CaTi|*Conspiracy*
-24|**உதவியை**|UTaViYai|*Assist*
-25|**மில்லியன்**|MiLLiYaṈ|*Million*
-26|**குழுமத்தின்**|KuḺuMaTTiṈ|*Group of people*
-27|**டொலர்கள்**|ṬoLaRKaḶ|*Dollars*
-28|**ஆதாரமற்றது**|ĀTāRaMaṞṞaTu|*Indispensable*
-29|**என்று**|EṈṞu|*That*
-30|**உறுதியளித்துள்ளது**|UṞuTiYaḶiTTuḶḶaTu.|*Has promised*
-31|**சட்டப்படி**|CaṬṬaPPaṬi|*Legally*
-32|**மறுத்துள்ளது**|MaṞuTTuḶḶaTu.|*Has refused*
-33|**கொடுக்க**|KoṬuKKa|*Give*
-34|**இந்த**|INTa|*These*
-35|**கடந்த**|KaṬaNTa|*Past*
-36|**போர்ட்**|PōRṬ|*Port*
-37|**அதானி**|ATāṈi|*Adani*
-38|**குழுமம்**|KuḺuMaM|*Groups*
-39|**கவுதம்**|KaVuTaM|*Gautam*
-40|**இந்திய**|INTiYa|*Indian*
-41|**குற்றம்**|KuṞṞaM|*Crime*
-42|**மேலும்**|MēLuM,|*And*
-43|**என்றும்**|EṈṞuM|*Ever*
+1|**நிறுவனர்**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ர்(R)|*Founder*
+2|**மாதம்**|மா(Mā)த(Ta)ம்(M),|*Month*
+3|**மேலும்**|மே(Mē)லு(Lu)ம்(M),|*And*
+4|**கவுதம்**|க(Ka)வு(Vu)த(Ta)ம்(M)|*Gautam*
+5|**ஆதாரமற்றது**|ஆ(Ā)தா(Tā)ர(Ra)ம(Ma)ற்(Ṟ)ற(Ṟa)து(Tu)|*Indispensable*
+6|**ஏற்க**|ஏ(Ē)ற்(Ṟ)க(Ka)|*Adopt*
+7|**மில்லியன்**|மி(Mi)ல்(L)லி(Li)ய(Ya)ன்(Ṉ)|*Million*
+8|**இந்த**|இ(I)ந்(N)த(Ta)|*These*
+9|**நிறுவனத்தின்**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)த்(T)தி(Ti)ன்(Ṉ)|*Corporate*
+10|**மற்றும்**|ம(Ma)ற்(Ṟ)று(Ṟu)ம்(M)|*And*
+11|**குற்றம்**|கு(Ku)ற்(Ṟ)ற(Ṟa)ம்(M)|*Crime*
+12|**உறுதியளித்துள்ளது**|உ(U)று(Ṟu)தி(Ti)ய(Ya)ளி(Ḷi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Has promised*
+13|**அனைத்து**|அ(A)னை(Ṉai)த்(T)து(Tu)|*All*
+14|**கையாளப்படும்**|கை(Kai)யா(Yā)ள(Ḷa)ப்(P)ப(Pa)டு(Ṭu)ம்(M)|*Will be handled*
+15|**என்றும்**|எ(E)ன்(Ṉ)று(Ṟu)ம்(M)|*Ever*
+16|**உதவியை**|உ(U)த(Ta)வி(Vi)யை(Yai)|*Assist*
+17|**கடந்த**|க(Ka)ட(Ṭa)ந்(N)த(Ta)|*Past*
+18|**இந்திய**|இ(I)ந்(N)தி(Ti)ய(Ya)|*Indian*
+19|**அதானி**|அ(A)தா(Tā)னி(Ṉi)|*Adani*
+20|**மீது**|மீ(Mī)து(Tu),|*On*
+21|**சதி**|ச(Ca)தி(Ti)|*Conspiracy*
+22|**நிறுவனம்**|நி(Ni)று(Ṟu)வ(Va)ன(Ṉa)ம்(M)|*Corporation*
+23|**செய்ததாக**|செ(Ce)ய்(Y)த(Ta)தா(Tā)க(Ka)|*Done*
+24|**தலைவர்**|த(Ta)லை(Lai)வ(Va)ர்(R)|*Chairman*
+25|**குற்றச்சாட்டுகளையும்**|கு(Ku)ற்(Ṟ)ற(Ṟa)ச்(C)சா(Cā)ட்(Ṭ)டு(Ṭu)க(Ka)ளை(Ḷai)யு(Yu)ம்(M)|*Allegations too*
+26|**நீதித்துறை**|நீ(Nī)தி(Ti)த்(T)து(Tu)றை(Ṟai)|*Judiciary*
+27|**லஞ்சமாக**|ல(La)ஞ்(Ñ)ச(Ca)மா(Mā)க(Ka)|*Bribed*
+28|**கொடுக்க**|கொ(Ko)டு(Ṭu)க்(K)க(Ka)|*Give*
+29|**குழுமம்**|கு(Ku)ழு(Ḻu)ம(Ma)ம்(M)|*Groups*
+30|**விவகாரம்**|வி(Vi)வ(Va)கா(Kā)ர(Ra)ம்(M)|*Affair*
+31|**டொலர்கள்**|டொ(Ṭo)ல(La)ர்(R)க(Ka)ள்(Ḷ)|*Dollars*
+32|**பேர்**|பே(Pē)ர்(R)|*Character*
+33|**குழுமத்தின்**|கு(Ku)ழு(Ḻu)ம(Ma)த்(T)தி(Ti)ன்(Ṉ)|*Group of people*
+34|**இந்நிலையில்**|இ(I)ந்(N)நி(Ni)லை(Lai)யி(Yi)ல்(L),|*Underline*
+35|**சட்டப்படி**|ச(Ca)ட்(Ṭ)ட(Ṭa)ப்(P)ப(Pa)டி(Ṭi)|*Legally*
+36|**நிதி**|நி(Ni)தி(Ti)|*Finance*
+37|**அதிகாரிகளுக்கு**|அ(A)தி(Ti)கா(Kā)ரி(Ri)க(Ka)ளு(Ḷu)க்(K)கு(Ku)|*To the authorities*
+38|**போர்ட்**|போ(Pō)ர்(R)ட்(Ṭ)|*Port*
+39|**அமெரிக்க**|அ(A)மெ(Me)ரி(Ri)க்(K)க(Ka)|*US*
+40|**என்று**|எ(E)ன்(Ṉ)று(Ṟu)|*That*
+41|**மறுத்துள்ளது**|ம(Ma)று(Ṟu)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Has refused*
+42|**சாட்டப்பட்டது**|சா(Cā)ட்(Ṭ)ட(Ṭa)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)து(Tu).|*Have been fed*
+43|**ஏழு**|ஏ(Ē)ழு(Ḻu)|*Seven*
 
 ---

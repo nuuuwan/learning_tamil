@@ -6,95 +6,95 @@
 
 ## தீவிர சிகிச்சைப் பிரிவில் சிவாஜிலிங்கம் அனுமதி
 
-TīViRa CiKiCCaiP PiRiViL CiVāJiLiṄKaM AṈuMaTi
+தீ(Tī)வி(Vi)ர(Ra) சி(Ci)கி(Ki)ச்(C)சை(Cai)ப்(P) பி(Pi)ரி(Ri)வி(Vi)ல்(L) சி(Ci)வா(Vā)ஜி(Ji)லி(Li)ங்(Ṅ)க(Ka)ம்(M) அ(A)னு(Ṉu)ம(Ma)தி(Ti)
 
 *Sivajilingam is allowed in intensive care unit*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-2|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-3|**தீவிர**|TīViRa|*Sore*
-4|**பிரிவில்**|PiRiViL|*Segment*
-5|**அனுமதி**|AṈuMaTi|*Admission*
+1|**அனுமதி**|அ(A)னு(Ṉu)ம(Ma)தி(Ti)|*Admission*
+2|**சிவாஜிலிங்கம்**|சி(Ci)வா(Vā)ஜி(Ji)லி(Li)ங்(Ṅ)க(Ka)ம்(M)|*Shivajilingam*
+3|**சிகிச்சைப்**|சி(Ci)கி(Ki)ச்(C)சை(Cai)ப்(P)|*Inferture*
+4|**தீவிர**|தீ(Tī)வி(Vi)ர(Ra)|*Sore*
+5|**பிரிவில்**|பி(Pi)ரி(Ri)வி(Vi)ல்(L)|*Segment*
 
 ---
 
 ## சுகயீனம் காரணமாக முன்னாள் பாராளுமன்ற உறுப்பினர் எம். கே. சிவாஜிலிங்கம் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டுள்ளதாக உறவினர்கள் தெரிவித்துள்ளனர்.
 
-CuKaYīṈaM KāRaṆaMāKa MuṈṈāḶ PāRāḶuMaṈṞa UṞuPPiṈaR EM. Kē. CiVāJiLiṄKaM KoḺuMPiL UḶḶa TaṈiYāR VaiTTiYaCāLaiYiL TīViRa CiKiCCaiP PiRiViL AṈuMaTiKKaPPaṬṬuḶḶaTāKa UṞaViṈaRKaḶ TeRiViTTuḶḶaṈaR.
+சு(Cu)க(Ka)யீ(Yī)ன(Ṉa)ம்(M) கா(Kā)ர(Ra)ண(Ṇa)மா(Mā)க(Ka) மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ) பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa) உ(U)று(Ṟu)ப்(P)பி(Pi)ன(Ṉa)ர்(R) எ(E)ம்(M). கே(Kē). சி(Ci)வா(Vā)ஜி(Ji)லி(Li)ங்(Ṅ)க(Ka)ம்(M) கொ(Ko)ழு(Ḻu)ம்(M)பி(Pi)ல்(L) உ(U)ள்(Ḷ)ள(Ḷa) த(Ta)னி(Ṉi)யா(Yā)ர்(R) வை(Vai)த்(T)தி(Ti)ய(Ya)சா(Cā)லை(Lai)யி(Yi)ல்(L) தீ(Tī)வி(Vi)ர(Ra) சி(Ci)கி(Ki)ச்(C)சை(Cai)ப்(P) பி(Pi)ரி(Ri)வி(Vi)ல்(L) அ(A)னு(Ṉu)ம(Ma)தி(Ti)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka) உ(U)ற(Ṟa)வி(Vi)ன(Ṉa)ர்(R)க(Ka)ள்(Ḷ) தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).
 
 *Former Member of Parliament. K. Relatives said that Sivajilingam has been admitted to the intensive care unit at a private hospital in Colombo.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தெரிவித்துள்ளனர்**|TeRiViTTuḶḶaṈaR.|*Reported*
-2|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-3|**பிரிவில்**|PiRiViL|*Segment*
-4|**கே**|Kē.|*K*
-5|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-6|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
-7|**தீவிர**|TīViRa|*Sore*
-8|**சுகயீனம்**|CuKaYīṈaM|*Indigenous*
-9|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-10|**அனுமதிக்கப்பட்டுள்ளதாக**|AṈuMaTiKKaPPaṬṬuḶḶaTāKa|*As permitted*
-11|**எம்**|EM.|*M.*
-12|**காரணமாக**|KāRaṆaMāKa|*Produce*
-13|**உறுப்பினர்**|UṞuPPiṈaR|*Member*
-14|**உறவினர்கள்**|UṞaViṈaRKaḶ|*Relatives*
-15|**உள்ள**|UḶḶa|*Existing*
-16|**பாராளுமன்ற**|PāRāḶuMaṈṞa|*Parliament*
-17|**தனியார்**|TaṈiYāR|*Private*
-18|**முன்னாள்**|MuṈṈāḶ|*Ex*
+1|**எம்**|எ(E)ம்(M).|*M.*
+2|**சுகயீனம்**|சு(Cu)க(Ka)யீ(Yī)ன(Ṉa)ம்(M)|*Indigenous*
+3|**முன்னாள்**|மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ)|*Ex*
+4|**தனியார்**|த(Ta)னி(Ṉi)யா(Yā)ர்(R)|*Private*
+5|**சிவாஜிலிங்கம்**|சி(Ci)வா(Vā)ஜி(Ji)லி(Li)ங்(Ṅ)க(Ka)ம்(M)|*Shivajilingam*
+6|**சிகிச்சைப்**|சி(Ci)கி(Ki)ச்(C)சை(Cai)ப்(P)|*Inferture*
+7|**தெரிவித்துள்ளனர்**|தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)ன(Ṉa)ர்(R).|*Reported*
+8|**உள்ள**|உ(U)ள்(Ḷ)ள(Ḷa)|*Existing*
+9|**கே**|கே(Kē).|*K*
+10|**தீவிர**|தீ(Tī)வி(Vi)ர(Ra)|*Sore*
+11|**உறவினர்கள்**|உ(U)ற(Ṟa)வி(Vi)ன(Ṉa)ர்(R)க(Ka)ள்(Ḷ)|*Relatives*
+12|**வைத்தியசாலையில்**|வை(Vai)த்(T)தி(Ti)ய(Ya)சா(Cā)லை(Lai)யி(Yi)ல்(L)|*At the hospital*
+13|**உறுப்பினர்**|உ(U)று(Ṟu)ப்(P)பி(Pi)ன(Ṉa)ர்(R)|*Member*
+14|**கொழும்பில்**|கொ(Ko)ழு(Ḻu)ம்(M)பி(Pi)ல்(L)|*In Colombo*
+15|**அனுமதிக்கப்பட்டுள்ளதாக**|அ(A)னு(Ṉu)ம(Ma)தி(Ti)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka)|*As permitted*
+16|**பிரிவில்**|பி(Pi)ரி(Ri)வி(Vi)ல்(L)|*Segment*
+17|**பாராளுமன்ற**|பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)|*Parliament*
+18|**காரணமாக**|கா(Kā)ர(Ra)ண(Ṇa)மா(Mā)க(Ka)|*Produce*
 
 ---
 
 ## தமிழ்த் தேசியக் கட்சியின் பொதுச்செயலாளரான சிவாஜிலிங்கம் கொழும்புக்கு மருத்துவ பரிசோனைக்காகச் சென்றிருந்த நிலையில் திடீரென உடல் நிலை பாதிப்புக்குள்ளானார்.
 
-TaMiḺT TēCiYaK KaṬCiYiṈ PoTuCCeYaLāḶaRāṈa CiVāJiLiṄKaM KoḺuMPuKKu MaRuTTuVa PaRiCōṈaiKKāKaC CeṈṞiRuNTa NiLaiYiL TiṬīReṈa UṬaL NiLai PāTiPPuKKuḶḶāṈāR.
+த(Ta)மி(Mi)ழ்(Ḻ)த்(T) தே(Tē)சி(Ci)ய(Ya)க்(K) க(Ka)ட்(Ṭ)சி(Ci)யி(Yi)ன்(Ṉ) பொ(Po)து(Tu)ச்(C)செ(Ce)ய(Ya)லா(Lā)ள(Ḷa)ரா(Rā)ன(Ṉa) சி(Ci)வா(Vā)ஜி(Ji)லி(Li)ங்(Ṅ)க(Ka)ம்(M) கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu)க்(K)கு(Ku) ம(Ma)ரு(Ru)த்(T)து(Tu)வ(Va) ப(Pa)ரி(Ri)சோ(Cō)னை(Ṉai)க்(K)கா(Kā)க(Ka)ச்(C) செ(Ce)ன்(Ṉ)றி(Ṟi)ரு(Ru)ந்(N)த(Ta) நி(Ni)லை(Lai)யி(Yi)ல்(L) தி(Ti)டீ(Ṭī)ரெ(Re)ன(Ṉa) உ(U)ட(Ṭa)ல்(L) நி(Ni)லை(Lai) பா(Pā)தி(Ti)ப்(P)பு(Pu)க்(K)கு(Ku)ள்(Ḷ)ளா(Ḷā)னா(Ṉā)ர்(R).
 
 *Sivajilingam, the general secretary of the Tamil National Party, was suddenly affected by his visit to Colombo.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**உடல்**|UṬaL|*Body*
-2|**கட்சியின்**|KaṬCiYiṈ|*Party*
-3|**நிலையில்**|NiLaiYiL|*In place*
-4|**நிலை**|NiLai|*Position*
-5|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-6|**பொதுச்செயலாளரான**|PoTuCCeYaLāḶaRāṈa|*General*
-7|**மருத்துவ**|MaRuTTuVa|*Clinical*
-8|**திடீரென**|TiṬīReṈa|*Suddenly*
-9|**பரிசோனைக்காகச்**|PaRiCōṈaiKKāKaC|*Chase*
-10|**தேசியக்**|TēCiYaK|*National*
-11|**கொழும்புக்கு**|KoḺuMPuKKu|*To Colombo*
-12|**தமிழ்த்**|TaMiḺT|*Tamil*
-13|**பாதிப்புக்குள்ளானார்**|PāTiPPuKKuḶḶāṈāR.|*Having vulnerable*
-14|**சென்றிருந்த**|CeṈṞiRuNTa|*Visited*
+1|**திடீரென**|தி(Ti)டீ(Ṭī)ரெ(Re)ன(Ṉa)|*Suddenly*
+2|**உடல்**|உ(U)ட(Ṭa)ல்(L)|*Body*
+3|**பரிசோனைக்காகச்**|ப(Pa)ரி(Ri)சோ(Cō)னை(Ṉai)க்(K)கா(Kā)க(Ka)ச்(C)|*Chase*
+4|**சென்றிருந்த**|செ(Ce)ன்(Ṉ)றி(Ṟi)ரு(Ru)ந்(N)த(Ta)|*Visited*
+5|**சிவாஜிலிங்கம்**|சி(Ci)வா(Vā)ஜி(Ji)லி(Li)ங்(Ṅ)க(Ka)ம்(M)|*Shivajilingam*
+6|**கொழும்புக்கு**|கொ(Ko)ழு(Ḻu)ம்(M)பு(Pu)க்(K)கு(Ku)|*To Colombo*
+7|**தேசியக்**|தே(Tē)சி(Ci)ய(Ya)க்(K)|*National*
+8|**மருத்துவ**|ம(Ma)ரு(Ru)த்(T)து(Tu)வ(Va)|*Clinical*
+9|**பொதுச்செயலாளரான**|பொ(Po)து(Tu)ச்(C)செ(Ce)ய(Ya)லா(Lā)ள(Ḷa)ரா(Rā)ன(Ṉa)|*General*
+10|**நிலை**|நி(Ni)லை(Lai)|*Position*
+11|**பாதிப்புக்குள்ளானார்**|பா(Pā)தி(Ti)ப்(P)பு(Pu)க்(K)கு(Ku)ள்(Ḷ)ளா(Ḷā)னா(Ṉā)ர்(R).|*Having vulnerable*
+12|**தமிழ்த்**|த(Ta)மி(Mi)ழ்(Ḻ)த்(T)|*Tamil*
+13|**நிலையில்**|நி(Ni)லை(Lai)யி(Yi)ல்(L)|*In place*
+14|**கட்சியின்**|க(Ka)ட்(Ṭ)சி(Ci)யி(Yi)ன்(Ṉ)|*Party*
 
 ---
 
 ## இதனை அடுத்து கொழும்பில் அமைந்துள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டு தீவிர சிகிச்சைப் பிரிவில் பிரிவில் சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
 
-ITaṈai AṬuTTu KoḺuMPiL AMaiNTuḶḶa TaṈiYāR VaiTTiYaCāLaiYiL AṈuMaTiKKaPPaṬṬu TīViRa CiKiCCaiP PiRiViL PiRiViL CiKiCCai PeṞṞu VaRuKiṈṞaMai KuṞiPPiṬaTTaKKaTu.
+இ(I)த(Ta)னை(Ṉai) அ(A)டு(Ṭu)த்(T)து(Tu) கொ(Ko)ழு(Ḻu)ம்(M)பி(Pi)ல்(L) அ(A)மை(Mai)ந்(N)து(Tu)ள்(Ḷ)ள(Ḷa) த(Ta)னி(Ṉi)யா(Yā)ர்(R) வை(Vai)த்(T)தி(Ti)ய(Ya)சா(Cā)லை(Lai)யி(Yi)ல்(L) அ(A)னு(Ṉu)ம(Ma)தி(Ti)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu) தீ(Tī)வி(Vi)ர(Ra) சி(Ci)கி(Ki)ச்(C)சை(Cai)ப்(P) பி(Pi)ரி(Ri)வி(Vi)ல்(L) பி(Pi)ரி(Ri)வி(Vi)ல்(L) சி(Ci)கி(Ki)ச்(C)சை(Cai) பெ(Pe)ற்(Ṟ)று(Ṟu) வ(Va)ரு(Ru)கி(Ki)ன்(Ṉ)ற(Ṟa)மை(Mai) கு(Ku)றி(Ṟi)ப்(P)பி(Pi)ட(Ṭa)த்(T)த(Ta)க்(K)க(Ka)து(Tu).
 
 *It is noteworthy that it was admitted to a private hospital in Colombo and is being treated in the intensive care unit.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-2|**சிகிச்சை**|CiKiCCai|*Treatment*
-3|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-4|**குறிப்பிடத்தக்கது**|KuṞiPPiṬaTTaKKaTu.|*Notable*
-5|**தீவிர**|TīViRa|*Sore*
-6|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
-7|**வருகின்றமை**|VaRuKiṈṞaMai|*Visiting*
-8|**இதனை**|ITaṈai|*This*
-9|**பெற்று**|PeṞṞu|*Obtaining*
-10|**அடுத்து**|AṬuTTu|*Next*
-11|**பிரிவில்**|PiRiViL|*Segment*
-12|**அனுமதிக்கப்பட்டு**|AṈuMaTiKKaPPaṬṬu|*Permitted*
-13|**தனியார்**|TaṈiYāR|*Private*
-14|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
+1|**அடுத்து**|அ(A)டு(Ṭu)த்(T)து(Tu)|*Next*
+2|**இதனை**|இ(I)த(Ta)னை(Ṉai)|*This*
+3|**தனியார்**|த(Ta)னி(Ṉi)யா(Yā)ர்(R)|*Private*
+4|**அமைந்துள்ள**|அ(A)மை(Mai)ந்(N)து(Tu)ள்(Ḷ)ள(Ḷa)|*Seated*
+5|**சிகிச்சைப்**|சி(Ci)கி(Ki)ச்(C)சை(Cai)ப்(P)|*Inferture*
+6|**தீவிர**|தீ(Tī)வி(Vi)ர(Ra)|*Sore*
+7|**சிகிச்சை**|சி(Ci)கி(Ki)ச்(C)சை(Cai)|*Treatment*
+8|**வைத்தியசாலையில்**|வை(Vai)த்(T)தி(Ti)ய(Ya)சா(Cā)லை(Lai)யி(Yi)ல்(L)|*At the hospital*
+9|**வருகின்றமை**|வ(Va)ரு(Ru)கி(Ki)ன்(Ṉ)ற(Ṟa)மை(Mai)|*Visiting*
+10|**கொழும்பில்**|கொ(Ko)ழு(Ḻu)ம்(M)பி(Pi)ல்(L)|*In Colombo*
+11|**பிரிவில்**|பி(Pi)ரி(Ri)வி(Vi)ல்(L)|*Segment*
+12|**குறிப்பிடத்தக்கது**|கு(Ku)றி(Ṟi)ப்(P)பி(Pi)ட(Ṭa)த்(T)த(Ta)க்(K)க(Ka)து(Tu).|*Notable*
+13|**பெற்று**|பெ(Pe)ற்(Ṟ)று(Ṟu)|*Obtaining*
+14|**அனுமதிக்கப்பட்டு**|அ(A)னு(Ṉu)ம(Ma)தி(Ti)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)|*Permitted*
 
 ---

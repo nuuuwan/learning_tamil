@@ -6,227 +6,227 @@
 
 ## முன்னாள் அமைச்சர் தற்கொலைக்கு முயற்சி
 
-MuṈṈāḶ AMaiCCaR TaṞKoLaiKKu MuYaṞCi
+மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ) அ(A)மை(Mai)ச்(C)ச(Ca)ர்(R) த(Ta)ற்(Ṟ)கொ(Ko)லை(Lai)க்(K)கு(Ku) மு(Mu)ய(Ya)ற்(Ṟ)சி(Ci)
 
 *Attempt to commit suicide*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**முயற்சி**|MuYaṞCi|*Attempt*
-2|**அமைச்சர்**|AMaiCCaR|*Cabinet*
-3|**தற்கொலைக்கு**|TaṞKoLaiKKu|*Suicide*
-4|**முன்னாள்**|MuṈṈāḶ|*Ex*
+1|**முன்னாள்**|மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ)|*Ex*
+2|**முயற்சி**|மு(Mu)ய(Ya)ற்(Ṟ)சி(Ci)|*Attempt*
+3|**அமைச்சர்**|அ(A)மை(Mai)ச்(C)ச(Ca)ர்(R)|*Cabinet*
+4|**தற்கொலைக்கு**|த(Ta)ற்(Ṟ)கொ(Ko)லை(Lai)க்(K)கு(Ku)|*Suicide*
 
 ---
 
 ## தென்கொரியாவில் அவசரநிலை இராணுவச் சட்டத்துக்கு பரிந்துரைத்ததற்காக கைதான அந்நாட்டின் முன்னாள் பாதுகாப்பு அமைச்சர் கிம் யாங் ஹயூன் சிறையில் தன் உயிரைமாய்த்துக்கொள்ள முயற்சித்துள்ளார்.
 
-TeṈKoRiYāViL AVaCaRaNiLai IRāṆuVaC CaṬṬaTTuKKu PaRiNTuRaiTTaTaṞKāKa KaiTāṈa ANNāṬṬiṈ MuṈṈāḶ PāTuKāPPu AMaiCCaR KiM YāṄ HaYūṈ CiṞaiYiL TaṈ UYiRaiMāYTTuKKoḶḶa MuYaṞCiTTuḶḶāR.
+தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā)வி(Vi)ல்(L) அ(A)வ(Va)ச(Ca)ர(Ra)நி(Ni)லை(Lai) இ(I)ரா(Rā)ணு(Ṇu)வ(Va)ச்(C) ச(Ca)ட்(Ṭ)ட(Ṭa)த்(T)து(Tu)க்(K)கு(Ku) ப(Pa)ரி(Ri)ந்(N)து(Tu)ரை(Rai)த்(T)த(Ta)த(Ta)ற்(Ṟ)கா(Kā)க(Ka) கை(Kai)தா(Tā)ன(Ṉa) அ(A)ந்(N)நா(Nā)ட்(Ṭ)டி(Ṭi)ன்(Ṉ) மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ) பா(Pā)து(Tu)கா(Kā)ப்(P)பு(Pu) அ(A)மை(Mai)ச்(C)ச(Ca)ர்(R) கி(Ki)ம்(M) யா(Yā)ங்(Ṅ) ஹ(Ha)யூ(Yū)ன்(Ṉ) சி(Ci)றை(Ṟai)யி(Yi)ல்(L) த(Ta)ன்(Ṉ) உ(U)யி(Yi)ரை(Rai)மா(Mā)ய்(Y)த்(T)து(Tu)க்(K)கொ(Ko)ள்(Ḷ)ள(Ḷa) மு(Mu)ய(Ya)ற்(Ṟ)சி(Ci)த்(T)து(Tu)ள்(Ḷ)ளா(Ḷā)ர்(R).
 
 *Former Defense Minister Kim Yang Huen, who has been arrested for recommending the Emergency Military Act in South Korea, has tried to make his life in the jail.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**பாதுகாப்பு**|PāTuKāPPu|*Protection*
-2|**அவசரநிலை**|AVaCaRaNiLai|*Emergency*
-3|**அமைச்சர்**|AMaiCCaR|*Cabinet*
-4|**சட்டத்துக்கு**|CaṬṬaTTuKKu|*To the law*
-5|**கிம்**|KiM|*Kim*
-6|**சிறையில்**|CiṞaiYiL|*In jail*
-7|**இராணுவச்**|IRāṆuVaC|*Military*
-8|**கைதான**|KaiTāṈa|*Arrest*
-9|**யாங்**|YāṄ|*Yang*
-10|**அந்நாட்டின்**|ANNāṬṬiṈ|*Nation*
-11|**உயிரைமாய்த்துக்கொள்ள**|UYiRaiMāYTTuKKoḶḶa|*To live in life*
-12|**பரிந்துரைத்ததற்காக**|PaRiNTuRaiTTaTaṞKāKa|*For recommended*
-13|**ஹயூன்**|HaYūṈ|*Haun*
-14|**தன்**|TaṈ|*Her*
-15|**தென்கொரியாவில்**|TeṈKoRiYāViL|*In South Korea*
-16|**முயற்சித்துள்ளார்**|MuYaṞCiTTuḶḶāR.|*Has tried*
-17|**முன்னாள்**|MuṈṈāḶ|*Ex*
+1|**இராணுவச்**|இ(I)ரா(Rā)ணு(Ṇu)வ(Va)ச்(C)|*Military*
+2|**யாங்**|யா(Yā)ங்(Ṅ)|*Yang*
+3|**சட்டத்துக்கு**|ச(Ca)ட்(Ṭ)ட(Ṭa)த்(T)து(Tu)க்(K)கு(Ku)|*To the law*
+4|**தென்கொரியாவில்**|தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā)வி(Vi)ல்(L)|*In South Korea*
+5|**அமைச்சர்**|அ(A)மை(Mai)ச்(C)ச(Ca)ர்(R)|*Cabinet*
+6|**முன்னாள்**|மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ)|*Ex*
+7|**உயிரைமாய்த்துக்கொள்ள**|உ(U)யி(Yi)ரை(Rai)மா(Mā)ய்(Y)த்(T)து(Tu)க்(K)கொ(Ko)ள்(Ḷ)ள(Ḷa)|*To live in life*
+8|**முயற்சித்துள்ளார்**|மு(Mu)ய(Ya)ற்(Ṟ)சி(Ci)த்(T)து(Tu)ள்(Ḷ)ளா(Ḷā)ர்(R).|*Has tried*
+9|**கைதான**|கை(Kai)தா(Tā)ன(Ṉa)|*Arrest*
+10|**பாதுகாப்பு**|பா(Pā)து(Tu)கா(Kā)ப்(P)பு(Pu)|*Protection*
+11|**தன்**|த(Ta)ன்(Ṉ)|*Her*
+12|**பரிந்துரைத்ததற்காக**|ப(Pa)ரி(Ri)ந்(N)து(Tu)ரை(Rai)த்(T)த(Ta)த(Ta)ற்(Ṟ)கா(Kā)க(Ka)|*For recommended*
+13|**கிம்**|கி(Ki)ம்(M)|*Kim*
+14|**சிறையில்**|சி(Ci)றை(Ṟai)யி(Yi)ல்(L)|*In jail*
+15|**ஹயூன்**|ஹ(Ha)யூ(Yū)ன்(Ṉ)|*Haun*
+16|**அந்நாட்டின்**|அ(A)ந்(N)நா(Nā)ட்(Ṭ)டி(Ṭi)ன்(Ṉ)|*Nation*
+17|**அவசரநிலை**|அ(A)வ(Va)ச(Ca)ர(Ra)நி(Ni)லை(Lai)|*Emergency*
 
 ---
 
 ## தென்கொரியாவில் அவசரநிலை இராணுவச் சட்டம் அண்மையில் கொண்டுவரப்பட்ட நிலையில், கடும் எதிர்ப்புக்கு பின்னா் திரும்பப் பெறப்பட்டது. இந்தப் பரிந்துரையை ஜனாதிபதி யூன் சுக் இயோலுக்கு அளித்த குற்றச்சாட்டில் முன்னாள் பாதுகாப்பு அமைச்சா் கிம் யாங் ஹயூன் ஞாயிற்றுக்கிழமை கைது செய்யப்பட்டார்.
 
-TeṈKoRiYāViL AVaCaRaNiLai IRāṆuVaC CaṬṬaM AṆMaiYiL KoṆṬuVaRaPPaṬṬa NiLaiYiL, KaṬuM ETiRPPuKKu PiṈṈā் TiRuMPaP PeṞaPPaṬṬaTu. INTaP PaRiNTuRaiYai JaṈāTiPaTi YūṈ CuK IYōLuKKu AḶiTTa KuṞṞaCCāṬṬiL MuṈṈāḶ PāTuKāPPu AMaiCCā் KiM YāṄ HaYūṈ ÑāYiṞṞuKKiḺaMai KaiTu CeYYaPPaṬṬāR.
+தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā)வி(Vi)ல்(L) அ(A)வ(Va)ச(Ca)ர(Ra)நி(Ni)லை(Lai) இ(I)ரா(Rā)ணு(Ṇu)வ(Va)ச்(C) ச(Ca)ட்(Ṭ)ட(Ṭa)ம்(M) அ(A)ண்(Ṇ)மை(Mai)யி(Yi)ல்(L) கொ(Ko)ண்(Ṇ)டு(Ṭu)வ(Va)ர(Ra)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa) நி(Ni)லை(Lai)யி(Yi)ல்(L), க(Ka)டு(Ṭu)ம்(M) எ(E)தி(Ti)ர்(R)ப்(P)பு(Pu)க்(K)கு(Ku) பி(Pi)ன்(Ṉ)னா(Ṉā)்() தி(Ti)ரு(Ru)ம்(M)ப(Pa)ப்(P) பெ(Pe)ற(Ṟa)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)து(Tu). இ(I)ந்(N)த(Ta)ப்(P) ப(Pa)ரி(Ri)ந்(N)து(Tu)ரை(Rai)யை(Yai) ஜ(Ja)னா(Ṉā)தி(Ti)ப(Pa)தி(Ti) யூ(Yū)ன்(Ṉ) சு(Cu)க்(K) இ(I)யோ(Yō)லு(Lu)க்(K)கு(Ku) அ(A)ளி(Ḷi)த்(T)த(Ta) கு(Ku)ற்(Ṟ)ற(Ṟa)ச்(C)சா(Cā)ட்(Ṭ)டி(Ṭi)ல்(L) மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ) பா(Pā)து(Tu)கா(Kā)ப்(P)பு(Pu) அ(A)மை(Mai)ச்(C)சா(Cā)்() கி(Ki)ம்(M) யா(Yā)ங்(Ṅ) ஹ(Ha)யூ(Yū)ன்(Ṉ) ஞா(Ñā)யி(Yi)ற்(Ṟ)று(Ṟu)க்(K)கி(Ki)ழ(Ḻa)மை(Mai) கை(Kai)து(Tu) செ(Ce)ய்(Y)ய(Ya)ப்(P)ப(Pa)ட்(Ṭ)டா(Ṭā)ர்(R).
 
 *With the recently enacted Emergency Military Act in South Korea. Former security Sanchak Kim Yang Huen was arrested on Sunday on charges of making the recommendation to President Yun Suk Iol.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**சுக்**|CuK|*Chuckle*
-2|**நிலையில்**|NiLaiYiL,|*In place*
-3|**இந்தப்**|INTaP|*This*
-4|**ஹயூன்**|HaYūṈ|*Haun*
-5|**ஜனாதிபதி**|JaṈāTiPaTi|*President*
-6|**பரிந்துரையை**|PaRiNTuRaiYai|*Recommendation*
-7|**பின்னா்**|PiṈṈā்|*Back*
-8|**அமைச்சா்**|AMaiCCā்|*Staircase*
-9|**செய்யப்பட்டார்**|CeYYaPPaṬṬāR.|*Made*
-10|**குற்றச்சாட்டில்**|KuṞṞaCCāṬṬiL|*In charge*
-11|**முன்னாள்**|MuṈṈāḶ|*Ex*
-12|**யூன்**|YūṈ|*Jun*
-13|**திரும்பப்**|TiRuMPaP|*Withdraw*
-14|**பாதுகாப்பு**|PāTuKāPPu|*Protection*
-15|**கிம்**|KiM|*Kim*
-16|**ஞாயிற்றுக்கிழமை**|ÑāYiṞṞuKKiḺaMai|*Sunday*
-17|**தென்கொரியாவில்**|TeṈKoRiYāViL|*In South Korea*
-18|**இயோலுக்கு**|IYōLuKKu|*Ryol*
-19|**அண்மையில்**|AṆMaiYiL|*Recently*
-20|**யாங்**|YāṄ|*Yang*
-21|**அவசரநிலை**|AVaCaRaNiLai|*Emergency*
-22|**இராணுவச்**|IRāṆuVaC|*Military*
-23|**கைது**|KaiTu|*Arrest*
-24|**எதிர்ப்புக்கு**|ETiRPPuKKu|*Resistance*
-25|**பெறப்பட்டது**|PeṞaPPaṬṬaTu.|*Obtained*
-26|**கொண்டுவரப்பட்ட**|KoṆṬuVaRaPPaṬṬa|*Brought*
-27|**அளித்த**|AḶiTTa|*Given*
-28|**சட்டம்**|CaṬṬaM|*Law*
-29|**கடும்**|KaṬuM|*Delicate*
+1|**திரும்பப்**|தி(Ti)ரு(Ru)ம்(M)ப(Pa)ப்(P)|*Withdraw*
+2|**அளித்த**|அ(A)ளி(Ḷi)த்(T)த(Ta)|*Given*
+3|**பின்னா்**|பி(Pi)ன்(Ṉ)னா(Ṉā)்()|*Back*
+4|**பாதுகாப்பு**|பா(Pā)து(Tu)கா(Kā)ப்(P)பு(Pu)|*Protection*
+5|**யூன்**|யூ(Yū)ன்(Ṉ)|*Jun*
+6|**கிம்**|கி(Ki)ம்(M)|*Kim*
+7|**அண்மையில்**|அ(A)ண்(Ṇ)மை(Mai)யி(Yi)ல்(L)|*Recently*
+8|**நிலையில்**|நி(Ni)லை(Lai)யி(Yi)ல்(L),|*In place*
+9|**ஞாயிற்றுக்கிழமை**|ஞா(Ñā)யி(Yi)ற்(Ṟ)று(Ṟu)க்(K)கி(Ki)ழ(Ḻa)மை(Mai)|*Sunday*
+10|**ஜனாதிபதி**|ஜ(Ja)னா(Ṉā)தி(Ti)ப(Pa)தி(Ti)|*President*
+11|**சுக்**|சு(Cu)க்(K)|*Chuckle*
+12|**கொண்டுவரப்பட்ட**|கொ(Ko)ண்(Ṇ)டு(Ṭu)வ(Va)ர(Ra)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)|*Brought*
+13|**சட்டம்**|ச(Ca)ட்(Ṭ)ட(Ṭa)ம்(M)|*Law*
+14|**பரிந்துரையை**|ப(Pa)ரி(Ri)ந்(N)து(Tu)ரை(Rai)யை(Yai)|*Recommendation*
+15|**இயோலுக்கு**|இ(I)யோ(Yō)லு(Lu)க்(K)கு(Ku)|*Ryol*
+16|**இந்தப்**|இ(I)ந்(N)த(Ta)ப்(P)|*This*
+17|**செய்யப்பட்டார்**|செ(Ce)ய்(Y)ய(Ya)ப்(P)ப(Pa)ட்(Ṭ)டா(Ṭā)ர்(R).|*Made*
+18|**முன்னாள்**|மு(Mu)ன்(Ṉ)னா(Ṉā)ள்(Ḷ)|*Ex*
+19|**எதிர்ப்புக்கு**|எ(E)தி(Ti)ர்(R)ப்(P)பு(Pu)க்(K)கு(Ku)|*Resistance*
+20|**கைது**|கை(Kai)து(Tu)|*Arrest*
+21|**ஹயூன்**|ஹ(Ha)யூ(Yū)ன்(Ṉ)|*Haun*
+22|**பெறப்பட்டது**|பெ(Pe)ற(Ṟa)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)து(Tu).|*Obtained*
+23|**குற்றச்சாட்டில்**|கு(Ku)ற்(Ṟ)ற(Ṟa)ச்(C)சா(Cā)ட்(Ṭ)டி(Ṭi)ல்(L)|*In charge*
+24|**அவசரநிலை**|அ(A)வ(Va)ச(Ca)ர(Ra)நி(Ni)லை(Lai)|*Emergency*
+25|**இராணுவச்**|இ(I)ரா(Rā)ணு(Ṇu)வ(Va)ச்(C)|*Military*
+26|**யாங்**|யா(Yā)ங்(Ṅ)|*Yang*
+27|**தென்கொரியாவில்**|தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā)வி(Vi)ல்(L)|*In South Korea*
+28|**அமைச்சா்**|அ(A)மை(Mai)ச்(C)சா(Cā)்()|*Staircase*
+29|**கடும்**|க(Ka)டு(Ṭu)ம்(M)|*Delicate*
 
 ---
 
 ## அவசரநிலை இராணுவ ஆட்சி அமல்படுத்திய விவகாரம் தொடா்பான விசாரணை நடைபெறும் நீதிமன்றத்தில் தாமாகவே கிம் யாங் ஹுயூன் ஆஜரானதாகவும், அவரது கைப்பேசி பறிக்கப்பட்டு அவா் கைது செய்யப்பட்டதாகவும் அந்நாட்டு ஊடகங்களில் செய்திகள் வெளியாயின.
 
-AVaCaRaNiLai IRāṆuVa ĀṬCi AMaLPaṬuTTiYa ViVaKāRaM ToṬā்PāṈa ViCāRaṆai NaṬaiPeṞuM NīTiMaṈṞaTTiL TāMāKaVē KiM YāṄ HuYūṈ ĀJaRāṈaTāKaVuM, AVaRaTu KaiPPēCi PaṞiKKaPPaṬṬu AVā் KaiTu CeYYaPPaṬṬaTāKaVuM ANNāṬṬu ŪṬaKaṄKaḶiL CeYTiKaḶ VeḶiYāYiṈa.
+அ(A)வ(Va)ச(Ca)ர(Ra)நி(Ni)லை(Lai) இ(I)ரா(Rā)ணு(Ṇu)வ(Va) ஆ(Ā)ட்(Ṭ)சி(Ci) அ(A)ம(Ma)ல்(L)ப(Pa)டு(Ṭu)த்(T)தி(Ti)ய(Ya) வி(Vi)வ(Va)கா(Kā)ர(Ra)ம்(M) தொ(To)டா(Ṭā)்()பா(Pā)ன(Ṉa) வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai) ந(Na)டை(Ṭai)பெ(Pe)று(Ṟu)ம்(M) நீ(Nī)தி(Ti)ம(Ma)ன்(Ṉ)ற(Ṟa)த்(T)தி(Ti)ல்(L) தா(Tā)மா(Mā)க(Ka)வே(Vē) கி(Ki)ம்(M) யா(Yā)ங்(Ṅ) ஹு(Hu)யூ(Yū)ன்(Ṉ) ஆ(Ā)ஜ(Ja)ரா(Rā)ன(Ṉa)தா(Tā)க(Ka)வு(Vu)ம்(M), அ(A)வ(Va)ர(Ra)து(Tu) கை(Kai)ப்(P)பே(Pē)சி(Ci) ப(Pa)றி(Ṟi)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu) அ(A)வா(Vā)்() கை(Kai)து(Tu) செ(Ce)ய்(Y)ய(Ya)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தா(Tā)க(Ka)வு(Vu)ம்(M) அ(A)ந்(N)நா(Nā)ட்(Ṭ)டு(Ṭu) ஊ(Ū)ட(Ṭa)க(Ka)ங்(Ṅ)க(Ka)ளி(Ḷi)ல்(L) செ(Ce)ய்(Y)தி(Ti)க(Ka)ள்(Ḷ) வெ(Ve)ளி(Ḷi)யா(Yā)யி(Yi)ன(Ṉa).
 
 *It has been reported in the media that Kim Yang Huoon was present at the court where the Emergency military regime was implemented.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**விவகாரம்**|ViVaKāRaM|*Affair*
-2|**வெளியாயின**|VeḶiYāYiṈa.|*Released*
-3|**விசாரணை**|ViCāRaṆai|*Trial*
-4|**இராணுவ**|IRāṆuVa|*Military*
-5|**அவரது**|AVaRaTu|*His*
-6|**தாமாகவே**|TāMāKaVē|*Automatically*
-7|**செய்யப்பட்டதாகவும்**|CeYYaPPaṬṬaTāKaVuM|*And*
-8|**ஆட்சி**|ĀṬCi|*Rule*
-9|**நீதிமன்றத்தில்**|NīTiMaṈṞaTTiL|*In court*
-10|**நடைபெறும்**|NaṬaiPeṞuM|*Will take place*
-11|**தொடா்பான**|ToṬā்PāṈa|*Trivial*
-12|**ஹுயூன்**|HuYūṈ|*Hueyn*
-13|**கைப்பேசி**|KaiPPēCi|*Cell phone*
-14|**அவா்**|AVā்|*Avocado*
-15|**அமல்படுத்திய**|AMaLPaṬuTTiYa|*Implemented*
-16|**யாங்**|YāṄ|*Yang*
-17|**ஆஜரானதாகவும்**|ĀJaRāṈaTāKaVuM,|*As well as*
-18|**அவசரநிலை**|AVaCaRaNiLai|*Emergency*
-19|**அந்நாட்டு**|ANNāṬṬu|*Nation*
-20|**செய்திகள்**|CeYTiKaḶ|*News*
-21|**கைது**|KaiTu|*Arrest*
-22|**பறிக்கப்பட்டு**|PaṞiKKaPPaṬṬu|*Snatched*
-23|**ஊடகங்களில்**|ŪṬaKaṄKaḶiL|*In the media*
-24|**கிம்**|KiM|*Kim*
+1|**நீதிமன்றத்தில்**|நீ(Nī)தி(Ti)ம(Ma)ன்(Ṉ)ற(Ṟa)த்(T)தி(Ti)ல்(L)|*In court*
+2|**கிம்**|கி(Ki)ம்(M)|*Kim*
+3|**ஊடகங்களில்**|ஊ(Ū)ட(Ṭa)க(Ka)ங்(Ṅ)க(Ka)ளி(Ḷi)ல்(L)|*In the media*
+4|**நடைபெறும்**|ந(Na)டை(Ṭai)பெ(Pe)று(Ṟu)ம்(M)|*Will take place*
+5|**வெளியாயின**|வெ(Ve)ளி(Ḷi)யா(Yā)யி(Yi)ன(Ṉa).|*Released*
+6|**அவா்**|அ(A)வா(Vā)்()|*Avocado*
+7|**ஹுயூன்**|ஹு(Hu)யூ(Yū)ன்(Ṉ)|*Hueyn*
+8|**அவரது**|அ(A)வ(Va)ர(Ra)து(Tu)|*His*
+9|**தாமாகவே**|தா(Tā)மா(Mā)க(Ka)வே(Vē)|*Automatically*
+10|**தொடா்பான**|தொ(To)டா(Ṭā)்()பா(Pā)ன(Ṉa)|*Trivial*
+11|**அந்நாட்டு**|அ(A)ந்(N)நா(Nā)ட்(Ṭ)டு(Ṭu)|*Nation*
+12|**விசாரணை**|வி(Vi)சா(Cā)ர(Ra)ணை(Ṇai)|*Trial*
+13|**விவகாரம்**|வி(Vi)வ(Va)கா(Kā)ர(Ra)ம்(M)|*Affair*
+14|**கைது**|கை(Kai)து(Tu)|*Arrest*
+15|**ஆஜரானதாகவும்**|ஆ(Ā)ஜ(Ja)ரா(Rā)ன(Ṉa)தா(Tā)க(Ka)வு(Vu)ம்(M),|*As well as*
+16|**கைப்பேசி**|கை(Kai)ப்(P)பே(Pē)சி(Ci)|*Cell phone*
+17|**யாங்**|யா(Yā)ங்(Ṅ)|*Yang*
+18|**அவசரநிலை**|அ(A)வ(Va)ச(Ca)ர(Ra)நி(Ni)லை(Lai)|*Emergency*
+19|**பறிக்கப்பட்டு**|ப(Pa)றி(Ṟi)க்(K)க(Ka)ப்(P)ப(Pa)ட்(Ṭ)டு(Ṭu)|*Snatched*
+20|**ஆட்சி**|ஆ(Ā)ட்(Ṭ)சி(Ci)|*Rule*
+21|**அமல்படுத்திய**|அ(A)ம(Ma)ல்(L)ப(Pa)டு(Ṭu)த்(T)தி(Ti)ய(Ya)|*Implemented*
+22|**செய்திகள்**|செ(Ce)ய்(Y)தி(Ti)க(Ka)ள்(Ḷ)|*News*
+23|**செய்யப்பட்டதாகவும்**|செ(Ce)ய்(Y)ய(Ya)ப்(P)ப(Pa)ட்(Ṭ)ட(Ṭa)தா(Tā)க(Ka)வு(Vu)ம்(M)|*And*
+24|**இராணுவ**|இ(I)ரா(Rā)ணு(Ṇu)வ(Va)|*Military*
 
 ---
 
 ## இந்த நிலையில், சிறையில் தன் உயிரைமாய்த்துக்கொள்ள முயற்சித்த கிம் யாங்கை காவலர்கள் தடுத்து நிறுத்தியதாகவும், அவர் நலமுடன் இருப்பதாகவும் தென்கொரியா அதிகாரி ஷின் யோங் ஹே புதன்கிழமை (11) தெரிவித்தார்.
 
-INTa NiLaiYiL, CiṞaiYiL TaṈ UYiRaiMāYTTuKKoḶḶa MuYaṞCiTTa KiM YāṄKai KāVaLaRKaḶ TaṬuTTu NiṞuTTiYaTāKaVuM, AVaR NaLaMuṬaṈ IRuPPaTāKaVuM TeṈKoRiYā ATiKāRi ShiṈ YōṄ Hē PuTaṈKiḺaMai (11) TeRiViTTāR.
+இ(I)ந்(N)த(Ta) நி(Ni)லை(Lai)யி(Yi)ல்(L), சி(Ci)றை(Ṟai)யி(Yi)ல்(L) த(Ta)ன்(Ṉ) உ(U)யி(Yi)ரை(Rai)மா(Mā)ய்(Y)த்(T)து(Tu)க்(K)கொ(Ko)ள்(Ḷ)ள(Ḷa) மு(Mu)ய(Ya)ற்(Ṟ)சி(Ci)த்(T)த(Ta) கி(Ki)ம்(M) யா(Yā)ங்(Ṅ)கை(Kai) கா(Kā)வ(Va)ல(La)ர்(R)க(Ka)ள்(Ḷ) த(Ta)டு(Ṭu)த்(T)து(Tu) நி(Ni)று(Ṟu)த்(T)தி(Ti)ய(Ya)தா(Tā)க(Ka)வு(Vu)ம்(M), அ(A)வ(Va)ர்(R) ந(Na)ல(La)மு(Mu)ட(Ṭa)ன்(Ṉ) இ(I)ரு(Ru)ப்(P)ப(Pa)தா(Tā)க(Ka)வு(Vu)ம்(M) தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā) அ(A)தி(Ti)கா(Kā)ரி(Ri) ஷி(Shi)ன்(Ṉ) யோ(Yō)ங்(Ṅ) ஹே(Hē) பு(Pu)த(Ta)ன்(Ṉ)கி(Ki)ழ(Ḻa)மை(Mai) (11) தெ(Te)ரி(Ri)வி(Vi)த்(T)தா(Tā)ர்(R).
 
 *South Korean officer Shin Yong Hey Hey Ha Ki Ha Ki said on Wednesday that the guards stopped Kim Yang, who tried to live in jail.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**யாங்கை**|YāṄKai|*Yang*
-2|**நிலையில்**|NiLaiYiL,|*In place*
-3|**உயிரைமாய்த்துக்கொள்ள**|UYiRaiMāYTTuKKoḶḶa|*To live in life*
-4|**முயற்சித்த**|MuYaṞCiTTa|*Attempted*
-5|**ஹே**|Hē|*Hi*
-6|**நலமுடன்**|NaLaMuṬaṈ|*With goodwill*
-7|**தன்**|TaṈ|*Her*
-8|**அதிகாரி**|ATiKāRi|*Authority*
-9|**தடுத்து**|TaṬuTTu|*Suspend*
-10|**புதன்கிழமை**|PuTaṈKiḺaMai|*Wednesday*
-11|**காவலர்கள்**|KāVaLaRKaḶ|*Guards*
-12|**தெரிவித்தார்**|TeRiViTTāR.|*Stated*
-13|**ஷின்**|ShiṈ|*Shin*
-14|**அவர்**|AVaR|*He*
-15|**யோங்**|YōṄ|*Yong*
-16|**இருப்பதாகவும்**|IRuPPaTāKaVuM|*There is also*
-17|**சிறையில்**|CiṞaiYiL|*In jail*
-18|**நிறுத்தியதாகவும்**|NiṞuTTiYaTāKaVuM,|*And stopped*
-19|**தென்கொரியா**|TeṈKoRiYā|*South*
-20|**இந்த**|INTa|*These*
-21|**கிம்**|KiM|*Kim*
+1|**ஷின்**|ஷி(Shi)ன்(Ṉ)|*Shin*
+2|**ஹே**|ஹே(Hē)|*Hi*
+3|**கிம்**|கி(Ki)ம்(M)|*Kim*
+4|**நிலையில்**|நி(Ni)லை(Lai)யி(Yi)ல்(L),|*In place*
+5|**தெரிவித்தார்**|தெ(Te)ரி(Ri)வி(Vi)த்(T)தா(Tā)ர்(R).|*Stated*
+6|**தடுத்து**|த(Ta)டு(Ṭu)த்(T)து(Tu)|*Suspend*
+7|**உயிரைமாய்த்துக்கொள்ள**|உ(U)யி(Yi)ரை(Rai)மா(Mā)ய்(Y)த்(T)து(Tu)க்(K)கொ(Ko)ள்(Ḷ)ள(Ḷa)|*To live in life*
+8|**யாங்கை**|யா(Yā)ங்(Ṅ)கை(Kai)|*Yang*
+9|**தென்கொரியா**|தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā)|*South*
+10|**அவர்**|அ(A)வ(Va)ர்(R)|*He*
+11|**சிறையில்**|சி(Ci)றை(Ṟai)யி(Yi)ல்(L)|*In jail*
+12|**யோங்**|யோ(Yō)ங்(Ṅ)|*Yong*
+13|**அதிகாரி**|அ(A)தி(Ti)கா(Kā)ரி(Ri)|*Authority*
+14|**புதன்கிழமை**|பு(Pu)த(Ta)ன்(Ṉ)கி(Ki)ழ(Ḻa)மை(Mai)|*Wednesday*
+15|**இருப்பதாகவும்**|இ(I)ரு(Ru)ப்(P)ப(Pa)தா(Tā)க(Ka)வு(Vu)ம்(M)|*There is also*
+16|**நிறுத்தியதாகவும்**|நி(Ni)று(Ṟu)த்(T)தி(Ti)ய(Ya)தா(Tā)க(Ka)வு(Vu)ம்(M),|*And stopped*
+17|**நலமுடன்**|ந(Na)ல(La)மு(Mu)ட(Ṭa)ன்(Ṉ)|*With goodwill*
+18|**தன்**|த(Ta)ன்(Ṉ)|*Her*
+19|**காவலர்கள்**|கா(Kā)வ(Va)ல(La)ர்(R)க(Ka)ள்(Ḷ)|*Guards*
+20|**முயற்சித்த**|மு(Mu)ய(Ya)ற்(Ṟ)சி(Ci)த்(T)த(Ta)|*Attempted*
+21|**இந்த**|இ(I)ந்(N)த(Ta)|*These*
 
 ---
 
 ## இந்த தகவலை நீதித்துறை அமைச்சர் பார்க் சங் ஜே, தென்கொரியா பாராளுமன்றக் கூட்டத்தில் உறுதி செய்துள்ளதால் பரபரப்பு ஏற்பட்டுள்ளது.
 
-INTa TaKaVaLai NīTiTTuṞai AMaiCCaR PāRK CaṄ Jē, TeṈKoRiYā PāRāḶuMaṈṞaK KūṬṬaTTiL UṞuTi CeYTuḶḶaTāL PaRaPaRaPPu ĒṞPaṬṬuḶḶaTu.
+இ(I)ந்(N)த(Ta) த(Ta)க(Ka)வ(Va)லை(Lai) நீ(Nī)தி(Ti)த்(T)து(Tu)றை(Ṟai) அ(A)மை(Mai)ச்(C)ச(Ca)ர்(R) பா(Pā)ர்(R)க்(K) ச(Ca)ங்(Ṅ) ஜே(Jē), தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā) பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)க்(K) கூ(Kū)ட்(Ṭ)ட(Ṭa)த்(T)தி(Ti)ல்(L) உ(U)று(Ṟu)தி(Ti) செ(Ce)ய்(Y)து(Tu)ள்(Ḷ)ள(Ḷa)தா(Tā)ல்(L) ப(Pa)ர(Ra)ப(Pa)ர(Ra)ப்(P)பு(Pu) ஏ(Ē)ற்(Ṟ)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)து(Tu).
 
 *This information has been stirred by Justice Minister Park Sung J, who has confirmed the South Korea parliamentary meeting.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தகவலை**|TaKaVaLai|*Information*
-2|**ஜே**|Jē,|*J.*
-3|**பாராளுமன்றக்**|PāRāḶuMaṈṞaK|*Parliament*
-4|**அமைச்சர்**|AMaiCCaR|*Cabinet*
-5|**பரபரப்பு**|PaRaPaRaPPu|*Excitement*
-6|**உறுதி**|UṞuTi|*Assurance*
-7|**சங்**|CaṄ|*Chuckle*
-8|**கூட்டத்தில்**|KūṬṬaTTiL|*Crowd*
-9|**நீதித்துறை**|NīTiTTuṞai|*Judiciary*
-10|**பார்க்**|PāRK|*Park*
-11|**செய்துள்ளதால்**|CeYTuḶḶaTāL|*Since done*
-12|**தென்கொரியா**|TeṈKoRiYā|*South*
-13|**இந்த**|INTa|*These*
-14|**ஏற்பட்டுள்ளது**|ĒṞPaṬṬuḶḶaTu.|*Have occurred*
+1|**பார்க்**|பா(Pā)ர்(R)க்(K)|*Park*
+2|**தகவலை**|த(Ta)க(Ka)வ(Va)லை(Lai)|*Information*
+3|**அமைச்சர்**|அ(A)மை(Mai)ச்(C)ச(Ca)ர்(R)|*Cabinet*
+4|**பாராளுமன்றக்**|பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)க்(K)|*Parliament*
+5|**செய்துள்ளதால்**|செ(Ce)ய்(Y)து(Tu)ள்(Ḷ)ள(Ḷa)தா(Tā)ல்(L)|*Since done*
+6|**ஜே**|ஜே(Jē),|*J.*
+7|**நீதித்துறை**|நீ(Nī)தி(Ti)த்(T)து(Tu)றை(Ṟai)|*Judiciary*
+8|**தென்கொரியா**|தெ(Te)ன்(Ṉ)கொ(Ko)ரி(Ri)யா(Yā)|*South*
+9|**கூட்டத்தில்**|கூ(Kū)ட்(Ṭ)ட(Ṭa)த்(T)தி(Ti)ல்(L)|*Crowd*
+10|**சங்**|ச(Ca)ங்(Ṅ)|*Chuckle*
+11|**உறுதி**|உ(U)று(Ṟu)தி(Ti)|*Assurance*
+12|**இந்த**|இ(I)ந்(N)த(Ta)|*These*
+13|**ஏற்பட்டுள்ளது**|ஏ(Ē)ற்(Ṟ)ப(Pa)ட்(Ṭ)டு(Ṭu)ள்(Ḷ)ள(Ḷa)து(Tu).|*Have occurred*
+14|**பரபரப்பு**|ப(Pa)ர(Ra)ப(Pa)ர(Ra)ப்(P)பு(Pu)|*Excitement*
 
 ---
 
 ## பாராளுமன்றத்தில் யூன் சுக் இயோலுக்கு எதிராக எதிர்க்கட்சியினா் தாக்கல் செய்த பதவிநீக்கத் தீா்மானத்தின் மீது சனிக்கிழமை நடைபெற்ற வாக்கெடுப்பில் பங்கேற்காமல் ஆளுங்கட்சியினா் புறக்கணித்தனா்.
 
-PāRāḶuMaṈṞaTTiL YūṈ CuK IYōLuKKu ETiRāKa ETiRKKaṬCiYiṈā் TāKKaL CeYTa PaTaViNīKKaT Tīா்MāṈaTTiṈ MīTu CaṈiKKiḺaMai NaṬaiPeṞṞa VāKKeṬuPPiL PaṄKēṞKāMaL ĀḶuṄKaṬCiYiṈā் PuṞaKKaṆiTTaṈā்.
+பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)த்(T)தி(Ti)ல்(L) யூ(Yū)ன்(Ṉ) சு(Cu)க்(K) இ(I)யோ(Yō)லு(Lu)க்(K)கு(Ku) எ(E)தி(Ti)ரா(Rā)க(Ka) எ(E)தி(Ti)ர்(R)க்(K)க(Ka)ட்(Ṭ)சி(Ci)யி(Yi)னா(Ṉā)்() தா(Tā)க்(K)க(Ka)ல்(L) செ(Ce)ய்(Y)த(Ta) ப(Pa)த(Ta)வி(Vi)நீ(Nī)க்(K)க(Ka)த்(T) தீ(Tī)ா்()மா(Mā)ன(Ṉa)த்(T)தி(Ti)ன்(Ṉ) மீ(Mī)து(Tu) ச(Ca)னி(Ṉi)க்(K)கி(Ki)ழ(Ḻa)மை(Mai) ந(Na)டை(Ṭai)பெ(Pe)ற்(Ṟ)ற(Ṟa) வா(Vā)க்(K)கெ(Ke)டு(Ṭu)ப்(P)பி(Pi)ல்(L) ப(Pa)ங்(Ṅ)கே(Kē)ற்(Ṟ)கா(Kā)ம(Ma)ல்(L) ஆ(Ā)ளு(Ḷu)ங்(Ṅ)க(Ka)ட்(Ṭ)சி(Ci)யி(Yi)னா(Ṉā)்() பு(Pu)ற(Ṟa)க்(K)க(Ka)ணி(Ṇi)த்(T)த(Ta)னா(Ṉā)்().
 
 *The ruling party boycotted the referendum on Saturday against the dismissal of the Opposition against Yun Sukh Iol in Parliament.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**எதிர்க்கட்சியினா்**|ETiRKKaṬCiYiṈā்|*Opposition*
-2|**சுக்**|CuK|*Chuckle*
-3|**யூன்**|YūṈ|*Jun*
-4|**பாராளுமன்றத்தில்**|PāRāḶuMaṈṞaTTiL|*In Parliament*
-5|**பதவிநீக்கத்**|PaTaViNīKKaT|*Dismiss*
-6|**தீா்மானத்தின்**|Tīா்MāṈaTTiṈ|*Torch*
-7|**பங்கேற்காமல்**|PaṄKēṞKāMaL|*Without participating*
-8|**ஆளுங்கட்சியினா்**|ĀḶuṄKaṬCiYiṈā்|*Governor*
-9|**தாக்கல்**|TāKKaL|*Filing*
-10|**நடைபெற்ற**|NaṬaiPeṞṞa|*Held*
-11|**புறக்கணித்தனா்**|PuṞaKKaṆiTTaṈā்.|*Ignore*
-12|**எதிராக**|ETiRāKa|*Against*
-13|**செய்த**|CeYTa|*Done*
-14|**வாக்கெடுப்பில்**|VāKKeṬuPPiL|*At the referendum*
-15|**சனிக்கிழமை**|CaṈiKKiḺaMai|*Saturday*
-16|**இயோலுக்கு**|IYōLuKKu|*Ryol*
-17|**மீது**|MīTu|*On*
+1|**சனிக்கிழமை**|ச(Ca)னி(Ṉi)க்(K)கி(Ki)ழ(Ḻa)மை(Mai)|*Saturday*
+2|**வாக்கெடுப்பில்**|வா(Vā)க்(K)கெ(Ke)டு(Ṭu)ப்(P)பி(Pi)ல்(L)|*At the referendum*
+3|**மீது**|மீ(Mī)து(Tu)|*On*
+4|**எதிராக**|எ(E)தி(Ti)ரா(Rā)க(Ka)|*Against*
+5|**பங்கேற்காமல்**|ப(Pa)ங்(Ṅ)கே(Kē)ற்(Ṟ)கா(Kā)ம(Ma)ல்(L)|*Without participating*
+6|**யூன்**|யூ(Yū)ன்(Ṉ)|*Jun*
+7|**நடைபெற்ற**|ந(Na)டை(Ṭai)பெ(Pe)ற்(Ṟ)ற(Ṟa)|*Held*
+8|**தீா்மானத்தின்**|தீ(Tī)ா்()மா(Mā)ன(Ṉa)த்(T)தி(Ti)ன்(Ṉ)|*Torch*
+9|**செய்த**|செ(Ce)ய்(Y)த(Ta)|*Done*
+10|**ஆளுங்கட்சியினா்**|ஆ(Ā)ளு(Ḷu)ங்(Ṅ)க(Ka)ட்(Ṭ)சி(Ci)யி(Yi)னா(Ṉā)்()|*Governor*
+11|**புறக்கணித்தனா்**|பு(Pu)ற(Ṟa)க்(K)க(Ka)ணி(Ṇi)த்(T)த(Ta)னா(Ṉā)்().|*Ignore*
+12|**பாராளுமன்றத்தில்**|பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)த்(T)தி(Ti)ல்(L)|*In Parliament*
+13|**இயோலுக்கு**|இ(I)யோ(Yō)லு(Lu)க்(K)கு(Ku)|*Ryol*
+14|**எதிர்க்கட்சியினா்**|எ(E)தி(Ti)ர்(R)க்(K)க(Ka)ட்(Ṭ)சி(Ci)யி(Yi)னா(Ṉā)்()|*Opposition*
+15|**தாக்கல்**|தா(Tā)க்(K)க(Ka)ல்(L)|*Filing*
+16|**சுக்**|சு(Cu)க்(K)|*Chuckle*
+17|**பதவிநீக்கத்**|ப(Pa)த(Ta)வி(Vi)நீ(Nī)க்(K)க(Ka)த்(T)|*Dismiss*
 
 ---
 
 ## இதையடுத்து, மற்றொரு தீா்மானத்தை மீண்டும் பாராளுமன்றத்தில் சனிக்கிழமை அறிமுகப்படுத்தவுள்ளதாக முக்கிய எதிர்க்கட்சியான ஜனநாயக கட்சி தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
 
-ITaiYaṬuTTu, MaṞṞoRu Tīா்MāṈaTTai MīṆṬuM PāRāḶuMaṈṞaTTiL CaṈiKKiḺaMai AṞiMuKaPPaṬuTTaVuḶḶaTāKa MuKKiYa ETiRKKaṬCiYāṈa JaṈaNāYaKa KaṬCi TeRiViTTuḶḶaMai KuṞiPPiṬaTTaKKaTu.
+இ(I)தை(Tai)ய(Ya)டு(Ṭu)த்(T)து(Tu), ம(Ma)ற்(Ṟ)றொ(Ṟo)ரு(Ru) தீ(Tī)ா்()மா(Mā)ன(Ṉa)த்(T)தை(Tai) மீ(Mī)ண்(Ṇ)டு(Ṭu)ம்(M) பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)த்(T)தி(Ti)ல்(L) ச(Ca)னி(Ṉi)க்(K)கி(Ki)ழ(Ḻa)மை(Mai) அ(A)றி(Ṟi)மு(Mu)க(Ka)ப்(P)ப(Pa)டு(Ṭu)த்(T)த(Ta)வு(Vu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka) மு(Mu)க்(K)கி(Ki)ய(Ya) எ(E)தி(Ti)ர்(R)க்(K)க(Ka)ட்(Ṭ)சி(Ci)யா(Yā)ன(Ṉa) ஜ(Ja)ன(Ṉa)நா(Nā)ய(Ya)க(Ka) க(Ka)ட்(Ṭ)சி(Ci) தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)மை(Mai) கு(Ku)றி(Ṟi)ப்(P)பி(Pi)ட(Ṭa)த்(T)த(Ta)க்(K)க(Ka)து(Tu).
 
 *The main opposition Democratic Party has stated that it will be re -launched in Parliament on Saturday.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**தீா்மானத்தை**|Tīா்MāṈaTTai|*Embodiment*
-2|**மற்றொரு**|MaṞṞoRu|*Another*
-3|**பாராளுமன்றத்தில்**|PāRāḶuMaṈṞaTTiL|*In Parliament*
-4|**குறிப்பிடத்தக்கது**|KuṞiPPiṬaTTaKKaTu.|*Notable*
-5|**ஜனநாயக**|JaṈaNāYaKa|*Democratic*
-6|**கட்சி**|KaṬCi|*Party*
-7|**இதையடுத்து**|ITaiYaṬuTTu,|*Subsequently*
-8|**அறிமுகப்படுத்தவுள்ளதாக**|AṞiMuKaPPaṬuTTaVuḶḶaTāKa|*To introduce*
-9|**சனிக்கிழமை**|CaṈiKKiḺaMai|*Saturday*
-10|**முக்கிய**|MuKKiYa|*Prime*
-11|**எதிர்க்கட்சியான**|ETiRKKaṬCiYāṈa|*Opposition*
-12|**மீண்டும்**|MīṆṬuM|*Again*
-13|**தெரிவித்துள்ளமை**|TeRiViTTuḶḶaMai|*Reported*
+1|**தீா்மானத்தை**|தீ(Tī)ா்()மா(Mā)ன(Ṉa)த்(T)தை(Tai)|*Embodiment*
+2|**மற்றொரு**|ம(Ma)ற்(Ṟ)றொ(Ṟo)ரு(Ru)|*Another*
+3|**மீண்டும்**|மீ(Mī)ண்(Ṇ)டு(Ṭu)ம்(M)|*Again*
+4|**சனிக்கிழமை**|ச(Ca)னி(Ṉi)க்(K)கி(Ki)ழ(Ḻa)மை(Mai)|*Saturday*
+5|**தெரிவித்துள்ளமை**|தெ(Te)ரி(Ri)வி(Vi)த்(T)து(Tu)ள்(Ḷ)ள(Ḷa)மை(Mai)|*Reported*
+6|**அறிமுகப்படுத்தவுள்ளதாக**|அ(A)றி(Ṟi)மு(Mu)க(Ka)ப்(P)ப(Pa)டு(Ṭu)த்(T)த(Ta)வு(Vu)ள்(Ḷ)ள(Ḷa)தா(Tā)க(Ka)|*To introduce*
+7|**ஜனநாயக**|ஜ(Ja)ன(Ṉa)நா(Nā)ய(Ya)க(Ka)|*Democratic*
+8|**இதையடுத்து**|இ(I)தை(Tai)ய(Ya)டு(Ṭu)த்(T)து(Tu),|*Subsequently*
+9|**எதிர்க்கட்சியான**|எ(E)தி(Ti)ர்(R)க்(K)க(Ka)ட்(Ṭ)சி(Ci)யா(Yā)ன(Ṉa)|*Opposition*
+10|**முக்கிய**|மு(Mu)க்(K)கி(Ki)ய(Ya)|*Prime*
+11|**பாராளுமன்றத்தில்**|பா(Pā)ரா(Rā)ளு(Ḷu)ம(Ma)ன்(Ṉ)ற(Ṟa)த்(T)தி(Ti)ல்(L)|*In Parliament*
+12|**குறிப்பிடத்தக்கது**|கு(Ku)றி(Ṟi)ப்(P)பி(Pi)ட(Ṭa)த்(T)த(Ta)க்(K)க(Ka)து(Tu).|*Notable*
+13|**கட்சி**|க(Ka)ட்(Ṭ)சி(Ci)|*Party*
 
 ---
