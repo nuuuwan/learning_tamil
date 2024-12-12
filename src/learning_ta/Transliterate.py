@@ -15,7 +15,7 @@ class Transliterate:
                 substring = ta[i:j]
                 if substring in TA_TO_ISO:
                     iso = TA_TO_ISO[substring].title()
-                    match = f"{substring}({iso})"
+                    match = f"{substring}`{iso}`"
                     i = j - 1
                     break
             if match:
