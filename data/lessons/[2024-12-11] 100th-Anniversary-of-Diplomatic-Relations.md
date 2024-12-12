@@ -12,12 +12,12 @@ IRāJaTaNTiRa UṞaVuKaḶiṈ 100 VaTu ĀṆṬu NiṞaiVu ViḺā
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**ஆண்டு**|ĀṆṬu|*Year*
-2|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
-3|**வது**|VaTu|*Th*
-4|**விழா**|ViḺā|*Ceremony*
-5|**நிறைவு**|NiṞaiVu|*Completion*
-6|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+1|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
+2|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+3|**விழா**|ViḺā|*Ceremony*
+4|**ஆண்டு**|ĀṆṬu|*Year*
+5|**வது**|VaTu|*Th*
+6|**நிறைவு**|NiṞaiVu|*Completion*
 
 ---
 
@@ -29,38 +29,38 @@ ILaṄKai MaṞṞuM ĪRāK KuṬiYaRaCu IṬaiYiLāṈa IRāJaTaNTiRa UṞaVuKa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**ஆண்டு**|ĀṆṬu|*Year*
-2|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
-3|**இடையிலான**|IṬaiYiLāṈa|*Between*
-4|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
-5|**கிரேண்ட்**|KiRēṆṬ|*Grim*
-6|**பிரேமதாச**|PiRēMaTāCa|*Premium*
-7|**பிரதம**|PiRaTaMa|*Chief*
-8|**குடியரசு**|KuṬiYaRaCu|*Republican*
-9|**ஹோட்டலில்**|HōṬṬaLiL|*At the hotel*
-10|**தூதரகத்தினால்**|TūTaRaKaTTiṈāL|*By the embassy*
-11|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
+1|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+2|**வரவேற்பு**|VaRaVēṞPu|*Welcome*
+3|**ஆண்டு**|ĀṆṬu|*Year*
+4|**பிரதம**|PiRaTaMa|*Chief*
+5|**மற்றும்**|MaṞṞuM|*And*
+6|**நிகழ்வில்**|NiKaḺViL|*At the event*
+7|**தலைவர்**|TaLaiVaR|*Chairman*
+8|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
+9|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+10|**ஆவது**|ĀVaTu|*Become*
+11|**கலந்து**|KaLaNTu|*Mix*
 12|**சினமன்**|CiṈaMaṈ|*Secretion*
-13|**வரவேற்பு**|VaRaVēṞPu|*Welcome*
-14|**அதிதியாக**|ATiTiYāKa|*Lift*
-15|**கலந்து**|KaLaNTu|*Mix*
-16|**கொழும்பு**|KoḺuMPu|*Colombo*
-17|**ஈராக்**|ĪRāK|*Iraq*
-18|**நிகழ்வில்**|NiKaḺViL|*At the event*
-19|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+13|**சஜித்**|CaJiT|*Sajith*
+14|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
+15|**எதிர்க்கட்சித்**|ETiRKKaṬCiT|*Opposition*
+16|**அதிதியாக**|ATiTiYāKa|*Lift*
+17|**நிறைவை**|NiṞaiVai|*Subsided*
+18|**கொழும்பு**|KoḺuMPu|*Colombo*
+19|**குடியரசு**|KuṬiYaRaCu|*Republican*
 20|**கொண்டார்**|KoṆṬāR.|*Have been*
-21|**சஜித்**|CaJiT|*Sajith*
-22|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
-23|**மற்றும்**|MaṞṞuM|*And*
-24|**நிறைவை**|NiṞaiVai|*Subsided*
-25|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
-26|**எதிர்க்கட்சித்**|ETiRKKaṬCiT|*Opposition*
-27|**தலைவர்**|TaLaiVaR|*Chairman*
-28|**ஆவது**|ĀVaTu|*Become*
-29|**ஈராக்கிய**|ĪRāKKiYa|*Iraqi*
-30|**இலங்கை**|ILaṄKai|*Sri Lanka*
-31|**​செவ்வாய்க்கிழமை**|​CeVVāYKKiḺaMai|*Tuesday*
-32|**செய்யப்பட்ட**|CeYYaPPaṬṬa|*Made*
+21|**ஹோட்டலில்**|HōṬṬaLiL|*At the hotel*
+22|**இடையிலான**|IṬaiYiLāṈa|*Between*
+23|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
+24|**ஈராக்**|ĪRāK|*Iraq*
+25|**பிரேமதாச**|PiRēMaTāCa|*Premium*
+26|**செய்யப்பட்ட**|CeYYaPPaṬṬa|*Made*
+27|**ஈராக்கிய**|ĪRāKKiYa|*Iraqi*
+28|**கிரேண்ட்**|KiRēṆṬ|*Grim*
+29|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
+30|**​செவ்வாய்க்கிழமை**|​CeVVāYKKiḺaMai|*Tuesday*
+31|**தூதரகத்தினால்**|TūTaRaKaTTiṈāL|*By the embassy*
+32|**இலங்கை**|ILaṄKai|*Sri Lanka*
 
 ---
 
@@ -72,19 +72,19 @@ ILaṄKai MaṞṞuM ĪRāK KuṬiYaRaCu IṬaiYiLāṈa IRāJaTaNTiRa UṞaVuKa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**கெளரவ**|KeḶaRaVa|*Honor*
-2|**அவர்களின்**|AVaRKaḶiṈ|*Their*
-3|**பேரில்**|PēRiL|*Obedient*
-4|**இடம்பெற்ற**|IṬaMPeṞṞa|*Found*
-5|**இந்நிகழ்வில்**|INNiKaḺViL|*At the event*
-6|**நியமிக்கப்பட்டுள்ள**|NiYaMiKKaPPaṬṬuḶḶa|*Assigned*
-7|**பிரமுகர்கள்**|PiRaMuKaRKaḶ|*Dignitaries*
-8|**பங்கேற்றனர்**|PaṄKēṞṞaṈaR.|*Participated*
-9|**தூதுவர்**|TūTuVaR|*Ambassador*
-10|**குடியரசால்**|KuṬiYaRaCāL|*Republican*
-11|**அழைப்பின்**|AḺaiPPiṈ|*Invitation*
-12|**அரசியல்**|ARaCiYaL|*Politics*
-13|**பலரும்**|PaLaRuM|*And many*
-14|**ஈராக்**|ĪRāK|*Iraq*
+1|**இந்நிகழ்வில்**|INNiKaḺViL|*At the event*
+2|**ஈராக்**|ĪRāK|*Iraq*
+3|**பங்கேற்றனர்**|PaṄKēṞṞaṈaR.|*Participated*
+4|**பேரில்**|PēRiL|*Obedient*
+5|**பிரமுகர்கள்**|PiRaMuKaRKaḶ|*Dignitaries*
+6|**அவர்களின்**|AVaRKaḶiṈ|*Their*
+7|**அரசியல்**|ARaCiYaL|*Politics*
+8|**கெளரவ**|KeḶaRaVa|*Honor*
+9|**பலரும்**|PaLaRuM|*And many*
+10|**இடம்பெற்ற**|IṬaMPeṞṞa|*Found*
+11|**தூதுவர்**|TūTuVaR|*Ambassador*
+12|**அழைப்பின்**|AḺaiPPiṈ|*Invitation*
+13|**குடியரசால்**|KuṬiYaRaCāL|*Republican*
+14|**நியமிக்கப்பட்டுள்ள**|NiYaMiKKaPPaṬṬuḶḶa|*Assigned*
 
 ---
