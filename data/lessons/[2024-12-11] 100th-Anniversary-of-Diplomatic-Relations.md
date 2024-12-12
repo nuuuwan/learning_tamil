@@ -12,12 +12,12 @@ IRāJaTaNTiRa UṞaVuKaḶiṈ 100 VaTu ĀṆṬu NiṞaiVu ViḺā
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**நிறைவு**|NiṞaiVu|*Completion*
-2|**வது**|VaTu|*Th*
-3|**விழா**|ViḺā|*Ceremony*
-4|**ஆண்டு**|ĀṆṬu|*Year*
-5|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
-6|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+1|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+2|**ஆண்டு**|ĀṆṬu|*Year*
+3|**வது**|VaTu|*Th*
+4|**நிறைவு**|NiṞaiVu|*Completion*
+5|**விழா**|ViḺā|*Ceremony*
+6|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
 
 ---
 
@@ -30,36 +30,36 @@ ILaṄKai MaṞṞuM ĪRāK KuṬiYaRaCu IṬaiYiLāṈa IRāJaTaNTiRa UṞaVuKa
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
 1|**மற்றும்**|MaṞṞuM|*And*
-2|**ஈராக்கிய**|ĪRāKKiYa|*Iraqi*
-3|**இடையிலான**|IṬaiYiLāṈa|*Between*
-4|**தூதரகத்தினால்**|TūTaRaKaTTiṈāL|*By the embassy*
-5|**எதிர்க்கட்சித்**|ETiRKKaṬCiT|*Opposition*
-6|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
-7|**கிரேண்ட்**|KiRēṆṬ|*Grim*
-8|**குடியரசு**|KuṬiYaRaCu|*Republican*
-9|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-10|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
-11|**கொண்டார்**|KoṆṬāR.|*Have been*
-12|**நிகழ்வில்**|NiKaḺViL|*At the event*
-13|**பிரேமதாச**|PiRēMaTāCa|*Premium*
-14|**அதிதியாக**|ATiTiYāKa|*Lift*
-15|**வரவேற்பு**|VaRaVēṞPu|*Welcome*
-16|**​செவ்வாய்க்கிழமை**|​CeVVāYKKiḺaMai|*Tuesday*
-17|**கலந்து**|KaLaNTu|*Mix*
-18|**கொழும்பு**|KoḺuMPu|*Colombo*
-19|**ஆண்டு**|ĀṆṬu|*Year*
-20|**சஜித்**|CaJiT|*Sajith*
-21|**ஈராக்**|ĪRāK|*Iraq*
-22|**சினமன்**|CiṈaMaṈ|*Secretion*
-23|**பிரதம**|PiRaTaMa|*Chief*
-24|**தலைவர்**|TaLaiVaR|*Chairman*
-25|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
-26|**ஹோட்டலில்**|HōṬṬaLiL|*At the hotel*
-27|**நிறைவை**|NiṞaiVai|*Subsided*
-28|**இலங்கை**|ILaṄKai|*Sri Lanka*
-29|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
-30|**ஆவது**|ĀVaTu|*Become*
-31|**செய்யப்பட்ட**|CeYYaPPaṬṬa|*Made*
+2|**வரவேற்பு**|VaRaVēṞPu|*Welcome*
+3|**ஈராக்**|ĪRāK|*Iraq*
+4|**நிகழ்வில்**|NiKaḺViL|*At the event*
+5|**ஏற்பாடு**|ĒṞPāṬu|*Arrangement*
+6|**கிரேண்ட்**|KiRēṆṬ|*Grim*
+7|**அதிதியாக**|ATiTiYāKa|*Lift*
+8|**சினமன்**|CiṈaMaṈ|*Secretion*
+9|**ஹோட்டலில்**|HōṬṬaLiL|*At the hotel*
+10|**தலைவர்**|TaLaiVaR|*Chairman*
+11|**உறவுகளின்**|UṞaVuKaḶiṈ|*Of relationships*
+12|**​செவ்வாய்க்கிழமை**|​CeVVāYKKiḺaMai|*Tuesday*
+13|**கொழும்பு**|KoḺuMPu|*Colombo*
+14|**இலங்கை**|ILaṄKai|*Sri Lanka*
+15|**பிரேமதாச**|PiRēMaTāCa|*Premium*
+16|**ஈராக்கிய**|ĪRāKKiYa|*Iraqi*
+17|**எதிர்க்கட்சித்**|ETiRKKaṬCiT|*Opposition*
+18|**முன்னிட்டு**|MuṈṈiṬṬu|*Conclude*
+19|**நிறைவை**|NiṞaiVai|*Subsided*
+20|**ஆண்டு**|ĀṆṬu|*Year*
+21|**தூதரகத்தினால்**|TūTaRaKaTTiṈāL|*By the embassy*
+22|**செய்யப்பட்ட**|CeYYaPPaṬṬa|*Made*
+23|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+24|**ஆவது**|ĀVaTu|*Become*
+25|**சஜித்**|CaJiT|*Sajith*
+26|**இடையிலான**|IṬaiYiLāṈa|*Between*
+27|**கலந்து**|KaLaNTu|*Mix*
+28|**குடியரசு**|KuṬiYaRaCu|*Republican*
+29|**கொண்டார்**|KoṆṬāR.|*Have been*
+30|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
+31|**பிரதம**|PiRaTaMa|*Chief*
 32|**இராஜதந்திர**|IRāJaTaNTiRa|*Diplomatic*
 
 ---
@@ -72,19 +72,19 @@ ILaṄKai MaṞṞuM ĪRāK KuṬiYaRaCu IṬaiYiLāṈa IRāJaTaNTiRa UṞaVuKa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அரசியல்**|ARaCiYaL|*Politics*
-2|**பிரமுகர்கள்**|PiRaMuKaRKaḶ|*Dignitaries*
-3|**பங்கேற்றனர்**|PaṄKēṞṞaṈaR.|*Participated*
-4|**பேரில்**|PēRiL|*Obedient*
-5|**நியமிக்கப்பட்டுள்ள**|NiYaMiKKaPPaṬṬuḶḶa|*Assigned*
-6|**குடியரசால்**|KuṬiYaRaCāL|*Republican*
-7|**அவர்களின்**|AVaRKaḶiṈ|*Their*
-8|**பலரும்**|PaLaRuM|*And many*
-9|**ஈராக்**|ĪRāK|*Iraq*
-10|**கெளரவ**|KeḶaRaVa|*Honor*
-11|**இடம்பெற்ற**|IṬaMPeṞṞa|*Found*
-12|**தூதுவர்**|TūTuVaR|*Ambassador*
-13|**அழைப்பின்**|AḺaiPPiṈ|*Invitation*
-14|**இந்நிகழ்வில்**|INNiKaḺViL|*At the event*
+1|**அழைப்பின்**|AḺaiPPiṈ|*Invitation*
+2|**பேரில்**|PēRiL|*Obedient*
+3|**அரசியல்**|ARaCiYaL|*Politics*
+4|**நியமிக்கப்பட்டுள்ள**|NiYaMiKKaPPaṬṬuḶḶa|*Assigned*
+5|**குடியரசால்**|KuṬiYaRaCāL|*Republican*
+6|**ஈராக்**|ĪRāK|*Iraq*
+7|**கெளரவ**|KeḶaRaVa|*Honor*
+8|**பிரமுகர்கள்**|PiRaMuKaRKaḶ|*Dignitaries*
+9|**பலரும்**|PaLaRuM|*And many*
+10|**இந்நிகழ்வில்**|INNiKaḺViL|*At the event*
+11|**பங்கேற்றனர்**|PaṄKēṞṞaṈaR.|*Participated*
+12|**இடம்பெற்ற**|IṬaMPeṞṞa|*Found*
+13|**தூதுவர்**|TūTuVaR|*Ambassador*
+14|**அவர்களின்**|AVaRKaḶiṈ|*Their*
 
 ---

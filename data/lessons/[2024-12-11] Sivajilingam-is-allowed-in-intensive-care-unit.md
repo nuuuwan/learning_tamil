@@ -12,11 +12,11 @@ TīViRa CiKiCCaiP PiRiViL CiVāJiLiṄKaM AṈuMaTi
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-2|**தீவிர**|TīViRa|*Sore*
-3|**பிரிவில்**|PiRiViL|*Segment*
-4|**அனுமதி**|AṈuMaTi|*Admission*
-5|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
+1|**பிரிவில்**|PiRiViL|*Segment*
+2|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
+3|**அனுமதி**|AṈuMaTi|*Admission*
+4|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
+5|**தீவிர**|TīViRa|*Sore*
 
 ---
 
@@ -28,24 +28,24 @@ CuKaYīṈaM KāRaṆaMāKa MuṈṈāḶ PāRāḶuMaṈṞa UṞuPPiṈaR EM. 
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**உள்ள**|UḶḶa|*Existing*
-2|**முன்னாள்**|MuṈṈāḶ|*Ex*
-3|**எம்**|EM.|*M.*
-4|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-5|**தீவிர**|TīViRa|*Sore*
-6|**தெரிவித்துள்ளனர்**|TeRiViTTuḶḶaṈaR.|*Reported*
-7|**அனுமதிக்கப்பட்டுள்ளதாக**|AṈuMaTiKKaPPaṬṬuḶḶaTāKa|*As permitted*
-8|**காரணமாக**|KāRaṆaMāKa|*Produce*
-9|**தனியார்**|TaṈiYāR|*Private*
-10|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-11|**பிரிவில்**|PiRiViL|*Segment*
+1|**தெரிவித்துள்ளனர்**|TeRiViTTuḶḶaṈaR.|*Reported*
+2|**உறுப்பினர்**|UṞuPPiṈaR|*Member*
+3|**உள்ள**|UḶḶa|*Existing*
+4|**தனியார்**|TaṈiYāR|*Private*
+5|**அனுமதிக்கப்பட்டுள்ளதாக**|AṈuMaTiKKaPPaṬṬuḶḶaTāKa|*As permitted*
+6|**கே**|Kē.|*K*
+7|**பிரிவில்**|PiRiViL|*Segment*
+8|**சுகயீனம்**|CuKaYīṈaM|*Indigenous*
+9|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
+10|**முன்னாள்**|MuṈṈāḶ|*Ex*
+11|**காரணமாக**|KāRaṆaMāKa|*Produce*
 12|**உறவினர்கள்**|UṞaViṈaRKaḶ|*Relatives*
-13|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-14|**சுகயீனம்**|CuKaYīṈaM|*Indigenous*
-15|**பாராளுமன்ற**|PāRāḶuMaṈṞa|*Parliament*
-16|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
-17|**உறுப்பினர்**|UṞuPPiṈaR|*Member*
-18|**கே**|Kē.|*K*
+13|**பாராளுமன்ற**|PāRāḶuMaṈṞa|*Parliament*
+14|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
+15|**எம்**|EM.|*M.*
+16|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+17|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
+18|**தீவிர**|TīViRa|*Sore*
 
 ---
 
@@ -57,20 +57,20 @@ TaMiḺT TēCiYaK KaṬCiYiṈ PoTuCCeYaLāḶaRāṈa CiVāJiLiṄKaM KoḺuMPu
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**நிலை**|NiLai|*Position*
-2|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
-3|**நிலையில்**|NiLaiYiL|*In place*
-4|**உடல்**|UṬaL|*Body*
-5|**கட்சியின்**|KaṬCiYiṈ|*Party*
-6|**திடீரென**|TiṬīReṈa|*Suddenly*
-7|**மருத்துவ**|MaRuTTuVa|*Clinical*
-8|**பரிசோனைக்காகச்**|PaRiCōṈaiKKāKaC|*Chase*
-9|**சென்றிருந்த**|CeṈṞiRuNTa|*Visited*
-10|**பாதிப்புக்குள்ளானார்**|PāTiPPuKKuḶḶāṈāR.|*Having vulnerable*
-11|**கொழும்புக்கு**|KoḺuMPuKKu|*To Colombo*
-12|**தமிழ்த்**|TaMiḺT|*Tamil*
-13|**பொதுச்செயலாளரான**|PoTuCCeYaLāḶaRāṈa|*General*
-14|**தேசியக்**|TēCiYaK|*National*
+1|**கொழும்புக்கு**|KoḺuMPuKKu|*To Colombo*
+2|**திடீரென**|TiṬīReṈa|*Suddenly*
+3|**பொதுச்செயலாளரான**|PoTuCCeYaLāḶaRāṈa|*General*
+4|**சென்றிருந்த**|CeṈṞiRuNTa|*Visited*
+5|**நிலை**|NiLai|*Position*
+6|**பரிசோனைக்காகச்**|PaRiCōṈaiKKāKaC|*Chase*
+7|**தமிழ்த்**|TaMiḺT|*Tamil*
+8|**உடல்**|UṬaL|*Body*
+9|**தேசியக்**|TēCiYaK|*National*
+10|**மருத்துவ**|MaRuTTuVa|*Clinical*
+11|**கட்சியின்**|KaṬCiYiṈ|*Party*
+12|**பாதிப்புக்குள்ளானார்**|PāTiPPuKKuḶḶāṈāR.|*Having vulnerable*
+13|**சிவாஜிலிங்கம்**|CiVāJiLiṄKaM|*Shivajilingam*
+14|**நிலையில்**|NiLaiYiL|*In place*
 
 ---
 
@@ -82,19 +82,19 @@ ITaṈai AṬuTTu KoḺuMPiL AMaiNTuḶḶa TaṈiYāR VaiTTiYaCāLaiYiL AṈuMa
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
-1|**அடுத்து**|AṬuTTu|*Next*
-2|**குறிப்பிடத்தக்கது**|KuṞiPPiṬaTTaKKaTu.|*Notable*
+1|**சிகிச்சை**|CiKiCCai|*Treatment*
+2|**அடுத்து**|AṬuTTu|*Next*
 3|**தீவிர**|TīViRa|*Sore*
-4|**சிகிச்சை**|CiKiCCai|*Treatment*
+4|**பெற்று**|PeṞṞu|*Obtaining*
 5|**தனியார்**|TaṈiYāR|*Private*
-6|**அனுமதிக்கப்பட்டு**|AṈuMaTiKKaPPaṬṬu|*Permitted*
-7|**இதனை**|ITaṈai|*This*
-8|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
-9|**பிரிவில்**|PiRiViL|*Segment*
-10|**பெற்று**|PeṞṞu|*Obtaining*
-11|**வருகின்றமை**|VaRuKiṈṞaMai|*Visiting*
-12|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
-13|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
-14|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
+6|**வருகின்றமை**|VaRuKiṈṞaMai|*Visiting*
+7|**பிரிவில்**|PiRiViL|*Segment*
+8|**வைத்தியசாலையில்**|VaiTTiYaCāLaiYiL|*At the hospital*
+9|**இதனை**|ITaṈai|*This*
+10|**அமைந்துள்ள**|AMaiNTuḶḶa|*Seated*
+11|**கொழும்பில்**|KoḺuMPiL|*In Colombo*
+12|**குறிப்பிடத்தக்கது**|KuṞiPPiṬaTTaKKaTu.|*Notable*
+13|**சிகிச்சைப்**|CiKiCCaiP|*Inferture*
+14|**அனுமதிக்கப்பட்டு**|AṈuMaTiKKaPPaṬṬu|*Permitted*
 
 ---
