@@ -38,6 +38,7 @@ class Lesson:
             f"URL: {self.url}",
             "",
             *self.tamil_lines,
+            "",
         ] + [T11e.tamil_to_english(line) for line in self.tamil_lines]
 
     def write(self):
