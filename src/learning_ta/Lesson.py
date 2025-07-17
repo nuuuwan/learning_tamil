@@ -121,6 +121,7 @@ class Lesson:
                 en_sentence = translator[cleaned_ta_sentence]
                 if not en_sentence:
                     continue
+                image_url = VisualDictionary.en_sentence_to_image(en_sentence)
                 lines.extend(
                     [
                         "## " + ta_sentence,
@@ -128,6 +129,8 @@ class Lesson:
                         Transliterate.ta_to_iso(cleaned_ta_sentence),
                         "",
                         Markdown.italic(en_sentence),
+                        "",
+                        f"![{en_sentence}](../../{image_url})",
                         "",
                     ]
                 )
