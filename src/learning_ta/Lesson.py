@@ -79,14 +79,14 @@ class Lesson:
                 continue
             i_row += 1
             image_src = VisualDictionary.ta_to_image(ta_word)
-            image_md = f"![{cleaned_ta_word}]({image_src})"
+            image_md = f"![{cleaned_ta_word}](../../{image_src})"
             cell_list_list.append(
                 [
                     str(i_row),
                     Markdown.bold(cleaned_ta_word),
                     Transliterate.ta_to_iso(ta_word),
-                    Markdown.italic(en_word),
                     image_md,
+                    Markdown.italic(en_word),
                 ]
             )
         return [
@@ -95,8 +95,8 @@ class Lesson:
                     "எண்",
                     Markdown.bold("தமிழ்"),
                     "ISO",
-                    Markdown.italic("English"),
                     "Image",
+                    Markdown.italic("English"),
                 ],
                 cell_list_list,
             )
