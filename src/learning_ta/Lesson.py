@@ -84,8 +84,8 @@ class Lesson:
                 [
                     str(i_row),
                     Markdown.bold(cleaned_ta_word),
-                    Transliterate.ta_to_iso(ta_word),
                     image_md,
+                    Transliterate.ta_to_iso(ta_word),
                     Markdown.italic(en_word),
                 ]
             )
@@ -94,8 +94,8 @@ class Lesson:
                 [
                     "எண்",
                     Markdown.bold("தமிழ்"),
-                    "ISO",
                     "Image",
+                    "ISO",
                     Markdown.italic("English"),
                 ],
                 cell_list_list,
