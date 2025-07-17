@@ -128,9 +128,9 @@ class Lesson:
                         "",
                         Transliterate.ta_to_iso(cleaned_ta_sentence),
                         "",
-                        Markdown.italic(en_sentence),
-                        "",
                         f"![{en_sentence}](../../{image_url})",
+                        "",
+                        Markdown.italic(en_sentence),
                         "",
                     ]
                 )

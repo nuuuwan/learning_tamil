@@ -8,9 +8,9 @@
 
 PoṄKaLuKKu ARiCi KēṬṬu ĀRPPāṬṬaM
 
-*Demonstration asking for rice to Pongal*
-
 ![Demonstration asking for rice to Pongal](../../data/visual_dictionary/729619a6.png)
+
+*Demonstration asking for rice to Pongal*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -25,9 +25,9 @@ PoṄKaLuKKu ARiCi KēṬṬu ĀRPPāṬṬaM
 
 ARiCiT TaṬṬuPPāṬṬai NiVaRTTi CeYVaTaṞKu JaṈāTiPaTi ANuRaKuMāRa TiCāNāYaKKa TaLaiMaiYiLāṈa ARaCāṄKaM UṬaṈaṬiYāKa NaṬaVaṬiKKai EṬuKKa VēṆṬuM EṈa VaLiYuṞuTTi AKKaRaPPaTTaṈai MaṈṞāCi NaKaRiL VaRTTaKaRKaḶ VeḶḶiKKiḺaMai (10) KaVaṈaYīRPPu ĀRPPāṬṬaTTiL ĪṬuPaṬṬaṈaR
 
-*Traders staged a protest demonstration on Friday (10) in Mandarasi, Akkaraipattana, demanding immediate action by the President of the President Anura Kumara Dissanayake to address the shortage of rice.*
-
 ![Traders staged a protest demonstration on Friday (10) in Mandarasi, Akkaraipattana, demanding immediate action by the President of the President Anura Kumara Dissanayake to address the shortage of rice.](../../data/visual_dictionary/715a0f86.png)
+
+*Traders staged a protest demonstration on Friday (10) in Mandarasi, Akkaraipattana, demanding immediate action by the President of the President Anura Kumara Dissanayake to address the shortage of rice.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -62,9 +62,9 @@ ARiCiT TaṬṬuPPāṬṬai NiVaRTTi CeYVaTaṞKu JaṈāTiPaTi ANuRaKuMāRa Ti
 
 AKKaRaPPaTTaṈai MaṈṞāCi NaKaRa VaRTTaKaRKaḶ INTa ĀRPPāṬṬaTTai ĒṞPāṬu CeYTiRuNTaṈaR
 
-*The demonstration was organized by the city traders*
-
 ![The demonstration was organized by the city traders](../../data/visual_dictionary/45c13dde.png)
+
+*The demonstration was organized by the city traders*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -80,9 +80,9 @@ AKKaRaPPaTTaṈai MaṈṞāCi NaKaRa VaRTTaKaRKaḶ INTa ĀRPPāṬṬaTTai Ē�
 
 ITaṈPōTu NaKaRa VaRTTaKaRKaḶ PoTuMaKKaḶ KaLaNTu KoṆṬu CuLōKaṄKaḶai ĒNTiYaVāṞu ETiRPPu NaṬaVaṬiKKaiYiL ĪṬuPaṬṬaṈaR
 
-*City traders participated in the protest, carrying slogans*
-
 ![City traders participated in the protest, carrying slogans](../../data/visual_dictionary/86d6a94d.png)
+
+*City traders participated in the protest, carrying slogans*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -104,9 +104,9 @@ ITaṈPōTu NaKaRa VaRTTaKaRKaḶ PoTuMaKKaḶ KaLaNTu KoṆṬu CuLōKaṄKaḶ
 
 ARiCiKKu KaṬṬuPPāṬṬu ViLai ViTiKKaPPaṬṬuḶḶaTāL ATaṈai URiYa VaKaiYiL NuKaRVōRuKKu ViṞKa MuṬiYāTa CūḺNiLai ĒṞPaṬuVaTāKaVuM ITaṈāL CiṞu VaRTTaKaRKaḶ PeRiTuM PāTiKKaPPaṬuVaTāKa PōRāṬṬaTTiL ĪṬuPaṬṬaVaRKaḶ TeRiViTTaṈaR
 
-*The protesters said that the control of the rice was unable to sell the consumers as it could not be sold properly.*
-
 ![The protesters said that the control of the rice was unable to sell the consumers as it could not be sold properly.](../../data/visual_dictionary/55c7fbe3.png)
+
+*The protesters said that the control of the rice was unable to sell the consumers as it could not be sold properly.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -137,9 +137,9 @@ ARiCiKKu KaṬṬuPPāṬṬu ViLai ViTiKKaPPaṬṬuḶḶaTāL ATaṈai URiYa 
 
 NāṬṬiL TaiPPoṄKaL VaRuKiṞaTu
 
-*The country is coming*
-
 ![The country is coming](../../data/visual_dictionary/0bcb829e.png)
+
+*The country is coming*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -150,9 +150,9 @@ NāṬṬiL TaiPPoṄKaL VaRuKiṞaTu
 
 ITaṞKu PoṄKaL PoṄKuVaTaṞKu CiVaPPu ARiCi UḶḶiṬṬa ARiCi VaKaiKaḶ TēVaiPPaṬuKiṞaTu
 
-*This requires a variety of rice, including red rice to pongal*
-
 ![This requires a variety of rice, including red rice to pongal](../../data/visual_dictionary/db6567c8.png)
+
+*This requires a variety of rice, including red rice to pongal*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -168,9 +168,9 @@ ITaṞKu PoṄKaL PoṄKuVaTaṞKu CiVaPPu ARiCi UḶḶiṬṬa ARiCi VaKaiKa�
 
 EṈiṈuM ARiCi TaṬṬuPPāṬu NiLaVuKiṞaTu
 
-*However there is a shortage of rice*
-
 ![However there is a shortage of rice](../../data/visual_dictionary/90d56138.png)
+
+*However there is a shortage of rice*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -185,9 +185,9 @@ EṈiṈuM ARiCi TaṬṬuPPāṬu NiLaVuKiṞaTu
 
 KaṬṬuPPāṬṬu ViLaiKKu TāṈ EṄKaḶuKKu ARiCi VaḺaṄKaPPaṬuKiṞaTu
 
-*Rice is given to us just for the control price*
-
 ![Rice is given to us just for the control price](../../data/visual_dictionary/fa9fd1ff.png)
+
+*Rice is given to us just for the control price*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -201,9 +201,9 @@ KaṬṬuPPāṬṬu ViLaiKKu TāṈ EṄKaḶuKKu ARiCi VaḺaṄKaPPaṬuKiṞ
 
 IVVāṞu KaṬṬuPPāṬṬu ViLaiYai MīṞiṈāL NaṬaVaṬiKKai EṬuKKaPPaṬuM EṈa ATiKāRiKaḶ ECCaRiKKai ViṬuKiṈṞaṈaR
 
-*Officials warn that action will be taken if they violate the control price*
-
 ![Officials warn that action will be taken if they violate the control price](../../data/visual_dictionary/16776c7f.png)
+
+*Officials warn that action will be taken if they violate the control price*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -224,9 +224,9 @@ IVVāṞu KaṬṬuPPāṬṬu ViLaiYai MīṞiṈāL NaṬaVaṬiKKai EṬuKKaP
 
 KoḺuMPiLiRuNTu INTa PaKuTiKKu ARiCiYai KoṆṬu VaRuVaTāKa IRuNTāL PōKKuVaRaTTu KaṬṬaṆaM CuMai KūLi EṈa PaLa ViṬaYaṄKaḶ IRuKKiṈṞaṈa
 
-*If you bring rice from Colombo to this area*
-
 ![If you bring rice from Colombo to this area](../../data/visual_dictionary/8641d03b.png)
+
+*If you bring rice from Colombo to this area*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -252,9 +252,9 @@ KoḺuMPiLiRuNTu INTa PaKuTiKKu ARiCiYai KoṆṬu VaRuVaTāKa IRuNTāL PōKKuVa
 
 EṈaVē KaṬṬuPPāṬṬu ViLaiKKu ViṞKa MuṬiYāTa CūḺNiLai IRuKKiṞaTu
 
-*So there is a situation where unable to sell control*
-
 ![So there is a situation where unable to sell control](../../data/visual_dictionary/96f6252f.png)
+
+*So there is a situation where unable to sell control*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
@@ -269,9 +269,9 @@ EṈaVē KaṬṬuPPāṬṬu ViLaiKKu ViṞKa MuṬiYāTa CūḺNiLai IRuKKiṞ
 
 ĀKaVē KaṬṬuPPāṬṬu ViLaiYai NīKKuVaTaṞKuM ARiCi TaṬṬuPPāṬṬai NiVaRTTi CeYVaTaṞKu ARaCāṄKaM URiYa NaṬaVaṬiKKai EṬuKKuMāṞu PōRāṬṬaTTiL ĪṬuPaṬṬaVaRKaḶ KaRuTTu TeRiViTTaṈaR
 
-*Therefore, the protesters have suggested that the government take appropriate action to eliminate the control price and address the shortage of rice.*
-
 ![Therefore, the protesters have suggested that the government take appropriate action to eliminate the control price and address the shortage of rice.](../../data/visual_dictionary/87e80b21.png)
+
+*Therefore, the protesters have suggested that the government take appropriate action to eliminate the control price and address the shortage of rice.*
 
 எண்|**தமிழ்**|ISO|*English*
 ---|---|---|---
