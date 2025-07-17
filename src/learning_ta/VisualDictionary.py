@@ -36,12 +36,24 @@ class VisualDictionary:
 
     @staticmethod
     def generate_image(ta_word: str) -> str:
+        log.debug(f"Generating image for '{ta_word}'")
         image_file_path = VisualDictionary.get_image_file_path(ta_word)
         client = openai.OpenAI(api_key=OPENAI_API_KEY)
+        prompt = "".join(
+            [
+                "I am learning Tamil through visuals.",
+                " Create a vivid, realistic image that clearly represents",
+                f' the meaning of the Tamil word "{ta_word}".',
+                " Do not include any text in the image"
+                " — no letters, words, or symbols.",
+                " The image should be easily understood by",
+                " a novice Tamil learner.",
+            ]
+        )
+        log.debug(f"{prompt=}")
         response = client.images.generate(
             model=VisualDictionary.MODEL,
-            prompt="Generate an image"
-            + ' to represent the Tamil word: "{ta_word}"',
+            prompt=prompt,
             n=1,
             size=VisualDictionary.IMAGE_SIZE,
         )
