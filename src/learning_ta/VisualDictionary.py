@@ -1,4 +1,5 @@
 import os
+import shutil
 from functools import cache
 
 import openai
@@ -25,24 +26,36 @@ class VisualDictionary:
 
     @staticmethod
     @cache
-    def get_image_file_path(ta_word: str) -> str:
-        h = Hash.md5(ta_word)[:8]
-        os.makedirs(
-            VisualDictionary.DIR_DATA_VISUAL_DICTIONARY, exist_ok=True
+    def __get_image_file_path__(ta_word: str) -> str:
+        ta_word_dashed = ta_word.replace(" ", "-")
+        os.makedirs(VisualDictionary.DIR_DATA_VISUAL_DICTIONARY, exist_ok=True)
+        return os.path.join(
+            VisualDictionary.DIR_DATA_VISUAL_DICTIONARY,
+            f"{ta_word_dashed}.png",
         )
+
+    @staticmethod
+    @cache
+    def __get_image_file_path_hash__(ta_word: str) -> str:
+        h = Hash.md5(ta_word)[:8]
+        os.makedirs(VisualDictionary.DIR_DATA_VISUAL_DICTIONARY, exist_ok=True)
         return os.path.join(
             VisualDictionary.DIR_DATA_VISUAL_DICTIONARY, f"{h}.png"
         )
 
     @staticmethod
-    def generate_image(ta_word: str) -> str:
+    def __generate_image__(ta_word: str) -> str:
         log.debug(f"Generating image for '{ta_word}'")
-        image_file_path = VisualDictionary.get_image_file_path(ta_word)
+        image_file_path = VisualDictionary.__get_image_file_path_hash__(
+            ta_word
+        )
+        assert not os.path.exists(image_file_path)
+
         client = openai.OpenAI(api_key=OPENAI_API_KEY)
         prompt = "".join(
             [
                 "I am learning Tamil through visuals.",
-                " Create a vivid, realistic image that clearly represents",
+                " Create a vivid image that unambiguously represents",
                 f' the meaning of the Tamil word "{ta_word}".',
                 " Do not include any text in the image"
                 " — no letters, words, or symbols.",
@@ -58,6 +71,7 @@ class VisualDictionary:
             size=VisualDictionary.IMAGE_SIZE,
         )
         image_url = response.data[0].url
+        log.debug(f"{image_url=}")
 
         response = requests.get(
             image_url,
@@ -67,12 +81,16 @@ class VisualDictionary:
         if response.status_code == 200:
             with open(image_file_path, "wb") as f:
                 f.write(response.content)
-        log.info(f"✅ Downloaded {image_url} to {image_file_path}")
+        log.info(f"✅ Wrote {image_file_path}")
+
         return image_file_path
 
     @staticmethod
     def ta_to_image(ta_word: str) -> str:
-        image_file_path = VisualDictionary.get_image_file_path(ta_word)
+        image_file_path = VisualDictionary.__get_image_file_path_hash__(
+            ta_word
+        )
         if not os.path.exists(image_file_path):
-            return VisualDictionary.generate_image(ta_word)
+            VisualDictionary.__generate_image__(ta_word)
+
         return image_file_path

@@ -7,6 +7,7 @@ from utils import File, Log
 
 from learning_ta.Translator import Translator
 from learning_ta.Transliterate import Transliterate
+from learning_ta.VisualDictionary import VisualDictionary
 from news import NewsArticle
 from utils_future import List, Markdown
 
@@ -77,12 +78,15 @@ class Lesson:
             if not en_word:
                 continue
             i_row += 1
+            image_src = VisualDictionary.ta_to_image(ta_word)
+            image_md = f"![{cleaned_ta_word}]({image_src})"
             cell_list_list.append(
                 [
                     str(i_row),
                     Markdown.bold(cleaned_ta_word),
                     Transliterate.ta_to_iso(ta_word),
                     Markdown.italic(en_word),
+                    image_md,
                 ]
             )
         return [
@@ -92,6 +96,7 @@ class Lesson:
                     Markdown.bold("தமிழ்"),
                     "ISO",
                     Markdown.italic("English"),
+                    "Image",
                 ],
                 cell_list_list,
             )
