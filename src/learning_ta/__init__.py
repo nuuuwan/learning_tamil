@@ -1,4 +1,5 @@
 # learning_ta (auto generate by build_inits.py)
+# flake8: noqa: F408
 
 from learning_ta.Lesson import Lesson
 from learning_ta.TA_TO_ISO import TA_TO_ISO

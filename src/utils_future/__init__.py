@@ -1,4 +1,5 @@
 # utils_future (auto generate by build_inits.py)
+# flake8: noqa: F408
 
 from utils_future.List import List
 from utils_future.Markdown import Markdown

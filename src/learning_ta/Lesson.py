@@ -33,7 +33,9 @@ class Lesson:
 
     @property
     def md_path(self) -> str:
-        return os.path.join("data", "lessons", f"[{self.date}] {self.title}.md")
+        return os.path.join(
+            "data", "lessons", f"[{self.date}] {self.title}.md"
+        )
 
     @property
     def lines_article_data(self) -> list[str]:
