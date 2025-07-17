@@ -8,7 +8,7 @@ from news import NewsArticle
 log = Log("build_lessons")
 
 
-def main(limit: int):
+def get_latest_tamil_news_article_list(limit: int):
     news_article_list = NewsArticle.list_all()
     ta_news_article_list = [
         news_article
@@ -17,6 +17,11 @@ def main(limit: int):
     ]
     log.debug(f"Found {len(ta_news_article_list):,} Tamil news articles")
     latest_ta_news_article_list = ta_news_article_list[:limit]
+    return latest_ta_news_article_list
+
+
+def main(limit: int):
+    latest_ta_news_article_list = get_latest_tamil_news_article_list(limit)
     log.debug(
         f"Building lessons for {len(latest_ta_news_article_list):,} articles"
     )
@@ -29,5 +34,4 @@ def main(limit: int):
 
 
 if __name__ == "__main__":
-    limit = int(sys.argv[1])
-    main(limit)
+    main(limit=int(sys.argv[1]))
