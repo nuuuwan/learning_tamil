@@ -23,7 +23,9 @@ class NewsArticle:
 
     DIR_DATA_NEWS = os.path.join("data", "news")
     DIR_DATA_NEWS_ARTICLES = os.path.join(DIR_DATA_NEWS, "articles")
-    DIR_DATA_NEWS_ARTICLES_DETAILS = os.path.join(DIR_DATA_NEWS_ARTICLES, "details")
+    DIR_DATA_NEWS_ARTICLES_DETAILS = os.path.join(
+        DIR_DATA_NEWS_ARTICLES, "details"
+    )
     SUMMARY_TSV_PATH = os.path.join(DIR_DATA_NEWS, "summary.tsv")
 
     @classmethod
@@ -54,7 +56,7 @@ class NewsArticle:
     @cached_property
     def details_path(self) -> str:
         return os.path.join(
-           self.DIR_DATA_NEWS_ARTICLES_DETAILS, f"{self.hash}.json"
+            self.DIR_DATA_NEWS_ARTICLES_DETAILS, f"{self.hash}.json"
         )
 
     @cached_property

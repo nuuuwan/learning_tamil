@@ -18,7 +18,8 @@ class Translator:
     @cached_property
     def __idx_path__(self) -> str:
         return os.path.join(
-            Translator.DIR_DATA_TRANSLATOR, f"{self.lang_src}_{self.lang_dest}.idx"
+            Translator.DIR_DATA_TRANSLATOR,
+            f"{self.lang_src}_{self.lang_dest}.idx",
         )
 
     @property
