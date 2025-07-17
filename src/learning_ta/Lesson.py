@@ -17,6 +17,8 @@ log = Log("Lesson")
 class Lesson:
     news_article: NewsArticle
 
+    DIR_DATA_LESSONS = os.path.join("data", "lessons")
+
     @classmethod
     def from_news_article(Class, news_article: NewsArticle) -> "Lesson":
         return Class(
@@ -34,7 +36,7 @@ class Lesson:
     @property
     def md_path(self) -> str:
         return os.path.join(
-            "data", "lessons", f"[{self.date}] {self.title}.md"
+            Lesson.DIR_DATA_LESSONS, f"[{self.date}] {self.title}.md"
         )
 
     @property
@@ -137,5 +139,6 @@ class Lesson:
         return lines
 
     def write(self):
+        os.makedirs(Lesson.DIR_DATA_LESSONS, exist_ok=True)
         File(self.md_path).write_lines(self.lines)
         log.info(f"Wrote {self.md_path}")

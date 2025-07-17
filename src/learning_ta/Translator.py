@@ -9,6 +9,7 @@ log = Log("Translator")
 
 class Translator:
     GOOGLE_TRANSLATOR = GoogleTranslator()
+    DIR_DATA_TRANSLATOR = os.path.join("data", "translator")
 
     def __init__(self, lang_src, lang_dest):
         self.lang_src = lang_src
@@ -17,7 +18,7 @@ class Translator:
     @cached_property
     def __idx_path__(self) -> str:
         return os.path.join(
-            "data", "translator", f"{self.lang_src}_{self.lang_dest}.idx"
+            Translator.DIR_DATA_TRANSLATOR, f"{self.lang_src}_{self.lang_dest}.idx"
         )
 
     @property
@@ -31,6 +32,7 @@ class Translator:
         new_idx = self.__idx__
         new_idx[s] = translated_s
         new_idx = dict(sorted(new_idx.items()))
+        os.makedirs(Translator.DIR_DATA_TRANSLATOR, exist_ok=True)
         JSONFile(self.__idx_path__).write(new_idx)
 
     @cache

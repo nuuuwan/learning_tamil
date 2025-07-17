@@ -21,7 +21,10 @@ class NewsArticle:
     original_lang: str
     url: str
 
-    SUMMARY_TSV_PATH = os.path.join("data", "news", "summary.tsv")
+    DIR_DATA_NEWS = os.path.join("data", "news")
+    DIR_DATA_NEWS_ARTICLES = os.path.join(DIR_DATA_NEWS, "articles")
+    DIR_DATA_NEWS_ARTICLES_DETAILS = os.path.join(DIR_DATA_NEWS_ARTICLES, "details")
+    SUMMARY_TSV_PATH = os.path.join(DIR_DATA_NEWS, "summary.tsv")
 
     @classmethod
     def from_dict(Class, d: dict) -> "NewsArticle":
@@ -30,6 +33,7 @@ class NewsArticle:
     @classmethod
     def list_all(Class) -> list["NewsArticle"]:
         if not os.path.exists(Class.SUMMARY_TSV_PATH):
+            os.makedirs(Class.DIR_DATA_NEWS, exist_ok=True)
             raw_url = (
                 "https://raw.githubusercontent.com"
                 + "/nuuuwan/news_lk3_data/refs/heads/main/summary.tsv"
@@ -50,7 +54,7 @@ class NewsArticle:
     @cached_property
     def details_path(self) -> str:
         return os.path.join(
-            "data", "news", "articles", "details", f"{self.hash}.json"
+           self.DIR_DATA_NEWS_ARTICLES_DETAILS, f"{self.hash}.json"
         )
 
     @cached_property
@@ -61,6 +65,7 @@ class NewsArticle:
                 + "/nuuuwan/news_lk3_data/refs/heads/main"
                 + f"/articles/{self.hash}.json"
             )
+            os.makedirs(self.DIR_DATA_NEWS_ARTICLES_DETAILS, exist_ok=True)
             os.rename(WWW(url_details).download(), self.details_path)
             log.info(f"Wrote {self.details_path}")
         return JSONFile(self.details_path).read()
