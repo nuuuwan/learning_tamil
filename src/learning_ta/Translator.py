@@ -1,3 +1,4 @@
+import asyncio
 import os
 from functools import cache, cached_property
 
@@ -8,7 +9,6 @@ log = Log("Translator")
 
 
 class Translator:
-    GOOGLE_TRANSLATOR = GoogleTranslator()
     DIR_DATA_TRANSLATOR = os.path.join("data", "translator")
 
     def __init__(self, lang_src, lang_dest):
@@ -41,13 +41,15 @@ class Translator:
         s = s.strip()
         if not s:
             return ""
-        detected_land = self.GOOGLE_TRANSLATOR.detect(s).lang
-        if detected_land != self.lang_src:
-            return ""
 
-        result = self.GOOGLE_TRANSLATOR.translate(
-            s, src=self.lang_src, dest=self.lang_dest
-        )
+        async def inner():
+            translator = GoogleTranslator()
+            return await translator.translate(
+                s, src=self.lang_src, dest=self.lang_dest
+            )
+
+        result = asyncio.run(inner())
+
         if result:
             translated_s = result.text
             log.debug(f'"{s}" -> "{translated_s}"')
